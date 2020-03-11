@@ -1,0 +1,30 @@
+Namespace(dataset='./CS512', emb='emb_topics', exp=1.0, out_file='results.txt', pretrain='0', test='local', topic_file='topics.txt')
+./CS512/emb_topics_w.txt
+./CS512/emb_topics_t.txt
+./CS512/emb_topics_cap.txt
+{'0': 'text_mining', '1': 'heterogeneous_information_networks', '2': 'truth_discovery', '3': 'pattern_mining', '4': 'anomaly_detection', '5': 'recommender_systems'}
+1688
+
+text_mining ranking list:
+['text_mining', 'topic_modeling', 'machine_learning', 'documents', 'topics', 'topic_models', 'nlp', 'text', 'natural_language', 'text_data', 'topic', 'statistical', 'extraction', 'data_mining', 'retrieval', 'corpus', 'blei', 'clustering', 'topic_model', 'latent_dirichlet_allocation']
+
+heterogeneous_information_networks ranking list:
+['heterogeneous_information_networks', 'network', 'links', 'heterogeneous_information_network', 'heterogeneous', 'heterogeneous_network', 'heterogeneous_networks', 'types', 'hin', 'metapaths', 'hins', 'dblp', 'bibliographic_networks', 'dierent_types', 'relations', 'bibliographic_network', 'yizhou', 'schema', 'writtenby', 'multiple_types_of_objects']
+
+truth_discovery ranking list:
+['truth_discovery', 'sources', 'truth', 'estimation', 'source_reliability', 'observations', 'source', 'multiple_sources', 'heterogeneous_data', 'multisource', 'claims', 'conicts', 'heterogeneous_data_by_truth_discovery', 'resolving_conicts', 'claim', 'bayesian', 'longtail_phenomenon', 'truth_existence', 'crh', 'reporting']
+
+pattern_mining ranking list:
+['pattern_mining', 'frequent', 'transition_pattern', 'nding', 'definition', 'topk', 'subsequences', 'pattern', 'moving_object', 'sequential_pattern', 'partition', 'finding', 'frequent_patterns', 'periodic_behavior', 'trajectory_patterns', 'moving_objects', 'frequent_periodic', 'trajectory_pattern', 'frequent_pattern', 'sequence']
+
+anomaly_detection ranking list:
+['anomaly_detection', 'detection', 'detect', 'analysis', 'anomalies', 'fraud', 'anomalous', 'abnormal', 'detecting', 'anomaly', 'detected', 'classication', 'applications', 'clustering', 'eigenspacebased', 'outlier', 'change_detection', 'detects', 'spot', 'localization']
+
+recommender_systems ranking list:
+['recommender_systems', 'recommendation', 'recommendations', 'recommendation_systems', 'personalization', 'recommender', 'user_interface', 'transparency', 'ratings', 'evaluating', 'experience', 'user_experience', 'trust', 'collaborative_ltering', 'satisfaction', 'factors', 'inspectability_and_control', 'social_web', 'collaborative', 'social']
+text_mining: 1.029815
+heterogeneous_information_networks: 0.877218
+truth_discovery: 0.955999
+pattern_mining: 1.025559
+anomaly_detection: 0.771212
+recommender_systems: 0.917128

@@ -5,15 +5,15 @@ if [ -d "default_models" ]; then
 else
     MODELS_DIR=${MODELS_DIR:- models}
 fi
-MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+MODEL=${MODEL:- ${MODELS_DIR}/cate}
 if [ -d "default_data" ]; then
     DATA_DIR=${DATA_DIR:- default_data}
 else
     DATA_DIR=${DATA_DIR:- data}
 fi
-TEXT_TO_SEG=${TEXT_TO_SEG:- ${DATA_DIR}/EN/DBLP.5K.txt}
+TEXT_TO_SEG=${TEXT_TO_SEG:- ${DATA_DIR}/EN/cate_text.txt}
 HIGHLIGHT_MULTI=${HIGHLIGHT_MULTI:- 0.5}
-HIGHLIGHT_SINGLE=${HIGHLIGHT_SINGLE:- 0.8}
+HIGHLIGHT_SINGLE=${HIGHLIGHT_SINGLE:- 0.9}
 
 SEGMENTATION_MODEL=${MODEL}/segmentation.model
 TOKEN_MAPPING=${MODEL}/token_mapping.txt

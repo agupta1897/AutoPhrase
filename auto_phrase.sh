@@ -19,9 +19,9 @@ if [ -d "models" ]; then
 else
     MODELS_DIR=${MODELS_DIR:- default_models}
 fi
-MODEL=${MODEL:- ${MODELS_DIR}/DBLP}
+MODEL=${MODEL:- ${MODELS_DIR}/cate}
 # RAW_TRAIN is the input of AutoPhrase, where each line is a single document.
-DEFAULT_TRAIN=${DATA_DIR}/EN/DBLP.5K.txt
+DEFAULT_TRAIN=${DATA_DIR}/EN/cate_text.txt
 RAW_TRAIN=${RAW_TRAIN:- $DEFAULT_TRAIN}
 # When FIRST_RUN is set to 1, AutoPhrase will run all preprocessing. 
 # Otherwise, AutoPhrase directly starts from the current preprocessed data in the tmp/ folder.
@@ -86,7 +86,7 @@ if [ $FIRST_RUN -eq 1 ]; then
     echo -ne "Current step: Tokenizing wikipedia phrases...\033[0K\n"
     java $TOKENIZER -m test -i $ALL_WIKI_ENTITIES -o $TOKENIZED_ALL -t $TOKEN_MAPPING -c N -thread $THREAD
     java $TOKENIZER -m test -i $QUALITY_WIKI_ENTITIES -o $TOKENIZED_QUALITY -t $TOKEN_MAPPING -c N -thread $THREAD
-fi  
+fi
 
 ### END Tokenization ###
 
