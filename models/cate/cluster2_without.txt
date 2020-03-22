@@ -1,0 +1,6081 @@
+data
+paper
+support cooperative caching
+basic
+data accessibility and caching overhead
+trace-driven simulations
+significantly improves
+extensive tracedriven simulations
+signicantly improves
+extensively studied
+user queries
+section ii
+briey
+section iii
+section iv
+section describes
+caching scheme
+results
+performance evaluations
+section vi
+section vii
+hidden markov models
+prediction accuracy
+limited space
+general
+realistic dtn traces
+rst dene
+carefully selected
+discussed in section
+section ivb
+summarized in table
+cooperative caching
+probabilistic data
+knowledge
+dynamic programming
+algorithm
+heuristic
+closely related
+short
+performance evaluation
+experiment setup
+algorithms
+web data
+rst evaluate
+signicantly improved
+mobility characterization
+replication schemes
+raw data
+model
+classical
+performance metrics
+kalman lter
+experimental
+theoretical analysis
+databases
+rst attempt
+application scenario
+mobility scenarios
+key observation
+query result
+experiment results
+stateoftheart approaches
+content-based
+key components
+scalability
+computing
+proven
+wang et al
+careful design
+key derivation
+rst present
+section presents
+section discusses
+binary
+substring
+strings
+trees
+low quality
+highly scalable
+lightweight
+engine
+event dissemination
+rst introduce
+concrete
+cost model
+formally dene
+numeric attribute
+based matching
+completely dierent
+philosophy
+labels
+quantitative analysis
+semantics
+dierent types
+keyword based
+category hierarchy
+category tree
+categorized
+ontology
+construction
+label
+complement
+prex matching
+computationally ecient
+rst extracts
+key cache
+semantic
+key idea
+computational cost
+rst discuss
+propagation algorithm
+based algorithm
+network construction
+large scale
+inference algorithm
+java
+table shows
+kbs
+hash tables
+based approach
+computational overhead
+section presents experimental results
+maximum entropy
+table vii
+achieve high
+key issues
+approach requires
+nist
+reputation management
+graphs
+perfor mance
+existing studies
+computational challenges
+semantically rich
+extensive experimental studies
+real-life
+reallife datasets
+inuence strength
+tweets
+personalized recommendation
+signicantly improve
+unique challenges
+performing inference
+computational complexity
+alternative
+bipartite
+heterogenous network
+product network
+library
+successfully applied
+empirical evaluation
+signicant improvement
+section introduces
+presented in section
+types of entities
+tensor
+graph
+inuence propagation
+diusion model
+geometric structure
+fairly straightforward
+takes as input
+nave
+spirit
+prediction scheme
+empirically evaluate
+mining
+matlab
+case study
+challenging problem
+recommendation approach
+performance gain
+baseline approach
+linear complexity
+prediction model
+dierent settings
+approach achieves
+scheme outperforms
+inuence maximization
+multiple objects
+graphical
+recent works
+manifold
+topiclevel inuence
+heterogeneous networks
+prediction algorithm
+intermediate results
+ecient implementation
+resort
+incremental manner
+structural features
+matrixvector multiplication
+online computation
+partial materialization
+collaborative ltering
+structural information
+low dimensional
+key challenges
+multitype objects
+dierent types of objects
+comprehensive
+complexity analysis
+formal denitions
+intrinsic and contextual
+heterogeneous network
+produced
+traditional approaches
+source selection
+stream
+database
+image recognition
+existing approaches
+case studies
+pattern analysis
+low resolution
+multiple sources
+feature extraction
+multiple information sources
+qoi metrics
+specic applications
+dierent applications
+approximation algorithms
+sensitivity analysis
+discrete optimization
+approximation algorithm
+taxonomy
+judge
+text data
+performance improvement
+previous section
+hybrid
+mpeg
+wavelet
+iterative algorithm
+optimization techniques
+originally proposed
+optimization framework
+input parameters
+joint optimization
+linear model
+simple heuristics
+depicted in figure
+python
+node types
+convergence rate
+test
+hostname
+opensource
+table summarizes
+distributed algorithm
+unied framework
+unique characteristics
+multiple types
+unied model
+soft constraints
+dierent components
+probabilistic interpretation
+trustworthy information
+aspect
+noisy data
+precision and recall
+main components
+nds
+reinforcement learning
+axioms
+future study
+quantitative study
+categories and subject descriptors
+ordinal
+bayesian
+truth values
+relevant concepts
+syntax
+syntactic
+tests
+kripke semantics
+section explains
+language
+underlying intuition
+rst identify
+relative weights
+closure property
+desirable properties
+pattern language
+art
+moving object data
+object movement
+moving object
+movement data
+pattern mining
+periodic behavior mining
+swarm pattern mining
+mining periodic behaviors
+reference locations
+periodic patterns
+hierarchical clustering
+swarm patterns
+user-friendly
+interactive exploration
+real data
+zhenhui li et al
+additional key words and phrases
+moving objects
+periodic behavior
+swarm pattern
+telemetry
+rich semantics
+classication models
+training data
+object categories
+outlier
+periodic behaviors
+automatically extract
+frequent periodic patterns
+jeung et al
+real applications
+trajectory pattern
+movement pattern
+previous works
+related works
+frequent pattern
+periodic pattern
+moving clusters
+unknown periods
+detect periods
+eectiveness and eciency
+mining moving object data
+real datasets
+objectgrowth method
+ecient mining
+real and synthetic data sets
+introduced in section
+statistical results
+trajectory mining
+moving object databases
+cyclone
+trajectory patterns
+figure depicts
+missing points
+periodic pattern mining
+trajectory clustering
+statistics
+multiple periods
+fourier
+autocorrelation
+directly applied
+spatiotemporal data
+bardavid et al
+toy
+frequent periodic
+statistical information
+probabilistic modeling
+underlying periodic behaviors
+frequent patterns
+kernel method
+generative model
+problem denition
+frequently visited
+intuitive explanation
+detecting periods
+real cases
+period detection
+spatial information
+dense regions
+densitybased clustering
+detection methods
+continuous space
+computationally expensive
+spatial data
+smoothing parameter
+prior knowledge
+potential periods
+popular methods
+low frequency
+large periods
+discrete fourier transform
+clustering method
+distance measure
+formally present
+specic period
+clustering methods
+kullbackleibler divergence
+agglomerative clustering
+clustering process
+group of moving objects
+share similar
+closed swarms
+frequent pattern mining
+overlapping clusters
+specically designed
+search space
+apriori pruning rule
+backward pruning rule
+pruning
+closure checking
+postprocessing step
+preprocessing step
+object clusters
+search process
+closed frequent
+redundant search
+dierent parameters
+interpolation
+shown in table
+synthetic datasets
+synthetic data
+period detection algorithm
+ground truth
+manually labeled
+missing data
+parameter settings
+manual labeling
+relaxed temporal moving object clusters
+synthetic dataset
+group pattern
+minimum support
+future movement
+prediction method
+location prediction
+moving cluster
+trajectory outlier detection
+conduct experiments
+dimensionality reduction
+similarity search
+probabilistic clustering
+regression
+mixture models
+trajectory data
+motion patterns
+spatial and temporal
+mining frequent
+periodicity detection
+probabilistic models
+kernel methods
+sequential patterns
+large datasets
+itemset mining
+real trace
+proposed algorithm
+rst propose
+existing algorithms
+similarity metric
+global ranking
+local ranking
+previously proposed
+proposed method
+previous approaches
+synthetic mobility
+trace generation
+context free grammar
+grammar
+measuring similarity
+based method
+parsing
+application domain
+evaluation method
+generation process
+input data
+train
+error rate
+real world data
+based approaches
+main difference
+temporal information
+generation method
+generate synthetic
+probabilistic language
+natural language
+mobility modeling
+important issues
+originally introduced
+compose
+multiple classes
+based models
+linguistic
+worth mentioning
+sec
+real social network
+machine learning
+personalized models
+inference algorithms
+improved performance
+aggregate statistics
+bottomup approach
+topdown approach
+selection process
+contextual information
+fail to detect
+sparse sampling
+local features
+prediction models
+curse of dimensionality
+highdimensional data
+linear models
+modeling technique
+hierarchical structure
+predicting performance
+main challenge
+simpler models
+timeseries data
+data stream
+randomization
+data fusion
+sensor fusion
+training samples
+reconstruction
+shared features
+browsers
+streaming data
+supporting evidence
+scientic publications
+social community
+quantitative measure
+textual content
+discover communities
+image search
+semisupervised learning
+multidimensional data
+reliable modeling
+dynamic graphs
+modeling approach
+spectral properties
+vocabulary
+table lists
+iterative procedure
+present simulation results
+detailed analysis
+training phase
+positive and negative
+random walks
+optimization problems
+local and global
+weighted links
+empirical studies
+a weighting
+global optimum
+weighted heterogeneous
+computationally prohibitive
+exhaustive search
+search engines
+source and target
+previous sections
+nearest neighbor
+specic problem
+search problem
+network ow
+seed
+global optimization
+wikipedia
+dtn routing algorithms
+proposed recently
+nondeterministic
+sliding window
+proposed algorithms
+unlike previous
+tac
+distributed version
+challenging task
+benchmarking
+extended version
+context free
+manual inspection
+algo rithm
+role label
+interested reader
+automatically constructed
+based model
+lexical features
+decision tree
+radial
+support vector machines
+unlabeled data
+statistical model
+numerical values
+geometry
+libennowell and kleinberg
+probabilistic model
+treelike structure
+common words
+cosine similarity
+dierent datasets
+interesting ndings
+maximumlikelihood estimation
+directly applying
+large graphs
+inferring interests
+supplementary material
+hardness results
+approximate solution
+utility optimization
+solved optimally
+domain adaptation
+labeled data
+adaptation algorithms
+real-world data
+combined approach
+adaptation algorithm
+named entity recognition
+preposition sense
+realworld data
+stateoftheart results
+classier trained
+performs poorly
+daume iii
+statistical models
+nlp
+output space
+feature space
+source domain
+labeled examples
+weight vectors
+adaptation framework
+learning algorithm
+unlabeled adaptation
+labeled adaptation
+adaptation frameworks
+important issue
+labeled and unlabeled
+fe framework
+develop algorithms
+word clusters
+dependency parsing
+koo et al
+ratinov and roth
+brown cluster
+table comparison
+multitask learning
+mistake bound
+similar idea
+learning framework
+originally designed
+perceptron
+regularization terms
+greatly reduce
+labeled instances
+training and test
+training and testing
+training examples
+testing data
+previous experiment
+similarity measurement
+labeled training
+labeled datasets
+training set
+svm
+greedy approach
+conditional random field
+parameter selection
+baseline model
+conll shared task
+sparsity issue
+sparsity problem
+preposition
+global features
+based features
+brown clusters
+semantic role labeling
+acc
+realworld datasets
+multiple tasks
+joint learning
+hierarchical bayesian
+dual coordinate descent
+linear svm
+structure prediction
+structured output
+learning problem
+pos tags
+direct supervision
+indirect supervision
+large margin
+structure learning
+partofspeech pos
+roth yih
+transliteration
+english
+hebrew
+named entity
+inference steps
+prediction problems
+named entities
+binary decision
+chang et al
+latent structure
+prediction task
+optimization algorithm
+partofspeech tagging
+learning with indirect supervision
+learning process
+feature generation
+feature vectors
+highest score
+inference problem
+linear programming
+labeled set
+negative examples
+structural svm
+hamming distance
+loss functions
+labeled dataset
+highest scoring
+conditional random elds
+output variables
+latent variable
+latent structures
+yu joachims
+eisner
+optimization procedure
+positive examples
+efcient algorithm
+cutting plane
+working set
+coordinate descent method
+object recognition
+binary classication
+source language
+target language
+underlying entity
+manually annotated
+binary data
+rst column
+labeled pairs
+dictionary
+capitalization
+accuracy results
+unlabeled examples
+statistically signicantly
+domain specic
+signicantly boost
+inference procedure
+verb
+improves performance
+noun
+unsupervised learning
+structured data
+applied directly
+discriminative learning
+latent representations
+object detection
+structural svms
+machine translation
+penn
+relation identication
+structured prediction
+support vector machine
+joint approach
+method performs
+intermediate representations
+intermediate representation
+current systems
+textual entailment
+rst step
+paraphrase identication
+recognizing textual entailment
+rte
+surface forms
+features extracted
+extracting features
+latent representation
+inference process
+learning task
+classication task
+structured learning
+twostage approach
+annotated data
+gold
+ilp formulation
+feature representations
+logistic regression
+perform inference
+coordinate descent
+dependency relations
+current stateoftheart
+specially designed
+reciprocal rank
+romanization
+table experimental results
+verbs
+punyakanok et al
+features include
+wordnet
+negation
+coreference resolution
+bengtson and roth
+extract features
+lbj
+pos tagger
+edit distance
+word similarity
+sentence pairs
+previously published
+sentence pair
+table compares
+existing systems
+string matching
+inference framework
+easily parallelized
+guaranteed to converge
+orthographic
+proposed framework
+learning tasks
+superior
+step forward
+conditional random eld
+string similarity
+exact inference
+fact-finding
+hubs and authorities
+experiments demonstrate
+factnding algorithms
+conicting claims
+additional knowledge
+user intent
+readily extended
+combinatorial
+computationally tractable
+wiki
+key steps
+community discovery
+outperforms existing
+image annotation
+text content
+edit wars
+conict resolution
+revision history
+optimal partitioning
+latent topics
+signed networks
+simulated annealing
+indepth analysis
+latent space
+semantically meaningful
+detecting communities
+spectral clustering
+directly applicable
+local minimum
+local partitioning
+efcient manner
+topical content
+latent topic
+topic models
+extract meaningful
+raw text
+latent dirichlet allocation
+widely adopted
+text retrieval
+term frequency
+lda model
+text corpus
+training corpus
+topic vector
+network statistics
+existing methods
+greedy search
+discovery algorithm
+signed network
+combinatorial optimization
+evaluation criteria
+hillclimbing
+partitioning problem
+xml
+original paper
+synthetic and real
+competing algorithms
+local minima
+clustering algorithm
+number of clusters
+hard problem
+signicance level
+selected topics
+continuous domain
+synopsis construction
+underlying data
+approximate query
+extensive experimental
+proposed methods
+stateoftheart method
+database management
+probabilistic database
+answer set
+query results
+answering queries
+large scale data
+interesting patterns
+chebyshev polynomials
+minimax
+perform poorly
+space budget
+problem statement
+error bound
+polynomial interpolation
+accurate results
+adaptive coefcient allocation
+similar distributions
+real dataset
+competing methods
+previous methods
+key properties
+signicant improvements
+intermediate step
+answer queries
+uncertain data
+interpolating
+coefcient allocation
+approximation methods
+efcient computation
+entire collection
+discussed earlier
+key step
+clustering based
+distance metric
+perform clustering
+clustering results
+computationally intensive
+rst analyze
+clustering quality
+relative distance
+signicantly outperforms
+consistently performs
+probabilistic threshold
+statistical analysis
+rst examine
+main advantage
+summarization techniques
+improved accuracy
+implemented in matlab
+signicant gains
+topk query
+efcient algorithms
+distance measures
+query evaluation
+approximation theory
+source code
+trust updates
+proposed approach
+typical approach
+wang and singhs
+trust update method
+trust update
+manual tuning
+behavior proles
+trust update methods
+section evaluates
+section concludes
+trust propagation
+concatenation
+performs worse
+section shows
+accuracy measurement
+average accuracy
+main contribution
+sanity check
+main dierence
+dierent kinds
+competitive results
+recent results
+random seed
+dierent approaches
+highly accurate
+parameter tuning
+rank test
+approach works
+mallow
+ranking methods
+web images
+transfer learning
+image data
+image features
+class labels
+visual features
+text and images
+text features
+image feature
+text and image
+feature transformation
+classification task
+text corpora
+visual concepts
+learning algorithms
+knowledge transfer
+label propagation algorithm
+automatically detect
+transfer process
+present experimental results
+distance metrics
+heterogeneous domains
+main goal
+image and text
+distance functions
+feature representation
+domain expert
+feature selection
+image domain
+detection schemes
+section iiid
+deterministic and probabilistic
+multiple real world
+link prediction
+np-hard
+real and synthetic datasets
+naive approach
+demand cover
+practical applications
+temporal constraints
+query processing
+vii concludes
+indexing techniques
+series of snapshots
+problem description
+baseline approaches
+breadthrst search
+index structure
+traditional methods
+gps trajectory
+open source
+plan to extend
+acknowledgements research
+approximate matching
+transitive closure
+network discovery
+traceroute
+rst provide
+large networks
+abuse resistance
+trust scores
+scheme called
+problem definition
+intrusion detection
+kmeans clustering algorithm
+search algorithm
+comparative analysis
+revocation scheme
+bootstrapping
+disambiguation to wikipedia
+word sense disambiguation
+link structure
+document text
+chinese
+mobile crowdsensing applications
+traffic data
+pattern extraction
+complex data
+detection application
+outliers
+sensing tasks
+add noise
+continuous data
+silo
+automatically identify
+programming language
+crowdedness detection
+straightforward method
+artifact groups
+dblp
+ranking algorithms
+ranking performance
+ranking algorithm
+clustering algorithms
+heterogeneous links
+tripartite graph
+varying sizes
+gaussian mixture model
+rdf
+google scholar
+venue information
+figure performance
+ranking model
+significantly improve
+overlapping clustering
+credibility score
+credibility scores
+keyword search
+text analysis
+feature set
+personality factor
+additional features
+unix
+previous results
+linear regression
+weka
+fold crossvalidation
+gaussian processes
+product reviews
+easy to implement
+existing techniques
+fine-grained
+hidden markov model
+negrained mobility
+hmm model
+hmm states
+evaluation results
+probabilistic distribution
+training sets
+expectationmaximization em algorithm
+empirical parameters
+prediction methods
+modied version
+largescale networks
+gaussian process
+rst study
+higher accuracy
+clustering approach
+maximum likelihood
+incomplete data
+em algorithm
+input sequence
+user interests
+usercentric data dissemination
+main idea
+probabilistic framework
+provide theoretical
+problem formulation
+section viii concludes
+formally dened
+equal weights
+socialaware data diffusion
+transient contact patterns
+existing works
+resource description framework
+keyword similarity
+multiple attributes
+training dataset
+comparison results
+extensive experiments
+empirical study
+transient node contact patterns
+dtn traces
+section ivc
+existing data forwarding
+performance comparison
+main focus
+extensive tracedriven
+hierarchical relationships
+linked objects
+role discovery
+noisy links
+supervised setting
+dependency rules
+graphical model
+domains demonstrate
+newly designed
+explicitly specied
+hierarchical relationship
+search intent
+supervised learning
+generally applicable
+partially ordered
+relative importance
+learning methods
+specic domains
+multiple features
+propagation rules
+assigning weights
+hard constraints
+singleton potential
+text mining
+language processing
+plain text
+entity relationship
+knowledge base
+textual features
+unsupervised and supervised
+reply relationship
+web search
+search intents
+supervised approaches
+advisoradvisee relationships
+coauthor network
+relation instance
+prediction problem
+joint model
+rela
+inference method
+classication problem
+pointwise
+classication model
+roth and yih
+method works
+heterogeneous information
+probabilistic graphical model
+map inference
+factor graph
+specic feature
+feature description
+child support
+textual similarity
+authority propagation
+similarity measure
+content similarity
+linked nodes
+support pattern
+statistical methods
+relation instances
+avoid overtting
+fully labeled
+computed efciently
+lbfgs algorithm
+feature weights
+efcient inference
+inference methods
+special structure
+loopy belief propagation
+belief propagation
+cplex
+relationship discovery
+evaluation measure
+figure lists
+prediction results
+anc
+similarity measures
+ontologies
+quantitative evaluation
+harmonic
+proposed measures
+mutual information
+mallet
+entity relation
+discovery problem
+slot lling
+relation types
+post processing
+freebase
+context sentences
+search engine
+pattern matching
+prediction performance
+ranking svm
+technique developed
+ranking problem
+relevant document
+pairwise features
+learning method
+achieves higher
+condence estimation
+theodore roosevelt
+online discussion
+expert nding
+cross domain
+stateoftheart supervised
+partially labeled
+performance measures
+tree structure
+knowledge propagation
+active learning
+thread structure
+related problems
+limited memory
+text analytics
+relation extraction
+slot filling
+document collection
+query entity
+question answering
+topdown and bottomup
+crossslot reasoning
+stateoftheart performance
+kbp
+slot filling task
+source collection
+slot types
+query expansion
+candidate sets
+individual systems
+query and answer
+entity type
+regular expressions
+development set
+candidate answers
+entity types
+ji et al
+relations and events
+ace
+relation extraction and event extraction
+incorporating diverse lexical
+ontological
+event types
+entity mentions
+slot type
+event extraction
+trigger word
+event type
+open domain
+kbp slot filling
+sentence level
+relevance scores
+correct answers
+ranked list
+candidate answer
+stop words
+qa pipeline
+statistical reranking
+supervised reranking
+answer validation
+statistical relational learning
+inference rules
+data and scoring metric
+answer key
+scoring metric
+recall and fmeasure
+table presents
+query template
+answer keys
+approach achieved
+dee dee myers
+relevance score
+moro national liberation front
+text collection
+based methods
+huang et al
+akppm scheme
+authors proposed
+source identication
+rst build
+extensive simulation
+cross-document
+document summarization
+sentence ranking
+multidocument summarization
+summarization task
+automatic content extraction ace
+dynamic event
+produce reliable
+confidence values
+significant improvement
+the nist text analysis conference
+task involves
+newswire documents
+document set
+document frequency
+length constraint
+sentence compression
+dependency tree
+input documents
+expression extraction
+training corpora
+event coreference
+event tracking
+topically related
+related documents
+event instances
+provide details
+entity extraction
+push up
+sparse data
+partofspeech tags
+baseline summarizer
+lexical forms
+event triggers
+deep semantic
+multiple documents
+similarity computation
+source documents
+estimation method
+simple linear
+approach overview
+redundancy removal
+event mention
+relation type
+event arguments
+event mentions
+evaluation metrics
+blind test
+wilcoxon matchedpairs signedranks test on
+event detection
+user feedback
+error analysis
+sentence extraction
+higher coverage
+entity resolution
+content units
+pyramid
+crosslingual information
+sfu
+automatic evaluation
+unsupervised approach
+entity linking
+regular slot filling
+previous efforts
+entity surface
+absolute improvement
+vector space model
+diagnostic test
+external knowledge base
+microaverage accuracy
+vsm model
+knowledge base kb
+semantic features
+lucene
+kb text
+candidate kb
+acronym
+candidate generation
+nal answer
+nil and nonnil
+cooccurrence information
+similar documents
+levenshtein distance
+condence values
+ji and grishman
+external knowledge bases
+nal output
+regular expression
+abbreviation
+general pattern
+dependency parser
+rule based
+entity coreference resolution
+source document
+dependency parse
+retrieve relevant
+tuning parameters
+extremely challenging
+query mention
+singapore national football team
+rst run
+external knowledge
+entity linking task
+query set
+candidate selection
+candidate list
+world knowledge
+anchor text
+unsupervised approaches
+entity disambiguation
+crossdocument inference
+automatically generated
+noisy vertices
+overlapping communities
+subnetwork
+overlapping community detection
+community detection algorithms
+np hard
+change point detection
+additional details
+standard library
+proteinprotein interaction
+ppi networks
+undirected and unweighted
+detecting overlapping
+lens
+numerical method
+cluster aggregation
+networks with arbitrary degree distributions
+geographic region
+statistical features
+dicult to solve
+domain-independent
+event discovery
+event annotation
+bilingual sentence
+event argument
+scientific literature
+shared tasks
+automatically discover
+event trigger
+carbon sequestration
+parallel corpora
+trigger clustering
+english verbs
+word alignment
+semantic similarity
+word sequences
+trigger words
+ney
+pradhan et al
+argument labeling
+hierarchical approach
+argument roles
+annotation cost
+ace event
+ranking results
+directly comparable
+annotation task
+trigger labeling
+reservoir
+semantic distance
+lexical semantics
+automatic content extraction
+annotation guidelines
+mining relaxed temporal moving object clusters
+cluster detection
+pseudo code
+warping
+longest common
+subspace clustering
+clustering technique
+swarm mining
+performance study
+figure eectiveness
+iterative renement
+frequent itemset
+frequent closed
+kmeans algorithm
+iterative framework
+trajectory dataset
+rst sample
+easily adapted
+search methods
+search tree
+graph query
+graph indexing
+graph search
+contributes to inarc i3
+graphstructured data
+subgraph isomorphism
+query graph
+graph query processing
+large graph
+key ingredient
+bibliographic information network
+coauthorship graph
+query performance
+query optimization
+subgraph matching
+original query
+main contributions
+pattern based
+real and synthetic networks
+algorithmic framework
+dierent structural
+straightforward approach
+structural constraints
+indexing mechanism
+small graphs
+query decomposition
+path selection
+induced graph
+exact matching
+worth noting
+path queries
+diskresident graphs
+yeast protein interaction
+biological network
+subgraph queries
+query languages
+real data sets
+graph matching
+query language
+indexing scheme
+graph isomorphism
+isomorphism
+saga
+results on synthetic data
+relational model
+sql
+graph database
+specialized areas
+sparql
+dierent categories
+answer graph
+hash table
+iterator
+rdbms
+gene ontology
+massive network
+web documents
+remaining challenges
+knowledge base population kbp track
+individual documents
+relevant documents
+evaluation methodology
+kb entry
+kb entries
+multiple values
+english wikipedia
+microaveraged accuracy
+recall precision recall precision
+interannotator agreement
+person entities
+hyperlink
+candidate ranking
+structured information
+hyperlinks
+disambiguation pages
+graphbased ranking
+annotated training data
+automatically extracted
+graphbased reranking
+search task
+entity mention
+background knowledge
+aol
+query reformulation
+query log
+extraction techniques
+combining multiple
+traditional supervised
+limited coverage
+document level
+pattern learning
+multiple iterations
+distant supervision
+related tasks
+surdeanu et al
+extraction method
+training instances
+mention detection
+dbpedia
+unstructured data
+manually constructed
+existing knowledge bases
+relation mention
+large corpora
+crossdocument coreference
+relevance feedback
+information network construction
+comparable corpora
+cross-lingual
+weakly-supervised
+translation
+bilingual information networks
+web pages
+realworld applications
+fall short
+methods require
+document clustering
+concept extraction
+concept similarity
+entire corpus
+idf
+ace event extraction
+structured knowledge
+richer information
+simple rules
+question answering qa
+dependency paths
+majority voting
+network alignment
+information network
+pinyin
+key frames
+automatic speech recognition
+document pairs
+fully automatic
+approach outperforms
+web mining
+tarrytown
+word vectors
+similarity based
+document similarity
+foreign language
+multiple approaches
+document retrieval
+distillation
+entity graph
+topic diffusion and evolution
+joint inference
+textual documents
+topic evolution
+topic modeling
+gaussian markov random
+evolutionary
+social inuences
+mixture model
+common practice
+user studies
+hashtag
+tweet
+topic diffusion
+content and linkage
+text information
+scientic papers
+tide
+primitive topic
+general semantics
+document dj
+documents and topics
+extensive studies
+highly related
+timestamped documents
+original version
+topic model
+multiple topics
+topic snapshots
+generative process
+word distribution
+heterogenous networks
+parameter estimation
+expectation maximization em algorithm
+citation information
+citation relations
+dynamic topic models
+textual information
+quantitatively evaluate
+evaluation metric
+statistical signicance
+experiments on real world
+baseline models
+word distributions
+cited paper
+case study on real
+cohens kappa
+selected tweets
+table case study
+highest accuracy
+temporal graph
+topic distribution
+markov random field
+random field
+hidden topics
+pachinko
+local consistency
+modeling information diffusion
+multiple typed
+heterogeneous information networks
+document analysis
+multityped objects
+homogeneous networks
+heterogeneous information network
+biased propagation
+topic propagation
+biased random walk
+biased regularization framework
+dierent perspectives
+stateoftheart techniques
+information storage and retrieval information search
+experimentation keywords
+object clustering
+bibliographic data
+authors and venues
+types of objects
+rich text
+mutually enhance
+text documents
+highly desirable
+probabilistic latent semantic analysis plsa
+context similarity
+dierent objects
+latent semantic
+joint regularization framework
+biased regularization
+baseline method
+conduct extensive experiments
+homogeneous information network
+section briey
+extensive experimental results
+formally introduce
+related concepts
+bag of words
+bibliographic network
+proposed model
+user specied
+latent topic model
+document content
+standard em
+connected documents
+topic distributions
+topic level
+iteratively updated
+citation graph
+relevant papers
+joint regularization
+heterogeneous graph
+smoothness
+generalized em
+stateoftheart methods
+unique terms
+nonnegative matrix factorization nmf
+authortopic model
+rankingbased clustering
+plsa and lda
+empirically set
+normalized mutual information nmi
+clustering performance
+document clusters
+normalized mutual information
+clustering result
+dierent methods
+link information
+baseline methods
+regularization framework
+learning based
+classication algorithm
+web based
+text search
+classication algorithms
+slightly dierent
+related terms
+geographical topic
+ltm
+content information
+search results
+propagation method
+graphbased semisupervised learning
+global consistency
+latent topic models
+nonnegative matrix factorization
+geographical topic discovery and comparison
+learning with local and global consistency
+multi-source
+anomaly detection
+clustering structure
+datasets demonstrate
+spectral methods
+pairwise similarities
+horizontal anomaly
+horizontal anomalies
+multiview clustering
+consensus clustering
+detect anomalies
+similarity matrix
+clustering structures
+hoad algorithm
+clustering solutions
+similarity matrices
+soft clustering
+rst perform
+lowdimensional space
+nal step
+distance function
+benchmark datasets
+detection problem
+feature values
+class label
+auc
+random sampling
+generally outperforms
+feature sets
+detection tasks
+large data
+pairwise similarity
+similar authors
+popular movies
+similarity graph
+anomaly detection methods
+cluster ensemble
+novelty detection
+statistical approaches
+multiple views
+classification results
+ranking and classication
+highly ranked
+mutually enhancing
+classication framework
+ranking distribution
+specic class
+classication methods
+networked data
+traditional classication
+naturally represented
+multiple types of objects
+papers and venues
+ranking scheme
+classication results
+accurate classication
+ranking scores
+withinclass ranking
+ranked high
+ranking quality
+classication accuracy
+rankingbased classication
+representative algorithms
+ranking score
+web objects
+collective classication
+label propagation
+ensemble methods
+newly proposed
+mutual enhancement
+representative objects
+labeled objects
+network schema
+relation matrices
+homogeneous network
+formal denition
+object type
+intuitive idea
+graphbased learning
+object types
+publication venue
+theoretical foundation
+graphbased regularization framework
+link type
+authority scores
+ghz cpu and gb memory
+transductive classication
+nlb
+authors and papers labeled
+acpt acpt
+naturally form
+achieves comparable
+classication performance
+condence score
+condence scores
+ranking lists
+web text
+generate meaningful
+previous experiments
+online learning
+univariate
+hypergraph
+multilabel classication
+manifolds
+incomplete attributes
+inarc i3
+difcult task
+linkbased clustering
+clustering problem
+link types
+effectiveness and efciency
+underlying clusters
+interesting applications
+publication venues
+text attributes
+numerical attributes
+problem setting
+iterative method
+type information
+node type
+attribute information
+clustering task
+cluster memberships
+gaussian distributions
+term distribution
+categorical and numerical
+ac network
+knearest neighbors
+effectiveness study
+clustering accuracy
+similarity function
+similarity scores
+mean average precision map
+incomplete observations
+cluster labels
+similarity functions
+efciency study
+figure scalability
+community detection
+star network
+categorical attributes
+attribute types
+temporal smoothness
+probabilistic latent semantic analysis
+evolutionary clustering
+meta path
+similarity search in heterogeneous information networks
+meta level
+meta paths
+experiments on real data sets
+similar objects
+i3
+largescale heterogeneous
+bibliographic networks
+similarity semantics
+meta pathbased similarity
+randomwalk based
+online query processing
+topk results
+typed objects
+personalized pagerank
+cp ap
+directly apply
+publication records
+topk search
+based pruning
+random walkbased
+topk similarity search
+links exist
+relational database
+apa
+multiple relations
+coauthor relation
+commuting matrices
+single meta path
+online queries
+matrix mp
+optimization methods
+rst apply
+rst select
+pairwise comparison
+computational costs
+rst generates
+coclustering algorithm
+mca
+venue type
+discounted cumulative gain
+normalized cut
+numerical data
+nearest neighbor search
+high dimensional data
+nding topk
+numerical features
+topk answers
+esa
+application scenarios
+weight learning
+discover interesting
+dice
+aggregation algorithms
+fast algorithms
+matrix decomposition
+technical details
+feature type
+experiment setting
+search strategy
+cacac
+query execution
+weight assignment
+critical problem
+query image
+meta pathbased topk similarity search
+relational databases
+pattern discovery
+pattern-growth
+large patterns
+outperforms existing methods
+topk largest patterns
+ecient algorithms
+web structure mining
+dblp coauthorship
+frequent subgraph
+frequent subgraphs
+downward closure
+large sparse
+structure called
+subgraph patterns
+pattern set
+moss
+closed patterns
+origami
+dif ferent
+works include
+structural similarity
+edge labels
+labeled graphs
+pattern growth
+detect overlapping
+patterns discovered
+topk patterns
+pattern space
+spiderset representation
+theoretical bounds
+implemented in java
+openjdk
+massive networks
+approximate algorithm
+patterns mined
+minimum support threshold
+runtime complexity
+substructure discovery
+semistructured data
+finding frequent
+massive graphs
+hadoop
+coauthor relationship
+node labels
+variance minimization
+gaussian random
+parameter-free
+label selection
+real world data sets
+discriminant
+image retrieval
+labeled nodes
+selection criteria
+gaussian eld
+ecient computation
+sequential optimization
+reallife data sets
+true labels
+standard method
+unlabeled nodes
+rst construct
+lsc
+multiclass classication
+realworld data sets
+sonorant
+handwritten digit
+testing set
+coauthor graph
+key advantage
+learning models
+transductive learning
+point locations
+qualifier expectation
+candidate trajectories
+knn query
+data structure
+exact match
+knnt query
+trajectory database
+spatial queries
+knn queries
+taxi trajectories
+stateoftheart algorithms
+recently proposed
+related studies
+final results
+spatial query processing
+pop
+partialmatching candidates
+lager
+platform with jdk
+complex queries
+proposed techniques
+times faster
+spatial databases
+multiple systems
+location and trajectory
+heterogeneous bibliographic network
+tightly integrated
+bibliographic information networks
+homogeneous graphs
+linked entities
+multiple snapshots
+related objects
+probabilistic generative model
+expectation maximization
+cko
+cluster centroids
+successive snapshots
+performing clustering
+social stability
+interesting results
+kmeans clustering
+ranking techniques
+homogeneous graph
+evolutionary spectral clustering
+mdl principle
+supervised model
+heterogeneous topological features
+relationship building
+meta pathbased
+relationship prediction
+coauthor relationships
+designed for homogeneous networks
+predicting future
+heterogeneous bibliographic networks
+dblp bibliographic network
+heterogeneous types
+coauthor relationship prediction
+frequent phrases
+sequential pattern mining
+dblp network
+coauthorship prediction
+topological features in heterogeneous networks
+rst review
+supervised framework
+citation relation
+topological features
+pathbased features
+rst extract
+training datasets
+fold cross validation
+rst compare
+false positive ratetrue positive rate
+accuracy auc
+table viii
+query author
+unsupervised methods
+supervised methods
+supervised link prediction
+dependency relation
+cold start
+dynamic social inuence analysis
+inuential users
+pfg model
+dynamic social inuence
+factor graph model
+greedy approximation algorithm
+indirect inuence
+approximate inference
+inuence analysis
+inuence score
+perform experiments
+lms
+optimization algorithms
+baseline algorithms
+geo-friends
+traditional link prediction
+geographically related
+pattern-based
+link relevance
+method outperforms
+geofriends recommendation
+cyberphysical social network
+web content
+friend recommendation
+raw gps
+synthetic and realworld datasets
+gps pattern
+data model
+geo friends
+cyber physical social network
+query person
+rst convert
+scat
+sequential pattern
+rst calculate
+permutation
+pattern selection
+recommendation framework
+link pattern
+statistical approach
+synthetic and real datasets
+cellular tower
+popular method
+gps location
+recommend friends
+link space
+precision recall
+methods random sameedge gpssim
+blt
+rwr gefr
+method nds
+discriminative patterns
+random sameedge gpssim rwr gefr
+random walk based
+link recommendation
+received increasing attention
+hard to interpret
+interesting future work includes
+friends recommendation
+graph clustering
+probabilistic topic
+multi-typed
+topic based
+text document
+accuracy nmi
+table reports
+comparable performance
+search tasks
+queries and web pages
+popular search tasks
+search log
+classification algorithms
+search performance
+topic detection
+web page
+graphbased regularization
+forum discussions
+commercial search engine
+semisupervised classication
+google search
+clickthrough information
+click graph
+fully exploit
+clickthrough data
+implicit links
+content features
+main categories
+task denition
+yin et al
+labeled and unlabeled examples
+manifold regularization
+search queries
+wellstudied problem
+query logs
+task phrases
+extracting entities
+query task phrases
+similar words
+knearest neighbor
+feature spaces
+entity names
+simple linear regression
+constructed heterogeneous graph
+symmetric matrices
+contentbased features
+laplacian regularized least squares laprls
+supervised classiers
+regularized least squares
+consistently outperforms
+search ranking
+ranking function
+parameter sensitivity
+future queries
+ranking models
+query intent
+text classication
+implicit and explicit
+object classication
+writing style
+rewrite rules
+experiments on real-world
+authorship classication
+text categorization
+classication problems
+topic classication
+greatly improved
+kee subtree
+kee subtrees
+patternbased classication
+candidate patterns
+feature set of kee
+main steps
+word ngrams
+conducted experiments
+pca
+structure information
+determiner
+syntactic structure
+document representation
+min ing
+number of discriminative patterns
+discriminative pattern
+discriminative power
+highest scores
+experiments section
+sequential coverage
+iterative approach
+classication tasks
+improve accuracy
+linear kernel
+evaluation purposes
+table accuracy
+accuracy comparison
+feature combination
+decision trees
+eective classication
+deep linguistic analysis
+heterogeneous data
+relevance model
+concept classes
+database management database applications data mining
+user click
+user concept
+demography
+search query
+relevance measure
+dierent tasks
+inferring user interests
+dierent features
+relevance feature
+web directory
+fast access
+matching algorithm
+input text
+dierent sources
+source weights
+user belongs
+noise reduction
+matrix representation
+bilinear
+transformation matrix
+generalized linear model
+stochastic gradient descent
+online learning algorithm
+relevance features
+performance studies
+topic hierarchy
+open directory project
+preliminary study
+low coverage
+dierent weights
+relevance models
+random guessing
+learned weights
+important features
+implicit user interests
+highly relevant
+user preferences
+complex models
+joint feature selection and subspace learning
+experiments on benchmark face recognition data
+zhenhui li and jiawei han
+feature selection and subspace learning
+subspace learning
+projection matrix
+relevant features
+discriminative features
+principal component analysis
+linear discriminant analysis
+sparse subspace learning
+sparse pca
+norm regularization
+greedy algorithms
+ssl
+sparse subspace
+lasso
+theoretically guaranteed
+lowdimensional vector
+linear discriminant
+fisher score
+face recognition
+face images
+linear subspace
+related methods
+joint framework
+kernel space
+scale transfer
+nonnegative matrix
+lee and seung
+great success
+matrix trifactorization
+shi and malik
+benchmark data sets
+matrix factorization
+convergence analysis
+tin
+cube
+warehousing and olap
+olap
+online analytical processing
+traditional data cube
+multidimensional space
+perform extensive
+data warehouse
+multidimensional analysis
+preference patterns
+multidimensional spaces
+data warehousing
+core competency
+aggregate networks
+levels of granularity
+integrated framework
+crossboid query
+traditional olap
+implementation details
+aggregate function
+aggregate functions
+crossboid queries
+dimensional data
+sampling methods
+query workload
+user input
+iceberg
+text cube
+multidimensional text database
+differentially private
+enforce consistency
+aggregate counts
+noise control
+approximation guarantees
+noisy measure
+straw man
+kall and kbase
+efcient implementation
+brute force
+maximum coverage problem
+statistical guarantees
+figure varying
+approximate solutions
+online version
+haar wavelet
+comparative study
+moment generating function
+analytical queries
+database management database applicationsdata mining
+promising results
+entity discovery
+online query
+query answering
+multiple data sources
+web application
+parallel paths
+typed entities
+record linkage
+anchor texts
+method achieves
+multityped entities
+challenging issues
+link paths
+unstructured text
+formal methods
+web interface
+business card
+trajectory pattern ranking
+representative trajectory patterns
+geotagged social media
+frequent trajectory patterns
+user tags
+datasets including
+ranking result
+ne granularity
+clustering step
+desired properties
+authority score
+cumulative gain
+edit distances
+location recommendation
+search result
+framework called
+hierarchical graph
+inference model
+canonical correlation
+temporal features
+geographical topics
+gpsassociated documents
+dierent topics
+locationdriven model
+textdriven model
+topic comparison
+geographical distribution
+dierent regions
+discover topics
+dierent models
+topic discovery
+table notations
+based clustering
+gion
+text feature
+meaningful topics
+analysis framework
+ldm and geofolk
+discover meaningful
+topi
+national parks
+quantitative measures
+generalization performance
+content analysis
+content management
+explicitly model
+generative models
+image classication
+sentiment analysis
+comparative text mining
+dom tree
+hierarchical manner
+academic department
+rst nds
+link structures
+significantly outperforms
+method signicantly outperforms
+deep web
+patent
+set expansion
+trust analysis
+true facts
+true values
+clustering and ranking
+fact finder
+dierent clusters
+truth discovery
+key issue
+trustworthiness analysis
+false alarms
+meaningful information
+method called
+trustworthy alarms
+objectalarm graph
+manually label
+authors propose
+trustworthiness scores
+trustworthiness inference
+object pruning
+yields higher
+background and preliminaries
+entire dataset
+sampling approach
+sampling algorithm
+object locations
+sampling method
+rst retrieves
+small dataset
+visual cube
+analytical processing
+multi-dimensional
+granularity levels
+online analysis
+open problems
+contentbased image
+similar images
+aggregation selection
+image database
+meta information
+color histogram
+topk representative
+cluster centers
+raw database
+bitmap
+save space
+idb
+individual points
+static and dynamic
+principle component analysis
+yaxis denotes
+highest quality
+topic-level
+greatly improve
+direct inuence
+eectively and eciently
+content and link information
+propagation process
+close relationship
+modeling framework
+topic assignment
+cited authors
+gibbs sampling
+aggregation function
+user behavior prediction
+eciency and eectiveness
+association rule mining
+inuence prediction
+user similarity
+quality measure
+testing samples
+prediction precision
+variational inference
+cora data
+object oriented
+meaningful results
+jointly model
+citation relationships
+multirelational data
+classification accuracy
+existing stateoftheart
+title suppressed due to excessive length
+relational learning
+probabilistic relational
+graphbased methods
+classication process
+user preference
+multiple types of relationships
+heterogenous information
+dierent ways
+algorithmic approach
+galland et al
+pasternack and roth
+homogeneous and heterogeneous
+brin and page
+trustworthiness score
+important observation
+source trustworthiness
+liberal
+reliability scores
+speculative
+performance comparisons
+split prediction
+data replication
+efcient broadcasting
+arima
+intuitive approach
+estimated model
+bestlocation data replication
+replication algorithm
+scalable distributed
+rst formulate
+facility location
+bestlocation data replication algorithm
+detect abnormal
+proposed solution
+graph coloring
+constraint satisfaction
+unit tasks
+unit task
+image labeling
+simple models
+dierent designs
+quality metric
+optimized designs
+baseline comparisons
+image labeling task
+initial experiments
+task description
+learned models
+large dataset
+sinusoidal
+learning techniques
+taxonomic
+existing knowledge
+experimental evaluation
+hearst
+incorporating prior knowledge
+first-order logic
+factnding algorithm
+rstorder logic
+integer linear programs
+linear programs
+performance improvements
+fuzzy logic
+dempstershafer theory
+global inference
+conjunctive normal form
+true or false
+poor performance
+author topic model
+expert search
+semantic search
+cited author information
+johri et al
+observed words
+content words
+jointly modeling
+author topic modeling
+author topic
+proper names
+multiword phrases
+collapsed gibbs
+gibbs sampler
+key words
+retrieval model
+inverse document frequency
+academic search
+unigram model
+query term
+pronoun
+pronominal
+retrieval results
+linkage structure
+exploiting background knowledge
+kernel functions
+mention pairs
+dependency path
+computational framework
+collocation
+coarsegrained relations
+negrained relations
+coarsegrained relation
+constrained conditional
+interested readers
+mention pair
+mention mi
+ratinov et al
+relation classication
+recall and precision
+similar performance
+cross validation
+taxonomic relation
+candidate arguments
+sentence structure
+nouns
+experimental evidence
+word order
+proposed solutions
+predicate identication
+argument identication
+hard clustering
+unique words
+hmm based
+unsupervised pos
+expectation maximization em
+phonological
+hmm training
+simple form
+intransitive
+verbpos features
+low accuracy
+key innovation
+phonology
+global label
+semantic analysis
+techniques developed
+entailment phenomena
+datadriven approach
+evaluation framework
+annotation effort
+learning approach
+wordnet similarity
+signicantly outperform
+detailed evaluation
+ablation
+systematic analysis
+automatically generate
+key differences
+referent
+inference step
+lexical similarity
+local context
+credit assignment
+bag-of-words
+qualitative evaluation
+bagofwords representation
+computational efciency
+semantically coherent
+atomic units
+document collections
+multiword expressions
+base model
+statistical hypothesis testing
+candidate phrases
+simple heuristic
+cooccurrence matrix
+corpus statistics
+multiword model
+qualitative results
+simple baseline
+text processing
+probabilistic latent semantic
+lyapunov optimization
+drift-plus-penalty
+section iiia
+achieves similar
+closed-form
+greedy heuristic
+decay factor
+backpressure algorithm
+lifo queueing
+stochastic network optimization
+performance guarantees
+theoretical guarantees
+learning phase
+provide theoretical guarantees
+performance guarantee
+fountain
+greatly reduces
+low complexity
+recently developed
+type constraints
+dynamic update
+worst case delay
+formally state
+computational eciency
+distributed implementation
+probability generating functions
+route planning
+constrained optimization
+scheduling algorithm
+constant factor approximation
+converges quickly
+distributed algorithms
+integer programming
+problem settings
+polynomialtime approximation
+node weighted steiner
+parallel processing
+simplicial complexes
+higherorder aggregations
+mathematical framework
+missed collaborations
+network representations
+persistent homology
+homotopy
+minimum spanning problem in simplicial complexes
+node-weighted steiner
+distinct sets
+fundamental problems
+high dimensional
+nodeweighted steiner tree
+npcomplete problem
+metaphor
+formal models
+truth table
+semantic source coding
+minimal models
+online fashion
+simple strategy
+set of marked nodes
+reasonable accuracy
+sampling strategies
+overlap ratio
+sampling techniques
+adaptive sampling
+fast approximation
+theoretic analysis
+replicator dynamics
+fault-tolerant
+notations and denitions
+automatically identifying and ranking
+credible users
+ordered list
+specic queries
+topically relevant
+lda topic model
+simplied version
+manually selected
+word clouds
+mixture weight
+tfidf scores
+experiment design
+rst performs
+social ranking
+fu and fu
+relevancy measure
+bayesian probability
+topical similarity
+scoring function
+ranked lists
+rst compared
+relevant users
+topical relevance
+topic analysis
+search terms
+powerful tools
+learning to rank
+search mechanism
+attribute correlation
+tain
+based inference
+unique contributions
+pro- posed
+proposed technique
+inference results
+inference quality predictor
+user interests from social neighbors
+discovering interesting
+discover patterns
+association rule
+word patterns
+distinct terms
+directly compare
+low precision
+explicit user interests
+association rules
+social and attribute correlation
+dynamic weighting scheme
+quality predictor
+inferring implicit
+correlation weight
+collective inference
+unique challenge
+ap selection
+iterative process
+objective functions
+key property
+dense subgraphs
+numerical experiments
+random elds
+joint behavior
+learning technique
+kearns et al
+multiagent models
+dynamic scenarios
+open-domain
+template filling
+coverage maximization
+accurate detection
+maximal marginal
+nominal mentions
+temporal relations
+relation mentions
+relevance estimation
+extracted entities
+summarization problem
+document sets
+experiment section
+content coverage
+gigaword corpus
+manual annotation
+relation discovery
+text summarization
+rubric
+medline
+academia
+caucasian
+effectively capture
+extremal optimization
+granger causality
+temporal structure
+word frequency
+causal relations
+chemical compounds
+collaborative ranking
+integrating multiple
+query collaborators
+automatically learn
+ranking functions
+supervised approach
+weighted combination
+surface features
+accuracy gain
+data analysis
+graph clustering algorithm
+performance drops
+support vector
+linear svms
+random fields
+discriminative models
+webscale data
+assessment results
+automatically learned
+teaching assistant
+based learning
+iterative fashion
+chinese wikipedia
+reference knowledge base
+supervised classication
+hierarchical spatial
+wilcoxon matchedpairs signedranks test
+najaf
+figure summarizes
+feature engineering
+phrase chunking
+structured arguments
+degrees of belief
+possibility theory
+trust and belief
+trust inference
+subjective trust
+trust and argumentation
+trustworthy sources
+section reviews
+frs
+argumentation semantics
+related keywords
+users and items
+ecient and scalable
+group memberships
+event attendance
+randomly sample
+ne grained
+relationship type
+matching process
+key dierence
+support vector regression
+key phrases
+avril
+detection method
+current status
+requires additional
+key contributions
+future works
+evaluation process
+adjective
+similar meanings
+naive linear
+estimation problem
+breadth rst search
+standard template library
+interactive graph
+relevant articles
+citation count
+spreading activation
+linear scalability
+layout algorithms
+sqlite
+network datasets
+subjectivity
+pubmed
+interaction techniques
+libraries
+citation links
+scalable tensor
+domain-specific
+related problem
+timeevolving graphs
+cp decomposition
+mode tensor
+singular value decomposition
+discovered patterns
+detection algorithm
+multilinear algebra
+singular value decomposition svd
+svd
+tensor decomposition
+outlier detection
+minimum description length
+genetics
+local outliers
+toolbox for matlab
+network intrusion detection
+main questions
+scores computed
+successfully detected
+performed experiments
+change point
+graph distance
+change detection
+detecting outliers
+change points
+network dataset
+ground truth information
+recommendation problem
+latent factor
+rst contribution
+spot anomalies
+standard model
+growth model
+polonium
+algo- rithm
+le reputation
+malware detection
+demon
+naive bayes
+neural network
+attributed graph
+hashing
+inference problems
+groundtruth data
+unearth
+optimization method
+large dense
+pegasus
+petascale graph mining
+weighted graphs
+billionscale graphs
+static graphs
+timeevolving networks
+problem denitions
+meaneld approach
+agree with intuition
+spectral graph
+normalized cuts
+information propagation model
+key insight
+proximity measure
+effective pruning
+knn search
+offline indexing
+effective importance
+theoretical properties
+proximity measures
+online search
+candidate nodes
+neighbor search
+scalable solution
+accuracy guarantees
+conditional random fields
+replying structure
+replying relationship
+save a lot
+temporal relationship
+lsa
+dierent domains
+user grouping
+questionanswer pairs
+topic space
+parameter learning
+stop word
+global feature
+forum data
+micro macro micro macro micro macro
+labeled training data
+testing sets
+extraction task
+ranking method
+table performance
+automatic text
+linkage behavior
+structural behavior
+dynamic communities
+antimonotonicity property
+local minhash
+pattern mining algorithm
+approximation scheme
+linkbased similarity
+increasing number of communities
+extremely robust
+information ow
+ow authorities
+connected entities
+bayes model
+probabilistic method
+random surfer
+extremely efcient
+degree discount ic
+rankedreplace and bayestraceback
+node classification
+node classication
+structure and content
+frequently updated
+labeling process
+linkage information
+similar techniques
+robust classication
+lexicon
+dynamic scenario
+labeled documents
+current implementation
+transformation process
+twostep approach
+matrix operations
+dierent paths
+dynamically maintained
+cora data set
+local classier
+bayes classier
+accuracy and eciency
+dierent scenarios
+eective and ecient
+real-life graphs
+structural correlation
+structural correlations
+reallife graphs
+negrained knowledge
+graph proximity
+scalable algorithms
+important properties
+pll
+query suggestion
+large scale graph
+correlation measure
+monte carlo sampling
+sampling algorithms
+signicance score
+real world datasets
+synthetic events
+dense subgraph
+frequent itemsets
+largescale graphs
+approximate matches
+graph similarity
+exact matches
+graph edit distance
+graph theoretic
+bronze
+tale
+node label
+topk matches
+index structures
+easily implemented
+efciency and scalability
+structural property
+linear scan
+subgraph search
+attributed graphs
+homomorphism
+indexing technique
+proximity pattern mining
+evidences scattered
+query keywords
+specic contexts
+entity search
+organizational expert search
+enterprise corpus
+language model based
+natural language processing
+csiro
+similar experts
+elf
+global normalization
+iterative reranking
+bibliography data
+average precision
+table performance comparison
+semantically related
+traditional search
+web search engine
+quality measures
+web scale
+language modeling
+expertise retrieval
+social search engine
+expertise modeling
+entity relationships
+latent association
+topic structures
+correlation factor
+topic assignments
+single document
+document pair
+topic proportions
+topic associations
+target document
+keyword query
+word level
+probabilistic methods
+laa model
+expectationmaximization algorithm
+direct approach
+topic association
+candidate documents
+signicantly worse
+lsi
+document corpus
+word pairs
+experiments on real datasets
+proximity search
+likelihood ranking
+progressive search
+smallest diameters
+approximate answers
+partial indexing
+numerical labels
+fast solutions
+naive solution
+likelihood estimation
+early termination
+empirical performance
+evaluation methods
+topk queries
+generalized linear
+linear threshold model
+random eld
+vanilla
+spectral clustering algorithm
+parameter free
+performing teams
+team performance prediction
+gratefully acknowledge
+behavior analysis
+global and local sequence alignment
+scoring scheme
+prole databases
+inactivity prediction
+prole database
+predictive model
+true negatives
+rbf kernel
+global local
+class imbalance
+locally linear
+random forest
+oversampling
+content based
+net- works
+low overhead
+practical scenarios
+placement problem
+community detection algorithm
+link clustering
+temporal data
+spatial and temporal information
+crucial step
+event timeline
+highly overlapping
+modularity maximization
+domain independent
+main types
+domain dependent
+iterative algorithms
+schedulability analysis
+admission controllers
+translator
+text representation
+text domain
+rich semantic
+cooccurrence data
+parsimony
+learning procedure
+proximal gradient
+source instances
+color histograms
+semidenite programming
+latent feature
+markovian chain
+visual words
+ground truth labels
+homogeneous space
+achieve superior
+latent vector
+auxiliary training
+training images
+multiple kernel learning
+matrix completion
+maximum margin
+accelerated proximal gradient
+cross-domain
+crosscategory knowledge
+transfer function
+multilabel learning
+scale invariant feature transform
+key frame
+highlighted in bold
+competitive performance
+hierarchical modeling
+estimation theory
+sparse regression cube
+sparse regression
+hierarchical structures
+continuous variables
+reliability criterion
+traditional feature selection
+forward selection
+greedy approximation
+reprocessing
+multivariate regression
+ridge regression
+lossless compression
+visual similarity
+greedy selection algorithm
+sensor selection
+linked information networks
+sliding windows
+selection problem
+approximation bounds
+budgeted maximum coverage problem
+evaluation measures
+error distance
+large data sets
+actual location
+breslow
+nodelink graph
+edge label
+wiki article
+force directed algorithm
+visual analysis
+large text corpora
+interactive analysis
+gretarsson et al
+keywordbased search
+multiprocessor
+nwt
+conditional probabilities
+traditional text
+analysis tools
+topic similarity
+text collections
+factorization methods
+multidimensional scaling
+semantically similar
+posterior distributions
+discovery task
+similar technique
+stereoscopic
+force directed layout
+grants awarded
+centralized approach
+topic modeling algorithm
+force directed
+document similarities
+spatial analysis
+balance theory
+sample space
+markov chain monte carlo
+akaike information criterion
+akaike information
+extrapolation
+internetwork link-prediction
+internetwork link prediction
+topology based
+negative samples
+missing links
+collaborative filtering
+missing values
+local events
+principal components
+conceptually similar
+presented earlier
+local contexts
+decay function
+v2
+np-complete
+real-world datasets
+lanczos method
+extensive simulation experiments
+quantitative and qualitative
+billion-scale graphs
+mapreduce
+develop efcient
+parallel algorithms
+billion scale graphs
+allpairs shortest paths
+matrixvector multiplications
+sparse matrices
+massive data
+residual matrix factorization
+optimization formulation
+lowrank approximation
+factorized matrices
+unauthorized reproduction of
+convex quadratic programming
+incremental algorithm
+pro posed
+original adjacency matrix
+random projection
+lowrank matrix
+based propagation
+periodic mobility model
+periodic mobility
+projected gradient
+batch mode
+straightforward solution
+block coordinate descent
+alternating optimization
+experimental results on real
+latent factors
+parallel algorithm
+distributed memory
+parallel computation
+muster
+existing graph
+dependency structures
+supervised and unsupervised
+multirelational link
+umbrella term
+link predictors
+diseasegene network
+unsupervised link prediction methods
+unsupervised method
+link predictor
+original pagerank
+prediction scores
+classication scheme
+class instances
+random forests
+diverse domains
+correlation measures
+longterm average
+similar ideas
+absorbing nodes
+simple examples
+random walk rw
+sampled data
+random walk sampling
+pda
+multiple labels
+related literature
+temporal slot filling
+temporal relation
+tsf task
+temporal classication
+temporal expressions
+temporal expression
+slot ll
+slot lls
+structured approach
+dependency features
+temporal slot lling
+coreference chains
+query entity and slot
+partofspeech tag
+context words
+temporal reasoning
+nonlocal information
+topically-related
+training documents
+topic cluster
+web blogs
+word sense
+word segmentation
+annotated documents
+argument role
+entity arguments
+representative words
+triggers and arguments
+trigger and argument
+candidate events
+comparable results
+event structure
+learning-to-rank
+low transparency
+low transparency setting
+content extraction ace
+diverse lexical
+kbp slot
+length threshold
+wilcoxon matchedpairs
+maximization of modularity
+modularity optimization
+louvain
+mcl
+unsupervised clustering
+avoid unnecessary
+highly effective
+interchange
+score function
+realworld social networks
+statistical measures
+lfr benchmark
+detection algorithms
+rand index
+composite graphs
+mapping functions
+metric space
+embedding function
+upper and lower bounds
+clustering techniques
+signicant advantage
+collapsed gibbs sampling
+fea- tures
+serial clustering
+userdened parameters
+glyphs
+input dataset
+hybrid method
+clustering approaches
+strat
+emc
+correlation clustering
+generic framework
+guilt by association
+line graph fixed point
+large graph mining
+turbo code
+shared memory
+parallel programming
+ei and ej
+validation set
+multiaspect data
+eigenvalues and eigenvectors
+multiple machines
+information systems applications miscellaneous
+encyclopedia britannica
+pieces of evidence
+low-rank
+diagonal approximation
+gaussian mixture models
+image segmentation
+mixture weights
+matrix approximation
+cholesky decomposition
+iterative update
+low rank
+conjugate gradient
+gaussian mixtures
+feature subspace
+typically require
+selection algorithm
+achieve signicantly
+trust decisions
+optical character recognition
+reference date
+factnding problem
+similarity metrics
+extraction module
+weak supervision
+keyword queries
+user ratings
+forum posts
+structured query
+twostage model
+nyt
+search api
+ground truth data
+distinct events
+text similarity
+great correspondence
+initial guess
+reliable and unreliable
+reliable sources
+complex scenarios
+source dependency
+analysis technique
+distributed graph query processing
+bsp
+bulk synchronous parallel
+bap algorithms
+datasets dblp
+sedge
+contact duration aware data replication
+synthetic and realistic traces
+replication scheme
+section ivd
+caching protocol
+dtn routing protocol
+batch size
+transient social contact patterns
+stochastic analysis
+intragroup data replication
+based classication
+propose techniques
+context information
+cross-platform
+hashtags
+topic labels
+latent dirichlet allocation lda
+quality- of-service
+sample-path
+backlog and delay
+restless multiarmed bandit
+whittles index
+partially observed
+outer-bound
+rst map
+divide and conquer
+online algorithms
+perturbed maxweight
+unique features
+recently published
+type ii
+type iii
+randomly split
+ensemble learning
+subgraph discovery
+highest-scoring
+fast heuristic
+edgeweighted network
+space partitioning
+disjoint groups
+principal components analysis
+disjoint community detection
+evolving communities
+computational problem
+fragment generation
+detecting overlapping communities
+local optimization
+global objective
+group detection
+overlapping community structure
+fundamental analysis
+fuzzy cmeans
+cavemen
+slashburn method
+compact representation
+stateofthe art
+gzip
+domainspecic knowledge
+meth
+guilt-by-association
+semi-supervised
+gbp
+gba
+automatically labeled
+guiltbyassociation approaches
+cda
+graph generation
+low rank approximation
+categorical data
+unsupervised manner
+reallife data
+speakerlistener label propagation algorithm
+spectral method
+detection performance
+temporal community detection
+cdr data
+predictive performance
+supervised method
+confusion matrix
+rst set of experiments
+unsupervised setting
+largescale datasets
+generalized framework for personalized
+vertex similarity
+structure graphs
+jeh and widom
+node similarity
+recommendation model
+linear transformation
+accuracy improves
+icebergs
+forward and backward
+vertex attributes
+approximate ppvs
+framework overview
+cutoff threshold
+densest subgraph
+nibble
+queries efciently
+disk resident
+subsequent sections
+robust features
+implementation issues
+zoom levels
+default parameters
+jpeg
+data transformation
+ecient and eective
+pes multivariaterl
+pes multivariate
+sampled univariate
+greater accuracy
+refresh rate
+maximum likelihood estimation of participant reliability
+social sensing data
+maximum likelihood estimation
+em scheme
+reliability estimation
+participant reliability estimation
+fact correctness
+truth estimation
+classification models
+constrained hierarchical aggregate
+hierarchical aggregate classication
+decision aggregation
+voting scheme
+local classiers
+individual sensors
+classication schemes
+supervised models
+base models
+similar items
+supervised clustering
+detect outliers
+content based image retrieval
+cedd
+image similarity
+estimation of source reliability
+event graph
+pattern score
+pattern scores
+complex structure
+subgraph mining
+rst constructs
+classication result
+rst generate
+correlated patterns
+nullinvariant measures
+minimum correlation threshold
+comparative performance
+interestingness measure
+reproducing kernel hilbert space
+kernel learning
+nonparametric kernel
+spectral kernel
+multitask clustering
+kernel kmeans
+clustering tasks
+knn graph
+webkb data set
+task task
+outperform existing
+generalized fisher score
+supervised feature selection
+fisher criterion
+experiments on benchmark data sets
+redundant features
+trace ratio
+fea tures
+compared methods
+ionosphere
+soybean
+tuned by fold cross validation
+usps
+accurately estimating
+approximate inference algorithm
+tracking model
+kalman filter
+observation model
+ltering step
+algorithm scales
+expectationmaximization em
+query returns
+query efciency
+triangulation
+detection and tracking
+multidimensional text databases
+signicance measure
+materialization strategies
+textual data
+faceted search
+review documents
+multidimensional databases
+efciently retrieve
+section proposes
+okapi
+inverted index
+aggregated results
+image content
+trained model
+similarity learning
+feature learning
+submission to ieee tkde
+imagerich information network
+semantically relevant
+contentbased similarity
+theoretical guarantee
+metric learning
+graph ranking algorithms
+mutual reinforcement
+visual appearance
+topk ranking list
+distance metric learning
+locality sensitive hashing
+comparable accuracy
+recommendation models
+golden quadrilateral
+incidence algorithm
+quadrilateral
+seed set
+ranking technique
+dynamic shortest path
+detection task
+speedup technique
+dataset description
+gbm
+spatial features
+missing data interpolation
+partial periodic patterns
+fast fourier transform
+fft
+predicted location
+periodicity mining
+periodic event
+trust aggregation
+trust management scheme
+outlier detection algorithms
+cost reduction
+input corpus
+existing category
+linking entities
+recommendation techniques
+fully dynamic
+problems in graph theory
+batch problem
+dynamic shortest hyperpath
+remains largely
+dynamic shortest path problem
+batch algorithms
+shortest hyperpath algorithms
+dynamic algorithms
+section viii
+data-driven
+coupled networks
+standard techniques
+markov chain monte-carlo
+unlike existing
+ink
+dempstershafer theory of evidence
+cross network
+ripper
+user log
+categorical attribute
+ranking factors
+retrieval process
+similar contexts
+nal result set
+result candidates
+term extraction
+query interpretation
+pos tagging
+application framework
+unsigned network
+summary board
+consistently outperform
+dynamic consensus
+sparse graph
+empirically demonstrate
+structure-learning
+statistical test
+pairwise comparisons
+distributional similarity
+player reduction
+trust computing
+heterogeneous entities
+transitivity property
+cba
+small world network
+prediction accuracies
+based semantic
+conduct extensive
+graph-based
+cluster-based
+algo- rithms
+flowchart
+minor modications
+source-routing
+existence probability
+temporal dimension
+sentiment score
+seed selection
+topic specific
+twitter streaming api
+topic specic
+credibility indicators
+canini et al
+sentiment polarity
+sentiment words
+source context
+tweeter
+predicting credibility
+tunable parameters
+meta path-based
+citation relationship
+link prediction in heterogeneous networks
+heterogeneous typed
+dierent metapaths
+feature metapath
+exponential family
+multiarmed bandits
+social stream
+streaming scenario
+text streams
+incoming stream
+summary statistics
+based techniques
+countmin sketch
+supervised event detection
+event signatures
+massive text
+trend detection
+bursty topic
+text clustering
+holistic approach
+user expertise
+shared experience
+scoring functions
+chemo
+entity and relation
+nuggets
+corpus size
+retrieved results
+map scores
+context window
+related entities
+opinion mining
+fact extraction
+part-of-speech tagging
+biomedical text
+task of semantic role labeling
+biomedical domain
+jiang zhai
+voa
+multiclass classier
+argument candidates
+adverb
+low recall
+constraintdriven learning
+compares favorably
+transformation functions
+beam search
+word embedding
+pos tag
+derived features
+deep neural networks
+tesc testing
+search bfs
+reference node sampling
+batch bfs
+importance sampling
+selection algorithms
+sampling procedure
+weighted correlation
+expertise domain
+simple greedy algorithm
+topk skyline
+dag construction
+breadth first search
+multi source
+approximate algorithms
+frequent updates
+nosql
+query engine
+quality guarantees
+keyword-based
+genetic algorithms
+hidden markov
+recursive estimation
+principled approach
+sourceclaim network
+precision recall precision recall
+detection results
+video frame
+high quality
+estimation framework
+discovery process
+evidence propagation
+conjunctions
+past tense
+smoothing factor
+retweet behavior
+decision structure
+quadratic minimization
+extremely fast
+million tweets
+backpressure with adaptive redundancy
+outperforms traditional
+adaptive redundancy
+delay minimization
+companion discovery
+traveling buddy
+discover companions
+traveling companion
+clusteringandintersection method
+intersection step
+spatial index
+smartandclosed algorithm
+quadtree
+buddybased discovery
+bu and sc
+spatialtemporal data
+atypical event
+the complex atypical events
+atypical cluster
+guided clustering algorithm
+multidimensional information
+atypical data
+atypical events
+analytical query
+atypical clusters
+cluster integration
+bottomup styled
+intruder detection
+laplacian regularized least squares
+accelerated proximal gradient descent
+experiments on benchmark
+proposed method outperforms
+linear classiers
+proximal gradient descent
+subgradient descent
+cora dataset
+norm minimization
+multilabel feature selection
+larank svm
+micro macro
+linear discriminant dimensionality reduction
+sparse patterns
+event credibility
+credibility analysis approach
+credibility propagation
+basic credibility
+credibility analysis
+event similarity
+wembley
+fact finding
+text understanding
+sentiment classication
+patent maintenance decision
+prior art
+tf idf
+trend features
+term vector
+denition ii
+duce
+latent periodic topic analysis
+periodic topics
+periodicity analysis
+periodicity based
+periodic topic
+periodic interval
+bursty topics
+term cooccurrence
+background words
+ner granularity
+accuracy and normalized mutual information
+online inference
+automaton
+spatial temporal
+event identication
+hierarchy construction
+source quality
+sampling-based
+truth from conicting sources
+conicting sources
+truth nding
+latent truth model
+negative claims
+sensitivity and specicity
+latent truth
+prior belief
+truth probability
+truth finding
+supervised training
+metaheuristic
+mab
+selection method
+parameters affect
+asymptotic analysis
+topical clustering
+beam
+massive graph streams
+massive domain of nodes
+gmatrix structure
+synopsis structure
+structural queries
+network streams
+compression effectiveness
+multigraph
+shortest path query
+uncertain graph
+shortest path queries
+prob lem
+citation prediction
+previous papers
+meta-path based
+citation probability
+metapath based
+citation prediction model
+publication network
+discriminative term buckets
+meta pathbased feature space
+high accuracy
+term bucket
+term buckets
+multiple types of entities
+term bucketing
+method named
+pathconstrained random walk
+learning classication
+large search space
+query processing performance
+future citations
+alternating direction method
+document datasets
+category labels
+untrustworthy data
+intruder mining
+monitoring graphs
+unreliable sensors
+key parameters
+global constraints
+structured preference modeling
+latent-variable
+structured preferences
+type species
+mention boundaries
+mention type
+typing systems
+preference modeling
+structured preference
+efciently compute
+preference function
+posterior regularization
+ganchev et al
+candidate mentions
+gold mention
+unsupervised models
+supervised baseline
+experimental study
+comparator
+prec rec
+learning-based
+f1
+entitybased features
+torpedo
+raghunathan et al
+averaged perceptron
+surface form
+negrained entity types
+entity typing
+rahman and ng
+mention head
+ontonotes dataset
+mihalcea and csomai
+milne and witten
+error propagation
+dic
+named entity disambiguation
+hard em
+em algorithms
+lagrange relaxation
+word-alignment
+uem framework
+unied expectation maximization
+em and hard em
+general framework
+agreement constraints
+deterministic annealing
+detailed explanation
+dual space
+initialization point
+initializer labeled examples initializer
+semisupervised setting
+entity pairs
+framework naturally
+manual alignment
+viterbi training
+source reliability
+optimization technique
+expectation maximization algorithm
+tabular data
+posthoc analysis
+highlevel description
+byte caching
+essen
+latent dirichlet truth
+ldt model
+jointly models
+existing truth discovery
+latent dirichlet
+random initialization
+greedy source set
+maximal distance of greedy
+numsourcesrumor numsourcesnonrumor numsourcesnonrumor
+mdgipgsssrumor numsourcesnonrumor
+numeric data
+collection includes
+trip endpoints
+bounding box
+bounding boxes
+hierarchical segmentation
+hmm based algorithm
+potential candidates
+earth science
+proposed methodology
+fold cross
+existing anomaly detection
+detect anomalous
+signicant anomalous regions
+specic domain
+largescale neighborhood search approach
+local search
+small trac
+detecting anomalous
+output list
+based anomaly detection
+consistent trees
+experimentally verify
+opinion distribution
+temporal communities
+temporal community structure
+inheritance
+impressionistic
+drift-plus- penalty
+maximum weight matching
+optimal disguised
+trust metadata management scheme
+kolmogorov
+roughly speaking
+subtraction
+item sets
+ensemble techniques
+classification tasks
+refer table
+cluster structure
+expertise ranking
+document consistency
+coauthorship consistency
+documentauthor consistency
+heterogeneous graphs
+graphbased method
+redundancy based approach
+syntactic redundancy
+kldivergence metric
+movie review
+section va
+method detects
+spotting anomalies
+code tables
+code table
+the minimum description length mdl principle
+model selection
+frequent itemset mining
+bell number
+categorical datasets
+mushroom
+egonet features
+connection subgraphs
+connection trees
+improved approximation
+highly efcient
+cooccurrence similarity functions
+similarity calculation
+session data
+open-source
+targeted queries
+grid selection
+major contributions
+spikem model
+rise-and-fall
+table illustrates
+connection pathways
+kdd and recomb
+task descriptions
+static program analysis
+tomcat
+intermediate data explosion
+propose gigatensor
+algorithm for large scale
+parafac decomposition
+tensors and tensor decompositions
+sparse tensors
+als algorithm
+nell dataset
+position np
+crosslanguage information retrieval
+sparse latent factors
+node correspondence
+successfully detects
+vertexedge overlap
+node afnity
+electrical network
+atypical cube
+olap query
+taxonomy keyword
+eciently process
+query rewriting
+result lists
+index optimization
+frequent terms
+chemical compound
+hash lookup
+input terms
+index optimization techniques
+naive dp greedy
+cyc
+information retrieval
+breadth-first search
+primary partitions
+complementary partitioning
+ondemand partitioning
+bulk synchronous
+sparql query
+query templates
+jena
+ontologybased subgraph querying
+subgraph querying
+traditional subgraph isomorphism
+semantically close
+query view
+subgraph query
+topk subgraph
+querying framework
+concept graphs
+concept graph
+concept hierarchies
+link inference
+dynalink algorithm
+biochemistry
+recall curve
+computational perspective
+forward algorithm backward algorithm static algorithm
+query estimation
+global sketch
+query estimation accuracy
+network attacks
+workload sample
+number of eective queries
+kmeans textside
+spectral graph partitioning
+gaussian model
+partially connected
+cet
+estimation techniques
+common terms
+interpolated layout
+analysis toolkit
+free text
+graph layout
+subset selection
+sparse cuts
+multiple classiers
+cramerrao lower bound crlb
+source expertise
+online review
+chen and ji
+monolingual entity linking
+crosslingual entity linking
+nil clustering
+global context
+crosslingual setting
+joint modeling
+entity clusters
+related entity
+semantic context
+entity ranking
+crosslingual entity
+english kb
+popular entities
+individual features
+initial labeling
+feature reduction
+bilingual name tagging
+linear-chain
+joint crfs
+automatic alignment
+crosslingual features
+words and phrases
+linearchain crfs
+asian development bank
+chinese word segmentation
+hsbc
+joint inference model
+entity pair
+learning curves
+error detection
+formal genre
+informative tweets
+noisy tweets
+initial ranking scores
+tweetuser networks
+web document
+propagated ranking scores
+topic-based
+entities and concepts
+linking task
+target entities
+informal genres
+concept mentions
+negrained types
+tac entity linking
+strong baseline
+omitted for blind review
+hybrid approach
+typed dependency
+type labels
+constanze mozart
+wolfgang amadeus mozart
+lancaster house
+cognitive modeling
+procedural memory
+social cognitive theories
+useruser relations
+polarity classication
+short text
+description logic
+maximum coverage
+apollos
+analytics applications
+protocol parsing
+spl
+programming paradigm
+proprietary software
+spatiotemporal correlations
+negrained location
+constructed language
+rank rank rank rank
+smoothing techniques
+negrained patterns
+metaphors
+peak oil
+information theoretic coclustering
+role extraction
+network mining tasks
+disclaimer
+unsupervised feature selection
+grid based
+zip block encoding
+metalevel argumentation
+formal logic
+yelp
+meta-path
+user-guided
+meta-paths
+metapath selection with userguided
+metapath weights
+metapath selection
+user guided
+userguided clustering
+user guidance
+linkbased features
+itc
+output level
+accuracy accuracy accuracy
+parameter study
+harmonic functions
+semisupervised graph
+temporal pattern
+temporal datasets
+soft patterns
+perform community detection
+soft sequence
+soft sequences
+outlier detection algorithm
+meaningful outliers
+soft pattern
+length patterns
+distance based outliers
+pattern generation
+practical issues
+community trend outlier detection
+dataset generation
+temporal outlier detection
+community matching and outlier detection
+outlierness scores
+kelly carlson
+cluster matching
+manifold ranking
+varies linearly
+vector calculus
+comparative method
+corel
+ndcg ndcg
+learning problems
+edge detection
+decomposed learning
+local learning
+document classication
+structured perceptron
+domainspecic sentiment
+esl error correction
+rozovskaya and roth
+esl data
+error correction
+aau
+resolving conicts
+backs
+lyapunov stability
+reno
+sampling technique
+matching problem
+subgraph matching cost
+memoization
+subgraph match
+graph querying
+structured queries
+mtm
+linear-complexity
+companies and roles
+occurrence matching
+entity popularity
+real composite networks
+optimal rate allocation
+global perspective
+power saving
+small-scale
+diversied ranking
+grasshopper
+selective labeling
+outofsample error
+outofsample error bound
+shares similar
+pitfall
+nonadaptive active learning
+lod
+generalization error bound
+generalization error
+minimization algorithm
+publication date january yyyy
+loose companion
+map matching
+latent community topic analysis
+community discovery with topic modeling
+topical coherence
+textassociated graphs
+coherent topic
+textassociated graph
+pairwise link
+spectral algorithm
+term distributions
+stateoftheart baselines
+knowledge graph
+japans tsunami
+hierarchical dirichlet
+entity set
+generative processes
+perplexity values
+topic hierarchies
+document hierarchies
+document hierarchy
+yahoo search
+standard chinese
+crp
+hierarchical topic
+breadth rst
+topic words
+hierarchical topical
+topical hierarchy
+intrusion task
+intruder detection tasks
+constructed hierarchy
+hierarchical topics
+dou et al
+forward link paths
+backward link paths
+backward link
+performed poorly
+lower precision
+westerveld
+miao et al
+information extraction
+query renement
+regression error
+simple algorithm for semisupervised learning
+equal contribution
+mixture components
+object localization
+sensors reliability
+sensor reliability
+based outlier detection
+search framework
+multiple real-world
+entity similarity search
+entity similarity
+structure index
+jquery
+input method
+popularity trend of events
+popularity prediction
+prediction framework
+measure for periodicity
+unevenly sampled
+low sampling rate
+random observation model
+prime period
+measure of periodicity
+nite length
+negative observations
+highest power
+lombscargle periodogram
+unevenly spaced
+meta-path-based
+user-guidance
+relevant entities
+similarity measurements
+similarity semantic meaning
+similarity semantic meanings
+metapathbased similarity
+query dispatcher
+imdb network
+preterm
+metapathbased feature space
+entity candidates
+model learning
+dispatcher
+comparison methods
+metapath set
+relative clause
+mention candidates
+dependency trees
+amortized inference
+database engine
+chambers and jurafsky
+integer linear programming ilp
+eventevent relations
+timeline construction
+temporal logic
+temporal graphs
+corpus linguistics
+local and global classication of taxonomic
+input term
+jack london
+mysticism
+explicit semantic analysis
+gene network
+douban
+magnifying glass
+overlapping temporal community structure
+random walking
+multi- relational
+unsupervised link prediction
+credibility estimation
+previous conference
+jointly estimate
+cramerrao lower
+uag growth model
+ipl
+clustering solution
+caching techniques
+motion detection
+clique enumeration
+distributed learning algorithm
+ranking factor graph
+perfor- mance
+general social patterns
+dataset statistics
+source network gs
+target network gt
+baseline predictors
+source and target networks
+recommendation results
+precision-recall
+corroborating observations
+conicting observations
+behavioral pattern
+outlier analysis
+conict em scheme
+data driven
+common phrases
+mashup
+virtuoso
+structuration and network
+false negative estimation
+capture-recapture
+rare class
+capture recapture
+graph based
+ichthyology
+java programming language
+balanced graph
+distance-based
+additional experiments
+hmr algorithm
+precisionrecall curves
+training videos
+svm classier
+diverse cliques
+cheminformatics
+dynamic reachability
+distribution patterns
+distribution pattern
+approximate dynamic programming
+highly imbalanced
+formation and consensus engineering
+propinquity dynamics
+unsigned networks
+local optima
+ratio cut
+homo model
+multirelational information
+recurring class
+ensemble approaches
+data stream classication
+fraud detection
+silhouette
+base learners
+concept drift
+parietal
+graphbased semisupervised
+lca models
+na na na na na
+reliability prediction
+standard reliability
+similarity and dissimilarity
+sentiment scores
+postpost relations
+statics
+opposing opinion networks
+joint nonnegative matrix factorization
+diciderent views
+sorting algorithm
+intracentrality and intercentrality
+network community structure
+detection process
+tness measures
+detectability test
+geometric progression
+functional neuroimaging
+ground truths
+automated workow synthesis
+pivot selection
+nding outliers
+drift- plus-penalty
+trust-prediction
+icdrf model
+hierarchical dirichlet process
+uncertain graphs
+generalized reliability
+huffman coding
+symbolic computation
+kde
+qed
+real- world
+mining strong relevance
+strong relevance
+entity correlation graph
+entity recognition
+unstructured text data
+relevance relationships
+words or phrases
+correlation contexts
+target entity
+meta graph
+clindamycin
+path counting
+returned drugs
+topical phrases
+keyphrase extraction
+topical hierarchies
+child topic
+parent topic
+phrase extraction
+topical frequency
+topical keyphrase
+term cooccurrence network
+topical phrase
+representative phrases
+topical patterns
+phrase length
+ranking criteria
+topical keyphrases
+topical hierarchy construction
+topic intrusion
+phrase intrusion
+ranked phrases
+lower quality
+phrase mining
+key terms
+quality phrases
+document keyphrases
+selective sampling
+selective sampling algorithm
+low-rank approximation
+framebased document representation
+monolingual comparable
+senna
+semantic text information network
+semantic frame
+contextual similarity
+news articles
+answer graphs induced by
+answer graphs
+summary graphs
+summarization problems
+result summarization
+query transformation
+xquery
+graph summarization
+xpath
+relation constraints
+min- ing
+web surng
+advisor search
+sequential data
+segmentation algorithm
+limited scalefree
+overlay topologies
+hmm-based
+map matching algorithms
+hmmbased map matching
+travel-times
+artificial neural networks
+fundamental error
+kernel density estimation
+collusion detection
+similar concepts
+client application
+category names
+normalized google distance
+deconstruction
+borda
+richard feynman
+external corpus
+relatedness between concepts
+textual units
+tenor
+chi squared
+node degree centrality
+constant function
+detect user contacts
+sentence-level
+noun phrase
+inexact search
+dependency parses
+southern sudan
+trigger identication
+latent vectors
+guo and diab
+word vector
+wiktionary
+labeled tweets
+subdomain
+optimal schedule
+storage and retrieval
+fine- grained
+validation method
+geotagged tweets
+locationneutral tweets
+validating step
+standard machine learning
+naive bayes model
+noisy text
+geotagged tweet
+referred location
+local keywords
+standard ml
+spect
+mss model
+group reliability
+variational em
+differential classication
+stream classication
+regression modeling
+august schellenberg
+unsupervised link selection
+link selection
+debenhams
+metric distances
+convergence model
+metric multidimensional scaling
+stress majorization
+edge sign prediction
+edge sign
+limited size
+sign prediction
+rating data
+mining evidences for named entity disambiguation
+additional evidences
+disambiguation accuracy
+evidence mining
+disambiguation evidences
+mined evidences
+ned accuracy
+referent entity candidate
+referent entity candidates
+labelword association
+unlabeled documents
+entity candidate
+aida
+mentionentity graph
+wikier and aida
+wis
+prominence measures
+rating information
+community based
+thresholdlimited spreading
+consensus maximization
+supervised and unsupervised models
+multiple supervised and unsupervised
+final solution
+spectral clustering on graphs
+inuential treatments
+networkbased ranking
+electronic health records
+target attribute
+ve diseases
+liver
+cocktail
+ehr
+temporal coloring
+erdos- renyi
+snap and smash
+lowest common denominator
+streaming approach
+reliability of individual sources
+recursive em algorithm
+recursive em
+batch em
+source dependencies
+uncertain provenance
+smooth temporal subgraph
+smooth temporal
+pattern length
+john tukey
+watching network
+intruder appearances
+big datasets
+intruder trajectories
+cone model
+weight computation
+structured and text data
+multidimensional text
+qualitative study
+military deployment
+eccentricity minimization
+conjunctive select query
+querybased outlier detection
+outlier scores
+topk phrases
+turbo topics
+tng
+outlier detection in heterogeneous information networks
+popular community
+community membership
+community distribution
+membership matrices
+black stars
+cdo
+multigraph clustering
+adaptive sampling algorithms
+inference accuracy
+multiaspect trust inference
+trust bias
+objective trust
+gingerbread
+community detection methods
+transient communities
+pairwise contact process
+expertise models
+trace driven
+response pattern
+entity detection
+circumnavigate
+sed
+clustered support vector
+kernel svm
+global regularization
+local coordinate
+mnist mnist
+recommendation score
+data sparsity
+opinion fraud
+fake reviews
+tripadvisor
+review dataset
+dense blocks
+variance reduction
+nave bayes
+datacenter
+nodeedge labels
+dynamic subgraph matching
+index update
+compatible subgraphs
+fragment join
+grid index
+fingerprint
+spatial indexing
+attribute compression
+slice tree
+probabilistic approximation
+multityped cluster
+attribute objects
+dynamic hierarchical
+participatory design
+road trafc
+minho
+community quality measurements
+favoring small communities
+community quality metric
+real dynamic datasets
+quality measurements
+cams
+composite network multicast
+dubois et al
+subgraph statistics
+accurately estimate subgraph
+subgraph concentrations
+motif discovery
+oracles
+curator
+truss
+telecommunications engineering
+parallel slpa
+large spatial databases
+topical expertise
+bayesian network
+joint estimation
+ranked matches
+schemaless and structureless
+matching quality
+true answer
+varying query size
+transformation ratio
+spectrumaware data replication
+online trafc aggregation algorithm
+trafc aggregation algorithm
+multimodal data
+mbc
+fine grained
+latent states
+semantic trajectory
+detect periodicity
+the dream
+low-dimensional
+ow patterns
+information flow
+ow mining
+proposed hypotheses
+personality with social behavior
+sampling and smashing
+supplementary document
+nn search
+candidate pruning
+experimental section
+entity-relation
+suzanne mubarak
+chan and roth
+textual relations
+constructing topical hierarchies in heterogeneous information
+multityped topical
+unied generative model
+subtopic discovery
+cathyhin equal weight
+cathyhin learn weight
+cathyhin norm weight
+cathyheuristic hin
+summary words
+trec ap
+entity recommendation
+latent features
+implicit feedback
+global recommendation model
+candidate pool
+hierarchical topical communities
+x000b erent
+topical communities
+topical community
+phrase quality
+ranking measure
+microsoft sql server
+boolean logic
+transition patterns
+spell checker
+candidate entities
+discussion forum posts
+slot ller
+sf systems
+evidence sentences
+tamang and ji
+soft features
+multidimensional truthnding
+evidence sentence
+deep linguistic
+slot llers
+trigger phrases
+radial basis function
+amethyst
+bhuiyan et al
+storyboard
+captured video
+integrated development environment
+review corpus
+pairwise distinction
+border node
+discrete fourier
+dna sequence
+tarzan
+multilayer perceptron
+trie
+density based
+median graph
+wind speed
+jet engine
+statistical process control
+red blood cells
+innocenti
+spatiotemporal burstiness
+hotspot discovery
+diving
+joint extraction
+segment length
+relative pronoun
+kosovo
+truth-finding
+concept mention
+semantically-related
+linkable mentions
+prior popularity
+local compatibility
+anchor links
+initial labels
+connecticut huskies
+narita international airport
+candidate concepts
+relevant tweets
+rpc
+multimodal document
+multimodal documents
+webobjects
+validation sets
+expectation-maximization
+criterion bic
+matching subgraphs
+maximum metapath weight
+interesting subgraph
+interesting subgraphs
+topk interesting subgraph discovery
+mmw index
+topk interesting subgraph
+topk join
+rwm rwm
+intent learning
+soft-clustering
+intent indicator
+a 4
+heterogeneous graphbased
+intent features
+commercial data set
+tfidf weighting
+evaluation sets
+mpls
+pokemon
+user click log
+personalized entity
+click log
+skyfall
+entity graphs
+freebase entity graph
+user log sequence
+page visiting
+user log sequences
+global popularity
+personalized recommendation model
+search engine users
+visiting events
+matrix factorization based
+missing categories
+relevant categories
+category set
+item page
+ranking relevance
+oyster
+entity-relationship
+subgraph outliers
+subgraph outlier
+nonlinked node pairs
+simplex algorithm
+clique clique clique
+discriminative latent variable model for online
+latent leftlinking model
+leftlinking trees
+training item
+spanning forest
+latent leftlinking
+criminal law
+twosided matching
+type label
+social feeds
+unusual crowd
+keyword combinations
+anomalous sensor
+glitch
+dialect
+dialects
+domain classier
+comet
+boolean algebra
+tensor factorization
+cross product
+reproducibility
+rheumatism
+acetylsalicylic acid
+vertex types
+cue validity
+haloperidol
+detecting dense
+spectral clustering algorithms
+unnormalized spectral clustering
+speech processing
+social network structure
+image ranking
+snk
+socialrank algorithm
+anomalous hot spots
+genotyping
+decision-support
+python programming language
+concept network
+link pattern groups
+wikicovered concepts
+concept qualities
+lpg
+prolog
+quality estimation
+low-quality
+frequent phrase mining
+phrase mining algorithm
+topical phrase mining
+sign language
+log-likelihood function
+citation recommendation
+relative authority
+query manuscript
+compact group
+paper relative authority
+mixfea clusciterel cluscite
+subnetwork similarity
+rechargeable battery
+storage systems
+relation similarity search
+relation similarity
+schemarich hins
+querybased metapaths
+querybased network schema
+weights of metapaths
+entities and relations
+lra
+lexical patterns
+length metapaths
+document similarity measure
+tripartite graph clustering
+multirelational network
+multi relational
+small sources
+longtail phenomenon
+catd method
+estimate source reliability
+reliability degrees
+simulated datasets
+indoor floorplan
+truth computation
+truths and source weights
+stateoftheart truth discovery
+crh
+truthfinder accusim
+truthfinder and accusim
+sequential patterns in semantic trajectories
+patterns in semantic trajectories
+coarse patterns
+coarse pattern
+weighted snippet shift
+divide-and-conquer
+negrained sequential patterns
+topdown pattern
+mining negrained sequential patterns
+midtown manhattan
+ncis
+data dictionary
+content-addressable memory
+hardware acceleration
+spatial objects
+indexing mechanisms
+spatial query
+arbitrary precision
+geohash cover
+telescopic
+tensor analysis
+reservoir sampling
+discovery in graph streams
+maximum cardinality
+incorporating temporal smoothness
+unusual event
+biological evolution
+distributed storage systems
+spatial object
+triple patterns
+voronoi diagram
+hbase row
+row key
+dnc
+containedin queries
+index access
+routing patterns
+task resolution
+real expert networks
+routing pattern
+tsr
+experts expertise
+websphere
+zhou yongkang
+larry bird
+mikolov et al
+yao ming
+traditional chinese characters
+twostage hashing
+task aims
+object classes
+titration
+expertise levels
+fusion method
+publication count
+entity popularity model
+entity object model
+mapping entity
+candidate entity
+wps
+truths and source
+outperforms stateoftheart
+rich-text
+lady gaga
+linkless knowledge bases
+closed domain
+crosspage hyperlinks
+lned problem
+mitsubishi eclipse
+dsm
+linkless knowledge
+mention context
+reference documents
+reference document
+special master
+tesseract
+csf
+melanistic
+critical alert mining
+alert sequences
+critical alerts
+critical alert
+alert quality
+alert graph
+alert graphs
+dependency rule
+dm kernel
+bipartite matching
+target control
+edison
+error type
+verb error correction
+tajiri
+error identication
+the diffusion minimization problem
+community based algorithm
+set-cover
+distributed setcover algorithm
+data selection and transmission
+separable quadratic
+information utility
+semantic index assignment
+index assignment
+bnc
+dependent-variable
+sentiment lexicon
+domainspecic sentiment lexicon
+domainspecic lexicon
+information criterion bic
+maes obtained
+extension of modularity
+overlapping extensions of modularity
+overlapping extensions
+skeleton based patching
+noisy labels
+batch-mode
+batchmode active learning
+fully sequential
+mining latent entity structures
+tensor orthogonal decomposition
+momentbased inference
+method of moments
+anandkumar et al
+orthogonal decomposition
+topic recovery
+constructing topical hierarchies
+author and venue
+cross-media
+texts and images
+random walk-based
+metainformation network
+tropical cyclone
+oriented gradients
+implicit social networks
+statistical theory
+case-study
+response patterns
+gilberts
+chat room
+sm sec
+loess
+metrics without ground truth
+parallel mpi
+pthreads algorithms
+anomaly reports
+hashtag clustering
+space granularity
+event ranking
+burst events
+localized events
+hierarchical spatiotemporal hashtag clustering
+space hierarchy
+mobile browser
+maxutility problem
+low pass
+quality assessment
+collaboration functions
+maximum path packing
+hidden layers
+deep learning
+nvidia tesla
+shirak
+semantic relatedness
+dsrm dsrm
+dsrm dsrm dsrm
+convolutional neural networks
+entity discovery and linking
+collective validation
+query formulation
+fuzzy matching
+critical sampling
+information dominating set
+idsc and mids
+mids problems
+plm
+dataless hierarchical
+dataless classication
+hierarchical classication
+dataless hierarchical classication
+bow representation
+word representations
+word embeddings
+pure dataless
+brittleness
+unrestricted greedy
+vernacular
+sequential slpa
+openmp
+epp
+community detection method
+multithreaded parallel
+opencv
+foreground mask
+cpr
+moving hotspots
+replica placement
+moore encoding
+emulators
+event chronicles
+event chronicle
+network and community discovery
+transductive regression
+grempt model
+ntp
+grempt ntp
+querybased outlier
+christos coauthors
+feature metapaths
+single feature
+normalized connectivity
+candidate type
+network ab testing
+periodicity discovery
+time dependent topic modeling module
+periodic topic discovery
+entity taxonomy
+enterprise entities
+low-precision
+sparse setting
+leverage public
+highprecisionlowrecall patterns
+enterprise entity
+distributional semantics
+enterprise entity extraction
+positive seeds
+negative seeds
+pattern list
+positive entities
+type patterns
+type iii patterns
+type ii patterns
+discounted cumulative
+iblbased decision
+ranking agency
+manipulation problem
+voting rules
+grf framework
+queryspecic ranking
+queryspecic tuning
+type inference
+negative link prediction
+problem of negative link prediction
+nelp framework
+positive link prediction
+component analysis
+set packing problem
+set packing
+triangle packing problem
+maximum triangle
+newsworthiness score
+prominence profile
+statistical classification
+scientic impact prediction
+fgm
+bnet
+abstract meaning representation
+context-aware
+morph decoding
+morph mentions
+cold-start
+morph mention
+rice cake
+fan bingbing
+backpropagation
+opentext
+predicting event attendance
+location preference
+total attendance
+percentage of attendance
+home distance
+decision stumps
+predicting power
+label propagation based
+multiple event types
+appearance-based
+manual initialization
+optical ow
+object detector
+appearance based
+block diagram
+training video
+courtyard
+voc
+decision cost
+street view images
+direct and indirect trust
+binary search algorithm
+functional area
+big star
+real network datasets
+speakeasy
+traffic-congestion
+shiftbased model
+memcached
+link improvement
+consistent graph learning
+consistent network
+classication of information networks
+lowrank matrices
+squeeze and ripple
+outbound topk
+lower and upper bounds
+ink queries
+relation phrase
+context sparsity
+domain restriction
+distant-supervision
+relation phrases
+type indicators
+type propagation
+relation phrasebased
+token spans
+kb entities
+surface names
+phrase segmentation
+candidate entity mentions
+target type
+type indicator
+target type set
+relation phrase clustering
+weakly supervised
+truth existence
+true answers
+nonempty answers
+estimate truth
+truth distribution
+assembler
+scp mining
+frequent evolutions
+scp search tree
+geosensory data
+evolving interval
+question content
+multisource aggregation
+sfv dataset
+nits
+user reliability
+multichoice
+analytical processing olap
+truth discovery methods
+mae rmse
+geotagged messages
+brooklyn bridge
+transition pattern
+latent semantic regions
+transition snippets
+winery
+spatial sparsity
+world knowledge as indirect supervision
+specied world knowledge
+meaning representation
+relation expressions
+entity constraints
+multitype relational
+business review
+recognition and typing
+phrasal segmentation
+salient phrases
+raw frequency
+rectied frequency
+quality phrase
+phrase candidates
+interesting phrases
+ahocorasick automaton
+phrase list
+location based service
+representation learning
+fluid mechanics
+sensor placement
+link prediction in coupled networks
+coupled factor graph model
+proposed coupledlp
+coupled link prediction
+coupled network
+implicit target network
+unusual event detection
+unusual crowd events from mobile phone
+cylindrical cluster
+unusual crowds
+fuzzy set
+kuching
+infor-mation
+biological communities
+decomposition strategy
+tweets linking
+color drift patterns
+hypergraph ranking
+viper dataset
+person reidentication
+color drift
+spatialtemporal topology
+learning color drift
+distance learning
+hypergraph based
+camera network
+plug and play
+mobile communication network
+gpus
+video processing
+retweet prediction
+response graph
+rdf triple
+query relaxation
+selective search
+trolltrust model
+direct sum
+ng and gcat
+pie chart
+type hierarchy
+forego
+embedding space
+embedding methods
+network embedding
+network representation learning
+boltzmann
+fc layers
+feature map
+input image
+feature maps
+deep neural
+embedding learning
+kb relations
+vicsek model
+green bars
+latent parameters
+user supervision
+deep convolutional neural networks
+convolutional layers
+deep cnns
+localization candidates
+class scores
+pascal voc
+deep cnn
+localization performance
+question benchmark
+answer cardinality
+paraphrased questions
+question characteristics
+jacana
+sempre and parasempre
+topic entities
+query minimization
+ural
+coronal
+body orientation
+gopro
+units of fully connected layers
+scanning strategy
+deep convolutional neural
+image pyramid
+convolutional neural network
+fca
+fcb
+additive error
+explicit features
+preference learning
+geographic clusters
+checkin preferences
+checkin preference
+world dataset
+local event detection
+query window
+realtime local event detection
+realtime local event
+geotopic clusters
+keyword cooccurrence graph
+authority ascent
+activity timeline
+measure word
+text cubes
+topk representative phrases
+sibling cells
+distinctiveness measure
+popularity and distinctiveness
+contrastive document
+distinctiveness score
+dim queries
+warehouse
+latent keyphrase
+laki
+domain keyphrases
+domain keyphrase
+latent document keyphrases
+document keyphrase
+observed content units
+keyphrase inference
+content unit
+negative sampling
+relatedness scores
+mcdonalds
+wildcat
+plumbing
+authors future hindex
+group-level
+multiple star
+star query
+rank join
+traditional truth discovery
+trustworthy opinion
+quantitative opinion
+numeric truth discovery
+trustworthy opinion discovery
+density estimation
+conventional network
+southern europe
+phrase selection
+rare-class
+event nugget
+cold-start slot filling
+tri-lingual
+henley
+fritz heider
+point cloud
+manually-labeled
+sparse principal components
+spca
+gpl
+column selection
+relative-error
+linear algebraic sampling
+lvg
+polarization in social networks
+musk
+maximal approximate consecutive frequent
+support checking
+tdp
+maximal dense subgraphs
+mds diverse clusterone
+diverse clusterone
+yolo
+structured and typed
+luss
+open directory
+graph classication
+content-similarity
+truth analysis
+allocate tasks
+expertiseaware truth analysis
+expertiseaware task allocation
+truth analysis techniques
+dynamic hierarchical clustering
+skipgram model
+high level programming language
+spectral theory
+cut problems
+sparse wavelet
+golden section
+figure drawing
+learned embeddings
+type correlation
+partiallabel embedding
+negrained entity typing
+negrained typing
+automatically labeled training
+candidate types
+true types
+noisy candidate
+candidate type set
+rank loss
+target type hierarchy
+head token
+mention embeddings
+partiallabel loss
+training mentions
+embedding models
+hyena
+hyenas
+embedding techniques
+type classication
+predictive text
+simple machine
+parallel speakeasy
+prepared using sagej
+kuzmin et al
+failing triples
+walkover
+dog food
+decentralized search in expert networks
+simple group
+expert interconnection
+proof of theorem proof
+expert network models
+secret identity
+user retweet
+user strategies
+collaboration relation
+real-world network
+applied network science page of
+related molecules
+number of related molecules
+publication count method
+network reachability
+maxcredibility approach
+nonconvex penalties
+dimensional-values
+tartan
+twolevel matrix
+dimensional values
+block detection
+dense block
+length mdl principle
+feature aware matrix completion
+roman art
+latent intent
+hostname preference
+pure matrix factorization
+direct memory access
+filtering parameter
+pure mf
+geosm data
+user grouping and mobility modeling
+text sparsity
+grouplevel mobility modeling
+grouplevel mobility
+contextaware location prediction
+user grouping and mobility
+la and ny
+selective harvesting over networks
+active search
+selective harvesting
+active sampling
+thompson sampling
+sv regression
+donorschoose
+kickstarter
+alps
+base image retrieval
+landmark detection
+bollard
+orthography
+microblog items
+deep features
+multimodal multiview
+dense-block
+provably accurate
+size bounds
+bot activities
+denseblock detection
+anomalyfraud detection
+dense subtensors
+core-triangle pattern
+structured core pattern
+core-periphery
+kcore analysis
+inuential spreaders
+algorithm for estimating degeneracy
+inuential spreader identication
+estimating degeneracy
+inuential spreader
+growing collaboration networks
+gnu general public license
+constant-factor approximation
+centrality optimization
+group centrality
+collective-influence
+belief-propagation
+seed ranking
+realworld tensors
+demographic prediction
+users gender and age
+whoami method
+coupled network demographic prediction
+inferring user demographics
+comparative document analysis
+patentability
+distinct phrases
+semantic relevance
+salient phrase
+periodic region detection
+geographical and temporal information
+periodic region
+periodic regions
+contextual valence shifters
+sentiment shifting
+multitheme sentiment
+dierent themes
+multitheme and sentiment shifting
+shifter eect
+eects of shifters
+shifter eects
+theme descriptors
+common sentiment words
+rotten tomatoes
+heterogeneous event data
+hebe framework
+participating objects
+object embeddings
+event schema
+public datasets
+ling and weld
+technical documents
+facet extraction
+pos tag patterns
+topical concept
+rsl
+barcode
+nonlinear control
+lie algebra
+heisenberg
+parallel parking
+phasor
+leaf removal
+meteorology
+interferometer
+iesi
+quantum information
+kurosawa
+housing prices
+housing price
+delaunay triangulation
+london city
+thermal imaging
+opbilinear fusion
+model achieves
+tarp
+pedestal
+sparsest and normalized
+temporal cuts
+sparsest and normalized cuts
+phrasebased summarization
+cardiomyopathy
+gtsm data
+crossmodal correlations
+geographica
+temporal hotspots
+lasagne
+eminem
+uapd framework
+inherent factors
+urban anomaly prediction
+bayesian inference
+anomaly categories
+driveway
+precision recall precision recall precision recall
+imagemagick
+detection window
+human detection
+asus
+grassmannian
+node embeddings
+metapathvec and metapathvec
+node classicidcation
+inuence and selectivity vectors
+machining
+chaps
+morality play
+physical address
+free markets
+iese
+brunei
+bilu
+trigger scoping
+biographical fact extraction
+annotated triggers
+training event types
+reference chronicle
+imageimage search
+tweet ranking
+eventevent relation
+edward snowden
+trilingual edl
+cold start slot filling
+extended dependency tree
+trigger set
+trigger candidates
+trigger candidate
+relative importance scores
+candidate triggers
+liberal event extraction
+trae
+perfect amr
+aces
+evaluation window
+nerc
+figure evaluation window
+hausa
+yoruba
+adh
+antonis samaras
+dense-subtensor
+densesubtensor detection
+dense subtensor
+densest subtensors
+flexible algorithms for dense subtensor mining
+mzoom and mbiz
+mbiz mzoom
+mbiz mzoom seed
+mzoom seed
+wall clock time sec
+sle
+mulan
+big-picture
+general patterns
+sound techniques
+domain-dependent

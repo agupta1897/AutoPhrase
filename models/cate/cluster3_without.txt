@@ -1,0 +1,5065 @@
+supporting cooperative caching in disruption tolerant
+ieee
+disruption tolerant networks
+wei
+guohong cao
+department
+science
+engineering
+pennsylvania state university
+university park
+arun iyengar
+mudhakar srivatsa
+ibm
+watson research center
+hawthorne
+ny
+mobile computing
+stochastic processes
+internet
+infocom
+university
+web caching
+contentplace socialaware data dissemination in opportunistic
+breslau
+maxprop routing for vehiclebased disruptiontolerant networks
+usenix
+delaytolerant network architecture for challenged internets
+web cache
+ieeeacm transactions on networking
+exploiting transient contact patterns
+data forwarding in delay tolerant networks
+usercentric data dissemination in disruption tolerant
+content distribution
+distributed caching
+acm
+mops providing contentbased service in
+disruptiontolerant networks
+knapsack problems
+john wiley sons
+evolving internet architecture
+introduction to probability models
+academic
+epidemic routing for partially connected
+technical report
+duke university
+squid
+ieee journal on selected areas
+supporting cooperative caching in ad hoc
+predict and relay
+routing in disruptiontolerant networks
+data dissemination in disruption tolerant networks
+nature
+york
+usa
+opportunistic forwarding algorithms
+routing for publishsubscribe in delaytolerant
+delaytolerant manets
+multicasting in delay tolerant
+milano
+mondrian
+sigmod
+distributed computing
+bubble rap socialbased forwarding in
+routing in delay tolerant networks
+efcient routing
+intermittently connected mobile networks
+acm sigcomm workshop on delaytolerant networking
+distributed systems
+yorktown heights
+georgia institute of technology
+atlanta
+wireless internet
+journal
+month yy
+aguilera
+md
+fault tolerant
+network architectures
+ph
+song
+sun
+publishing
+technology
+wolf
+ietf
+international workshop
+peertopeer systems
+wagner
+unstructured peertopeer networks
+ieee transactions on parallel and distributed
+world wide web
+hawaii international conference on system sciences
+gouda
+social tagging
+weblogs
+finite element
+stanford
+network science
+eagle
+inferring social network structure using
+pnas
+siam
+kempe
+kernels on graphs
+signed networks in social media
+tang
+quantifying social group evolution
+limits of predictability in human mobility
+dynamic tensor analysis
+rankingbased clustering of heterogeneous information
+networks with star network schema
+social inuence analysis in largescale networks
+king
+penicillin
+jordan
+network architecture
+mathematical
+networking for tactical military networks
+quality of service for pervasive computing
+information science
+medford
+qualityofinformation aware networking for tactical military
+city university of new york
+university of southern california
+quantum
+international conference on information fusion
+optimizing information credibility in social swarming
+wireless sensor network
+ramesh govindan
+ucr
+la porta
+penn state university
+prasant mohapatra
+information security
+west point
+seattle
+ieee international conference on
+icc
+cape town
+south africa
+wireless sensor networks
+advanced technology
+telcordia
+network utility maximization
+signal processing
+rate control
+nilsson
+multihop wireless networks
+ieee international
+marina
+acm sigmobile mobile computing and
+communications review
+annual ieee communications society
+mesh and ad hoc
+annual joint conference of
+symposium on mobile ad hoc networking
+european
+telecommunications
+operational research
+society
+international conference
+prasanna
+sibel adal
+rensselaer polytechnic institute
+north carolina state university
+cognitive science
+automation
+software engineering
+falcone
+jinhee cho
+cuny
+neuroscience
+annual review of sociology
+sigchi
+human factors
+moray
+ergonomics
+web semantics science
+survey of trust in internet applications
+ieee communications surveys and tutorials
+multi agent systems
+northwestern university
+springer
+evidencebased trust
+multiagent systems
+autonomous and adaptive
+chungwei hang
+journal of articial intelligence research
+anatomy
+trust management
+berlin
+electronic commerce
+transactions on knowledge and data engineering
+trust in agent societies
+operators for propagating trust
+autonomous agents and multiagent systems
+budapest
+raleigh
+articial intelligence
+trust in multiagent systems
+taipei
+taiwan
+international foundation for autonomous
+agents and multiagent systems
+rights reserved
+uml
+modal logic
+dialectical
+van der
+gambetta
+trust making and breaking cooperative relations
+amoeba
+philosophical logic
+universal grammar
+ifip
+programming
+cambridge university
+discovery of animal movement patterns
+data mining
+movemine mining moving object data for
+zhenhui li
+jiawei han
+ming
+luan tang
+bolin ding
+illinois
+ibm almaden research center
+cyberphysical systems
+counterterrorism
+van kreveld
+sept
+david
+liao
+canada
+home office
+ester
+fast algorithms for mining association rules
+large databases
+morgan kaufmann
+san francisco
+sac
+ecology
+the acm sigmod international
+discovering clusters in large spatial databases
+acm sigkdd international conference on knowledge
+extratropical
+cyclones
+trajectory pattern mining
+encyclopedia
+gis
+advances in geographic information systems
+geographic information systems
+mao
+mining frequent patterns without candidate generation
+international conference on data engineering
+washington
+vldb endow
+london
+partitionandgroup framework
+swarm mining relaxed temporal moving object
+very large data bases
+acm sigkdd international conference on
+movemine mining moving object
+fox
+activity recognition
+international joint conference on
+the tenth acm sigkdd international conference
+international conference on extending database technology
+santos
+aaai press
+siam intl
+the ninth acm sigkdd international conference
+international conference on world wide web
+elsevier
+troy
+biology
+fax
+automat
+scutari
+barbarossa
+linji
+watts
+landau
+lewis
+hastings
+combinatorics
+econometrica
+platen
+math
+ibanez
+grosz
+bambi
+pocket switched networks
+efficient routing
+eyuphan bulut
+pervasive computing
+efcient routing in intermittently connected mobile
+cost effective
+probabilistic routing in intermittently connected networks
+sigmobile mobile computing and
+jain
+maxprop routing for vehiclebased
+wdtn
+erasure coding based
+in disconnected delaytolerant manets
+forwarding in delay tolerant networks
+delaytolerant networks
+international conference on computational
+toledo
+viol
+goliath
+rome
+italy
+national academy of sciences
+sahin cem geyik
+abstractthis paper
+amherst
+ma
+automatic construction
+dubrovnik
+croatia
+wireless communications
+shah
+usc
+vehicular technology
+yamaguchi
+iss
+bangalore
+electrical engineering
+berkeley
+harvard university
+disruption tolerant
+personal and ubiquitous computing
+boleslaw szymanski
+economics
+forests
+massachusetts
+decision analysis
+embedded networked sensor systems
+realtime systems
+network services
+welsh
+consensus formation
+and cognitive networks academic research center
+mathematics
+physics
+applied physics
+astronomy
+complex social systems
+collective dynamics
+statistical physics
+opinion formation
+social consensus
+theory exp
+san miguel
+particle
+candia
+preprint
+mani srivastava
+tarek abdelzaher
+cartel
+article submitted to royal society
+dynamic social networks
+embedded networked
+hull
+sensing system for cyclist experience mapping
+extended abstracts
+annual international conference
+memex
+the personal environmental impact report
+platform for participatory sensing systems research
+wardriving
+proceedings ieee
+acmieee international conference on
+international conference on mobile systems
+krieger
+for participatory sensing data collections
+international conference on pervasive computing
+ubiquitous computing
+loosely coupled
+ahmadi
+maps application
+grassroots
+coimbra
+portugal
+zurich
+switzerland
+chicago
+spie
+physical review
+sociology
+scientic collaboration networks
+united states of america
+statistical mechanics of complex networks
+reviews of modern physics
+cortes
+international journal
+williams
+measuring behavioral trust in social networks
+isi
+net works
+schelling
+micromotives and macrobehavior
+statistical physics of social dynamics
+shared vocabularies
+statistical mechanics
+complex networks
+naming games
+naming game in social networks
+community formation and consensus engineering
+received february
+revised manuscript received
+bass
+social contagion
+university of michigan press
+ann arbor
+knowledge discovery and data mining kdd
+thesis
+belkin
+suzuki
+winston
+journal of personality and social psychology
+coulson
+political science
+thaler
+loss aversion
+status quo
+krill
+cognitive neuroscience
+neurobiology
+transportation planning
+operations research
+ordination
+jd
+spatially embedded
+spontaneous order
+cations
+prentice hall
+englewood
+rodgers
+los alamitos
+arno
+hammond
+durban
+annual symposium
+hitchcock
+re search
+canadian
+princeton university
+princeton
+noh
+amaral
+park
+greiner
+cabrales
+marsh
+jr
+da silva
+carus
+monograph
+mathematical association of america
+random walks on graphs
+cambridge
+arxiv
+theoretical physics
+lecture notes
+ichinomiya
+oxford university
+condensed matter physics
+kish
+bellingham
+catanzaro
+girvan
+lecture notes in computer science
+queueing theory
+applica tions
+boston
+pastor
+jeffrey sachs
+metric spaces
+dierential equations
+ieeeacm trans
+cybernetics
+czech
+paris
+haggle project
+accordion
+acm sigcomm workshop on
+wood
+future challenges
+surrey
+acm sigcomm
+conan
+mobile ad hoc networks
+crawdad data set
+autonomic
+jierui xie
+recent developments
+industrial
+faust
+falcon
+barnard
+pattern anal
+modeling individual
+acl
+las cruces
+malkin
+distance education
+beijing
+nagoya
+aichi
+laboratory
+kauai
+selected papers
+published online
+nphys articles
+albertlszl barabsi
+center for complex network research
+northeastern university
+center for cancer systems biology
+medicine
+brigham
+harvard medical school
+comnaturephysics macmillan publishers limited
+disordered systems
+asymptotic properties
+infectious diseases
+influenza
+modelling disease outbreaks in realistic urban
+globalized
+natl acad
+calabrese
+blondel
+raster
+financial market
+scaling laws of human travel
+understanding individual human mobility patterns
+mantegna
+yule
+biometrika
+emergence of scaling in random networks
+glendon
+studying complex
+information technology
+correspondence and requests for materials
+zhen wen
+hanghang tong
+chingyung lin
+danafarber cancer institute
+international world wide web conference
+march april
+hyderabad
+recommendation network
+adar
+web intelligence
+origin of bursts and heavy tails
+lincoln
+powerlaw distributions in empirical data
+ebel
+moses
+american journal of sociology
+branching processes
+dover
+empirical analysis
+dynamics of viral marketing
+cascading behavior in large blog graphs
+soule
+corn
+poison
+diusion of innovations
+bursts and heavy tails in human
+epidemic spreading in real networks
+anthropological
+great britain
+ireland
+blackwell
+aral
+barabasi al
+editor
+zaragoza
+spain
+received december
+org march volume issue
+computational social science
+tie strengths in mobile communication networks
+gabrielli
+buldyrev sv
+scaling laws of human
+phys rev
+collective attention
+artificial intelligence
+development aid
+sheetz
+st edition
+mingwei chang
+dan roth
+university of illinois at urbana champaign
+vivek
+mcdonald
+fernando pereira
+mercer
+classbased ngram models of natural language
+computational linguistics
+alexander
+chengxiang zhai
+semi supervised
+conditional random elds probabilistic models for
+segmenting and labeling sequence data
+massachusetts institute of technology
+automata
+misconceptions in named entity recognition
+annual conference
+computational natural language learning conll
+fien
+structured output learning with indirect supervision
+il usa
+international conference on machine learning
+haifa
+part of speech tagging
+tern
+machine intelligence
+santorini
+global inference for entity
+introduction to statistical relational learning
+neural computation
+cherry
+mark sammons
+dras
+pattern analysis and machine intelligence
+galley
+champaign
+orleans
+corroborating information from disagreeing views
+authoritative sources
+truth discovery with multiple conicting
+petko bogdanov
+ambuj singh
+santa barbara
+ucsb
+latent social
+hot topics
+signed graphs
+andersen
+knight
+journal of machine learning research
+lerner
+propagation of trust and distrust
+conference on world wide web www
+spectral analysis
+finding and evaluating community
+british sociological association
+welser
+american sociological association
+uc santa barbara
+uppsala
+sweden
+applied mathematics
+korn
+jagadish
+jermaine
+boca
+fl
+number theory
+robotics
+carnegie mellon university
+pittsburgh
+debenham
+identifying robust
+beta reputation
+peertopeer networks
+atf
+statistical inference
+duxbury
+honolulu
+agent systems
+durham
+belgium
+knowledgebased systems
+bled
+slovenia
+trust and reputation systems
+online service
+decision support systems
+jair
+hungary
+international joint conference on articial intelligence
+bologna
+computational intelligence
+toronto
+st national conference on articial intelligence
+biometrics
+distributed reputation management
+catholic university of america
+delaytolerant network
+umass
+wormhole
+routing in dtns
+dietrich
+floyd
+routing in intermittently connected mobile networks
+studer
+xifeng yan
+university of california santa barbara
+iden
+ide
+multicasting in delay tolerant networks
+rus
+altman
+bhadra
+inexact graph matching
+sapper
+usa ieee computer society
+large directed graphs
+graduate texts in mathematics
+epl
+interdisciplinary center
+university of notre dame
+notre dame
+rensselaer polytechnic
+polytechnic institute
+random processes
+convex optimization
+random geometric graphs
+th international world wide web conference
+university of california press
+kaski
+information management
+balfe
+nagaraja
+adhoc networks
+communications icc
+knowledge management
+distributed processing
+distributed sensor networks
+digital audio
+gong
+waterloo
+netanyahu
+military communications
+malik magdonismail
+mark goldberg
+macy
+orlando
+management science
+algorithms for disambiguation to wikipedia
+annual meeting
+association for computational linguistics
+portland
+jiangsu province
+jiangsu
+calif
+prague
+pasadena
+witten
+fan ye
+intelligent transportation systems
+ieee communications magazine
+htc
+garmin
+habitats
+pothole
+kinetic
+preserving privacy
+soil
+exact algorithms
+thiagarajan
+sensing meets mobile social networks
+intelligent systems
+ibm research
+kellogg
+mgmt
+raghu ganti
+research staff member
+siebel
+madras
+tsinghua university
+columbia university
+chinese academy of sciences
+minnesota
+disco
+peebles
+quorum
+searchlight
+finding communities
+cs department
+heterogeneous social networks
+borodin
+link analysis
+finding community structure in very large
+topicsensitive pagerank
+an individuals scientic research output
+digital library
+sampled spectral distance embedding
+ranking for heterogeneous information network analysis
+jennifer golbeck
+humancomputer interaction
+university of maryland college park
+vancouver
+personality and social
+australia
+athens
+psychology
+trust in webbased social networks
+phd
+maryland
+college park
+holmes
+acm sigkdd
+electronic media
+graphical interface
+nass
+lawrence erlbaum associates
+conference on artificial intelligence
+citeseer
+swinton
+oder
+lans
+pattern recognition
+castro
+baum
+annals of mathematical statistics
+dempster
+laird
+the royal statistical society
+series methodological
+advances in neural information processing systems
+speech recognition
+conference on articial intelligence
+vehicular ad hoc networks
+challenged networks
+intl conf
+centrality in social networks conceptual clarication
+distributed community detection in delay tolerant
+yang zhang
+tom la porta
+bhaskar krishnamachari
+web services description language
+forwarding in delay tolerant
+orbit
+gummadi
+ieee transactions on vehicular technology
+monet
+communications and networking conference
+louvre
+reality mining sensing complex social systems
+of wireless pda users
+chi wang
+university of illinois at urbanachampaign
+xiang li
+wenpin lin
+adam
+hao li
+heng ji
+linguistics
+north american
+mining advisoradvisee relationships from research publication
+fth acm
+conference on digital libraries
+tufts
+shared database of structured general human
+national conference on articial intelligence
+cunyblender tackbp entity linking and
+association of computational linguistics
+frey
+mit press
+base population successful approaches and challenges
+zheng chen
+suzanne tamang
+heng ji computer science department
+queens college
+graduate center city university of
+text analysis conference tac
+alchemy
+archbishop
+peter akinola
+consecrated
+virginia
+bishop
+ravichandran
+entity linking and slot filling
+statistical relational
+verdejo
+ali
+kobza
+vaughan
+applied probability
+rajab
+swat
+international conference on distributed computing systems
+kent
+zidane
+circuits and systems
+annual acm symposium on
+montreal
+deng
+crossdocument information extraction
+queens college and graduate center
+le mans
+france
+international computer science institute
+automated text
+message understanding
+scotland
+an electronic lexical database
+squash
+matthew
+javier artiles
+the tac knowledge base population track
+open data
+nyu
+ralph grishman
+york university
+heng ji and ralph grishman
+rening event extraction through
+pedro domingos
+manas
+bharat
+entities with knowledge base
+mechanical and aerospace engineering
+santa fe new mexico
+dsouza physical review
+citrus
+social sciences
+conference on information and knowledge management
+swaminathan
+fourth international
+icse
+minneapolis
+saul
+porter
+random structures and algorithms
+econometrics
+random struct
+week ending
+mathematical sciences
+peking university
+introduction to percolation theory
+taylor francis
+percolation theory
+manna
+amsterdam
+landsberg
+da costa
+percolation on interacting
+random structures
+algo rithms
+semi-automatic
+grazing
+stevenson
+oren etzioni
+open information extraction
+lexical analysis
+statistical machine translation
+americas
+edinburgh
+kingsbury
+kevin knight
+special issue
+roman
+singapore
+vldb endowment
+copyright vldb endowment
+kroger
+access methods
+oracle database
+white paper
+dogma
+higher education
+ecml pkdd
+genome
+ranked keyword
+keyword search on graph
+anu
+foggia
+shang
+bioinformatics
+frequent structurebased
+gaddi
+match query
+successful approaches and challenges
+shared task
+cross document
+georgia
+ubc
+icl
+magazine
+julia roberts
+satoshi sekine
+international semantic web conference
+bharath
+vasudeva
+angel
+saarland university
+paul mcnamee
+john lehmann
+luke
+hoa trang dang
+mayfield
+experimental psychology
+attila
+sergey brin
+rajeev motwani
+terry winograd
+the pagerank citation ranking bringing order
+mihai surdeanu
+bhilai
+durg
+sheffield
+braga
+municipal council
+somerville
+parton
+coyne
+recent advances in natural language processing
+kender
+hauptmann
+event extraction through crossdocument inference
+distant supervision for relation extraction
+image processing
+islam
+stockwell
+michigan
+assistant professor
+xide lin
+qiaozhu mei
+goodwin ave
+snakdd workshop
+oscar
+dyadic data
+scalable inuence maximization for prevalent
+viral marketing in largescale social networks
+dietz
+probabilistic latent semantic indexing
+moon
+citation analysis
+scientometrics
+hoboken
+topic modeling with network regularization
+plagiarism
+authortopic models
+itopicmodel information
+arnetminer extraction and mining of academic
+topicsensitive inuential twitterers
+multivariate statistics
+language modeling approach to information
+probabilistic topic models with biased
+propagation on heterogeneous information networks
+hongbo deng
+bo zhao
+structuralcontext similarity
+probabilistic topic models
+newton
+ics
+image analysis
+a largescale hypertextual web search engine
+hypertext
+algorithms for nonnegative matrix factorization
+scientic computing
+jing gao
+hawthorn
+interaction graphs
+planet
+identifying densitybased local outliers
+fern
+efcient detection
+distancebased outliers
+combining multiple partitions
+rankingbased classication of heterogeneous information networks
+linkbased classication
+rutgers
+large document collections
+graphbased consensus maximization
+multiple supervised and unsupervised models
+survey sampling
+elements of statistical learning
+multitype relational data
+ranking bringing order to
+grouper
+charu aggarwal
+yizhou
+christos faloutsos
+semisupervised clustering
+evolutionary spectral clustering by incorporating
+uncertainty in articial intelligence
+saddle river
+shiga
+hanover
+graph clustering based on structuralattribute similarities
+uic
+microsoft corporation
+dexa
+hector garciamolina
+gerhard weikum
+cornell
+amol
+wac
+pattern detection
+bsd
+spiros papadimitriou
+jimeng sun
+jure leskovec
+rakesh agrawal
+jian pei
+fagin
+middleware
+scaling personalized web search
+normalized cuts and image segmentation
+fast random walk
+ziyu guan
+dhsids center for multimodal information
+singapore management university
+university of california at santa barbara
+university of illinois at chicago
+semantic web
+graphs over time densication laws
+shrinking diameters and possible explanations
+mining closed
+large networks natural cluster sizes
+knowledge engineering
+salem
+refactoring
+constantine
+jiawei han department of computer science
+la palma
+statistical learning
+number of labelsaccuracy vmermrandomlscuncertainty
+based transductive
+computational learning theory
+spectral graph theory
+matrix computations
+johns hopkins university
+yu zheng
+xiao yu
+object tracking
+unisys
+trualarm trustworthiness analysis of
+sensor networks in cyberphysical systems
+travel sequences from gps trajectories
+manish gupta
+aggarwal ibm
+eventbased framework
+microscopic evolution of social networks
+evolutions in dynamic
+graphscope parameterfree mining of large timeevolving
+coauthor relationship prediction in heterogeneous bibliographic
+kotagiri
+bing liu
+elisa
+schubert
+scientic collaborations
+link mining
+sigkdd explor
+link prediction using supervised learning
+status index derived from sociometric analysis
+link prediction problem for social networks
+clustering and preferential attachment in growing
+mining sequential patterns
+pathsim meta pathbased topk similarity search
+factor graphs
+social recommendation
+sumproduct algorithm
+vipin kumar
+shiwei
+qiang yang
+inuence maximization in social networks
+social inuence in online
+distinguishing social inuence
+mining knowledgesharing sites for viral marketing
+gpsbased cyberphysical social network
+urbana champaign
+gpsbased cyberphysical
+cyber physical systems
+pons
+communities in large networks
+trualarm trustworthiness analysis of sensor networks
+troubleshooting
+european conference on articial intelligence
+sangkyum kim
+authorship attribution
+manohla dargis
+skidmore
+linguist
+hong cheng
+edda
+hoover
+stylistics
+humanities
+addison wesley
+nijssen
+constraint programming
+raina
+stanford university
+online advertising
+user modeling
+contextual advertising
+ellison
+journal of computermediated communication
+systems engineering
+tapestry
+impedance
+quanquan gu
+multitask feature
+joint feature selection and subspace
+stephen boyd
+american mathematical society
+baltimore
+simon baker
+sparse principal component analysis
+technical reports
+dharmendra
+theoretic coclustering
+tao li
+greece
+dblp bibliography
+managing and mining graph data
+discovering large dense subgraphs in massive
+computational biology
+differential privacy
+linear algebra
+hay
+barak
+kale
+talwar
+learning theory
+extended abstract
+web communities
+surya
+bari
+whitworth university
+sigkdd explorations
+midwest
+thomas huang
+beckman institute
+orienteering
+barcelona
+madrid
+heath
+naaman
+washington dc
+discovering geographical topics
+colorado
+germany
+structural analysis
+aldo moro
+webmaster
+caccamo
+herzog
+dean
+seventh ieee international conference on
+dong et al
+national chiao tung university
+cyberphysical system cps
+ferrari
+aerospace
+eastman kodak company
+image databases
+ontario
+remote sensing
+idar
+philosophical magazine
+jie tang
+national laboratory
+variational principle
+scripps
+scheer
+british medical journal
+harvard business school
+hershey
+bae
+learning from labeled and unlabeled data
+friedland
+linear prediction
+pope
+subjective logic
+source dependence
+dewey
+cpc
+isdn
+integrating conicting data
+florham park
+acm international conference on web search
+computing with social trust
+international conference on computational linguistics coling
+vehicle-platoon
+fellow
+vehicular ad hoc
+gaur
+transportation research
+eriksson
+cabernet
+xian jiaotong university
+ohio state university
+nsf career award
+applied sciences harvard university
+harvard
+applications miscellaneous
+aaai conference on articial intelligence
+labor economics
+empirical methods in natural language processing
+pavlov
+alberta
+von ahn
+stern
+meena
+dan roth university of illinois
+mumbai
+seoul
+global inference in natural language tasks
+peter norvig
+stirling
+kluwer academic publishers
+michael collins
+bayesian statistics
+trec enterprise track
+finding scientic
+national academy of science
+fraunhofer
+university of massachusetts amherst
+relevance propagation
+latent semantic analysis
+yoav
+nanda
+raphael
+guodong zhou
+semantic relation
+psych
+labeling srl
+providence
+monaghan
+goldwater
+computational neuroscience
+university college london
+kluwer academic
+epenthesis
+hague
+boston university
+newport
+rushen
+child development
+computational natural language learning
+jacob
+columbus
+ohio
+sydney
+netherlands
+eugene
+conditional models
+university of california santa cruz
+abstractwe study
+collective dynamics of smallworld networks
+aceves
+cancun
+dynamic optimization
+renewal systems
+asilomar conference
+queueing networks
+queueing systems
+opportunistic scheduling
+foundations and trends in networking
+constrained wireless
+decision and control cdc
+adaptive control
+optimal control
+fairness and optimal stochastic
+communication and queueing systems
+morgan claypool
+fair resource allocation in wireless networks
+scheduling and congestion control
+greedy primaldual algorithm
+scheduling in wireless
+greedy primaldual
+paradise island
+bahamas
+annual allerton
+monticello
+partially observable
+arxiv technical report
+athena
+belmont
+max weight learning algorithms
+scheduling in unknown environments
+aware scheduling in task processing networks
+ertugrul necdet ciftcioglu
+aylin yener
+sequential decision
+utilitydelay tradeoff
+longbo huang
+delay tradeoffs
+backpressure routing
+collection protocol
+ronald
+tutor
+invited paper
+superfast
+utility optimal
+nonlinear optimization
+energy and delay
+multiuser wireless
+information processing
+philosophical transactions
+royal society
+backpressure scheduling and routing
+san antonio
+stability properties of constrained queueing
+maximum throughput in multihop radio networks
+automatic control
+doppler
+st int
+and wireless networks wiopt
+catalunya
+symposium on networked systems design
+economics of peertopeer systems
+philadelphia
+bram cohen
+multihop radio networks
+dynamic server allocation to parallel
+queues with randomly varying connectivity
+guelph
+amotz barnoy
+fodor
+chichester
+working paper
+kellogg school of management
+prithwish basu
+don towsley
+brooklyn college
+raytheon
+inria
+sophia antipolis
+graduate center
+the canadian traveller problem
+clementi
+edgemarkovian dynamic graphs
+broch
+dynamic source routing
+cologne
+utility optimal scheduling
+power management
+monitoring sensor
+vlsi
+solar energy
+embedded systems
+mit technology review
+rechargeable batteries
+renewable energy
+inventory control
+processing networks
+reliable multicast
+connected dominating sets
+gandhi
+nodeweighted steiner
+collaborative teams
+algebraic topology
+dynamic spectrum access
+national research
+technical university
+darmstadt
+muhammad
+cohomology
+link state routing
+ondemand distance vector
+workshop on mobile computing systems
+self organization
+signal process
+wireless networks using simplicial complexes
+broadcasting in multiradio multichannel
+uc davis
+multiradio multichannel
+minimum spanning
+wireless mesh networks
+connected set cover problem
+multichannel wireless
+enz
+theoretical computer science
+source and channel coding
+carnap
+infor mation
+bacchus
+philosophical
+cognitive linguistics
+juba
+sudan
+freiburg
+bell system technical journal
+piscataway
+information theory
+condensed matter
+fraction of sampled top sampled fraction
+shrinking diameters
+estimating and sampling graphs with multidimensional
+betweenness centrality based on random walks
+eppstein
+lio
+sokol
+enhance distributed network security
+credit allocation
+symmetric games
+acm conference on electronic commerce
+san jose
+ieee international conference on ecommerce technology
+network creation
+fugger
+mechanism design
+economic theory
+quilts
+patrick jordan
+strategic reasoning
+quarterly journal of economics
+alan mislove
+peter druschel
+krishna
+abraham
+qing
+finding credible information sources in social
+shear
+bernstein
+learning representations
+mcgill
+personality and social psychology
+measuring user inuence
+the million follower fallacy
+nairn
+conference on world wide web
+international aaai conference on
+university of california berkeley
+palo alto
+coyote
+st snakdd workshop on web mining
+interests from social neighbors
+skyline drive
+assignment problem
+network diversity
+mining association rules
+data science
+knowledge organization
+timur
+university of michigan ann arbor
+cesana
+capone
+srinivas
+hong kong
+goma
+symposium on principles of distributed computing
+calgary
+christos papadimitriou
+annals of mathematics
+latex
+dynamical networks
+collier
+parallel distrib
+collective dynamics of smallworld
+szymanski bk
+vorticity
+graphical multiagent models
+historydependent graphical multiagent
+pure nash
+markov random elds
+conference on uncertainty in articial intelligence
+helsinki
+ninth international
+university of british columbia
+behavioral experiments
+kiss
+international joint
+annual international acm sigir conference on
+development in information retrieval sigir
+volume issue
+chinese language
+informatica
+institute on complex systems
+evanston
+federal reserve
+early edition
+syndication
+alex arenas
+mark rivera
+stouffer
+northwestern institute on complex systems
+strogatz sh
+merton
+proc natl acad sci usa
+vox populi
+barabsi al
+phys rev stat nonlin soft
+finance
+spp
+nonlin soft matter phys
+www conference
+association for computing machinery
+cetina
+galloway
+millennium
+brian uzzi
+downloaded from arjournals
+orgby northwestern university evanston campus on
+ajs
+american sociological review
+administrative science quarterly
+monge
+org dynamics of dyads
+van duijn
+global communication
+chemistry
+montoya
+friendship formation
+lancaster
+opportunism
+sing sing prison
+hudson
+upstate
+brass
+genesis
+classes of smallworld
+interpersonal attraction
+faulkner
+norwich
+small worlds
+cohabiting
+married couples
+caste
+burt rs
+racial prejudice
+newman mej
+organ
+holland
+inferring friendship network structure by
+interpersonal relations
+economic action and social structure
+secondary schools
+population ecology
+freedom and control in modern society
+van nostrand
+phoenix
+modena
+theories of communication networks
+oxford
+assortative mixing in networks
+georg simmel
+causal inference
+economic sociology
+income inequality
+lynn
+tarragona
+epilepsy
+critical transitions
+generalitat
+ginsberg
+routledge
+computational science
+parliamentary
+democracies
+horse race
+punctuated equilibrium
+econometric
+text analytics conference tac
+case study on entity linking
+tackbp entity linking
+rwth aachen
+aaai conf
+introduction to information retrieval
+processing systems nips
+hamilton
+gang
+cicero
+vladimir vapnik
+neural networks
+related fields
+simon parsons
+elizabeth sklar
+peter mcburney
+bedford
+pollock
+banff
+web semantics
+computational models of argument
+lyon
+fundamental role in nonmonotonic reasoning
+logic programming and nperson games
+logic programming
+annotation workshop
+communica tions
+surveys and tutorials
+international conference on trust management
+social networkbased trust in
+default logic
+spear
+online recommender systems
+international conference on social informatics
+laxenburg
+austria
+complex social networks
+tortoises
+dialectics
+halberstadt
+norman
+reasoning about trust using argumentation
+workshop on argumentation in multiagent systems
+pasternak
+carpentry
+trust among strangers in internet transactions
+souths
+yuqing tang
+csl
+transitive trust
+position paper
+garcia
+san mateo
+heidelberg
+argumentation to reason about trust
+abstract trust
+bergen
+norway
+automated reasoning
+concord
+hobart
+chemical information
+hermes
+workshop on online social networks
+araucaria
+socialwiki bring order to
+haifeng zhao
+prantik bhattacharyya
+shyhtsun felix wu
+felix wu
+davis social links
+lexical database
+statistician
+digital libraries
+barbaro
+heinz
+manor
+infographic
+zinoviev
+spearmans rank correlation
+american journal of psychology
+trusted computing
+shilling
+tanis
+massa
+acm conference on recommender systems
+international conference on intelligent user interfaces
+trust in recommender systems
+publication date
+social network based
+received march
+accepted june
+latin
+social network analysis
+furnas
+bradford
+linkprediction problem
+geographic routing
+proc natl acad sci
+social computing
+ieee international conference on social computing
+unbiased sampling
+knuth
+john wiley
+fast computation
+sigcomm conference on internet measurement
+blackburn
+duen horng
+polo
+kittur
+jason
+jigsaw
+uist
+jstor
+verbal behavior
+graph drawing
+bay
+snare
+librarian
+exploratory data analysis
+task analysis
+rodrigues
+viau
+heterogeneous networks with tensor analysis
+multiaspectforensics pattern mining on largescale
+fujitsu
+kanagawa
+christos faloutsos carnegie mellon university
+inductive logic programming
+printing
+regular graphs
+drosophila
+kolda
+ieee international conference on data mining
+datalog
+graphbased anomaly detection
+oddball spotting anomalies in weighted graphs
+seventh international conference on
+international acm sigir conference on research
+icsi
+devil
+embryogenesis
+wiley and sons
+siam international conference on data mining
+chemometrics
+sandia
+leman akoglu
+medical insurance
+bolton
+fault detection
+shearer
+sfgate
+vouliagmeni
+virtual community
+surprising patterns
+vaz de melo
+universidade federal de minas gerais
+heinz college
+applied statistics
+fisk
+massive social networks
+mlg
+mathematical statistics
+american statistical association
+hydrology
+large-scale graph
+largescale graph
+apache hadoop
+duen horng chau
+international command and control
+purdue university
+zadok
+in large attributed graphs
+online auction
+online accessed
+evolution of user interaction in facebook
+theory and immunization algorithms
+virus propagation on timevarying networks
+aditya prakash
+university of california riverside
+pastorsatorras and vespignani
+infectious diseases of humans
+supercomputing
+informational cascades
+journal of political economy
+ben avraham
+underlying process of wordofmouth
+threshold models of collective behavior
+trawling
+hanghang tong ibm
+tina
+rutgers university
+kdd conference
+kcore decomposition
+measures of centrality based on betweenness
+acmsiam symposium on discrete algorithms
+perseus
+brody
+probabilistic graphical models
+mosaic
+base population
+kdd conf
+www conf
+arijit khan
+mario
+acm kdd conference
+acm kdd conf
+outbreak detection in networks
+viral infection
+public opinion
+speech acts
+sigir conference
+stork
+structural correlations in graphs
+zhejiang university
+remote control
+cluster analysis
+kcenter problem
+pucci
+bringing order
+fast incremental
+proximity search in large
+fast graph search
+university of california los angeles
+planar graph
+vigna
+compression techniques
+ganjam
+protein interaction networks
+nucleic acids
+bmc bioinformatics
+pager
+principled method
+smeaton
+saadia
+bruce croft
+tim duncan
+ian crocker
+alain bernard
+formal models for expert nding
+enterprise corpora
+van den
+hawking
+queensland
+thuir
+horowitz
+bach
+development in information retrieval
+neural information processing systems
+bitam
+st ed
+milton keynes
+multivariate analysis
+discrete mathematics
+maui
+web graphs
+lacroix
+expert syst
+dondi
+based on densest subgraphs
+jaideep srivastava
+social net works
+nsf career grant
+fmf
+review letters
+cellular automata
+honey
+cerebral cortex
+sirocco
+graph evolution densication and shrinking diameters
+behavioral ecology
+sociobiology
+in massively multiplayer online roleplaying games
+engineering university of minnesota minneapolis
+national center for supercomputing applications
+videogames
+literacy
+palgrave macmillan
+goblins
+tree house
+operations management
+human resource management
+discourse analysis
+human resources
+national academy
+hefei
+harpercollins
+multiple sequence alignment
+nucleotides
+copenhagen
+denmark
+journal of molecular biology
+soft computing
+customer churn
+customer churn prediction
+expert systems
+ghent university
+gelfand
+nucleic acid
+the weka data mining software
+diversity in mentoring network
+national chengchi university
+taipei city
+rep tree bagging rep tree linear
+cc mae rmse rae rrse
+rep tree
+eibe frank
+bernhard pfahringer
+burroughs
+organizational psychology
+cyberpsychology behavior
+carnegie
+utrecht university
+utrecht
+sherry
+wyeth
+riga
+synth
+caesar
+communications surveys tutorials
+xicheng
+lehman
+uc santa cruz
+caching in ad hoc networks
+schiller
+yang yang
+sameet sreenivasan
+plos comput
+link communities reveal multiscale
+macon
+crawdad data
+exchange in trust networks
+aurangzeb
+marshall scott poole
+network motifs
+rtg
+brian keegan
+dmitri williams
+noshir contractor
+deviant players in mmogs
+scott poole
+fullerton
+poole
+multiplayer online roleplaying games
+management in pp networks
+management information systems
+network motifs simple building blocks of
+omaha
+budding yeast
+ieee intl
+social intelligence
+university of illinois urbana
+jayachandran
+hard realtime
+soft realtime
+gill
+palencia
+lipari
+guojun qi
+web and social media
+conic
+packer
+utsa
+tsx
+national university
+hong kong university of science and technology
+augsburg
+rohrbach
+szarvas
+marx
+nserc
+nonlinear systems
+schagen
+systems theory
+linear systems
+basel
+delivery service for situation awareness
+contentbased image retrieval
+sensor selection in linked information networks
+charu aggarwal ibm
+cuny graduate center
+ip greedy sampling
+data reduction
+braid
+dong wang
+harsha
+university college
+yorktown
+melville
+realtime systems symposium rtss
+acoustics
+john wiley and sons
+international conference on data mining icdm
+distributed optimization
+networked sensing
+intelligent user interfaces
+john odonovan
+tobias hollerer
+topicnets visual analysis of large
+text corpora with topic modeling
+asuncion
+university of california irvine
+text visualization
+speer
+havre
+freire
+auber
+cytoscape
+tulip
+tom sawyer
+digital economy
+australian research council
+welling
+crystallization
+tea leaves
+bordeaux
+whitney
+amin
+lieberman
+criminology
+sparrow
+dunbar
+organized crime
+strauss
+canter
+logit
+acoustical society of america
+chicago university
+academy of management review
+basic books
+secret societies
+social forces
+westview press
+boulder
+national academies
+sage publications
+social change
+public management
+structure and function of complex networks
+exponential random graph models for social
+transaction publishers
+annenberg school for communication
+behavioral sciences
+zoheb borbora
+shool
+link discovery
+al hasan
+workshop on link analysis
+joint conf
+evolving social networks
+herring
+dill
+pew
+hancock
+annual review of psychology
+lancet
+information society
+psychologist
+civic engagement
+marlowe
+bowling
+simon schuster
+malden
+harvard business review
+bios
+american psychological association
+hillsdale
+psychoticism
+psychiatry
+developmental psychology
+transpersonal
+online roleplaying games
+clinical psychology
+prepress
+organizational theory
+proteus
+virtual reality
+ostracism
+ethnography
+carlton
+white plains
+gamasutra
+gloucester
+whistler
+latour
+organizational communication
+web science
+bureaucracy
+university of chicago press
+domestication
+deep south
+livermore
+livingstone
+thousand oaks
+constitution
+lawrence erlbaum
+folly
+organizational learning
+bacterial
+lada
+theodore
+internal medicine
+medical school
+livny
+christie
+kahn
+titular
+charikar
+simplied data processing on large clusters
+conceptual clarication
+gibbon
+index derived from sociometric
+stata
+hypermedia
+adhoc network
+mobile ad hoc networking
+annual ieee
+flores
+nonlinear programming
+corr abs
+vision and pattern recognition cvpr
+horn
+biomedicine
+cell biology
+proteome
+ufrj
+acer
+seventh international
+marbach
+respondentdriven sampling
+rhu
+bruno ribeiro
+university of south australia
+artel
+duke
+melbourne
+social net
+ohm
+helpful discussions
+pak
+steve lawrence
+taylor cassidy
+department queens college and graduate center
+lodhi
+generating typed dependency
+parses from phrase structure parses
+semeval task
+exploiting background
+ummah
+city university
+palestine
+inference to improve event extraction
+news event
+intelligent information
+queens college city university of new york
+glasgow
+vassar
+colgate university
+utopian
+flowering
+untraceable
+preston
+yale law school
+american political science review
+pitcher
+leach
+vogt
+warner
+potts model
+nature biotechnology
+community structure in social and biological
+fast algorithm for detecting
+community structures in largescale networks
+notes comput
+van dongen
+approach to nding communities
+benchmark graphs for testing
+community structure in complex networks
+finding overlapping communities
+hyperbolic space
+catastrophic cascade of failures in interdependent
+chanson
+computational geometry
+crc press
+pias
+shlomo havlin
+levich institute and physics department
+city college
+potsdam
+stockholm university
+futures studies
+barilan university
+ramat gan
+received september
+subject areas
+temporal motifs
+statistical association
+bourdieu
+van de bunt
+multiplayer online game
+acm sigkdd international
+mixed membership
+curler
+nec
+projective
+pittsburgh pa
+stereo
+large scale graph mining
+brendan
+pearl
+santana
+mathematically tractable graph generation and evolution
+spectral analysis for billionscale graphs discoveries
+plano
+numerical linear algebra
+eigenspokes surprising patterns and
+collective wisdom processes
+authors addresses
+requested from publications dept
+ccid acm
+joyce
+and soft matter physics
+interna tional
+cmb
+matrix estimation
+national bureau of standards
+evolutionary algorithm
+le moyne college
+wildfires
+newark
+crisis management
+natural hazards
+gothenburg
+newbury park
+prater
+gaithersburg
+joseph henry
+oak ridge national laboratory
+transactions on automatic control
+la jolla
+glx
+allerton conf
+making better informed trust decisions
+generalized factnding
+contentdriven trust propagation framework
+slate
+amy goodman
+paul krugman
+robert parry
+dan eggen
+paul kane
+frank rich
+jon stewart
+morrissey
+jim hightower
+sharif
+ray mcgovern
+greg palast
+matt taibbi
+robert reich
+john nichols
+arianna huffington
+kaiser family foundation
+royal statistical society
+global detection of complex
+copying relationships between sources
+acm sigir conf
+evidentiality
+hieu le
+lance kaplan
+sailing
+semisupervised truth discovery
+conference on computational natural language learning
+valletta
+malta
+optimal replication
+businessweek
+supporting cooperative caching in disruption
+caching in wireless pp networks design
+data dissemination in opportunistic
+rollo
+komenda
+july accepted
+distributed database
+multi- user
+slippery rock university of pennsylvania
+penn state
+distinguished professor
+cooper union
+lucent technologies
+bell labs
+communications magazine
+tau beta pi
+phi beta kappa
+multi-core
+fourth acm international conference on web
+salerno
+operational information content sum capacity
+sadiq
+el gamal
+senior member
+opportunistic spectrum access
+restless bandit
+whittle
+asilomar conf
+sel
+avignon
+grid computing
+allerton conference on communication
+ibm infosphere streams
+intelligent transportation
+saini
+cluster computing
+convex analysis
+haidian
+beihang university
+thermodynamics
+regime change
+electron
+discrete math
+theory taylor francis
+insect
+sciences institute
+canterbury
+christchurch
+received april
+leigh
+falster
+haldane
+weyl
+mutualism
+melian
+loyola
+oikos
+ordinary differential equations
+bethesda
+deventer
+heavy tails
+american college of physicians
+prognosis
+genetic markers
+heavy subgraphs
+deregulation
+prog
+transcriptome
+nitrate
+temporal variation in online media
+stochastic models
+hammerstein
+bronstein
+ollerton
+luque
+gabriel
+field museum
+biogeography
+identication of overlapping communities
+neu
+lace
+overlapping communities in social networks
+overlapping community structure of complex
+jura
+overlapping and hierarchical community structure
+nicosia
+graphs with overlapping communities
+hierarchical community structure
+identication of overlapping
+structure of complex networks
+network community detection
+error and attack tolerance of complex
+tauro
+danai koutra
+information engineering
+bmj
+threshold conditions
+arbitrary cascade models on arbitrary networks
+dynamical processes on complex networks
+yorke
+gonorrhea
+anil kumar
+epidemic spreading in scalefree networks
+hilbert
+bangkok
+thailand
+spectral distance embedding
+java applet
+santo
+alex sandy pentland
+epfl
+martigny
+lausanne
+devon
+alex pentland
+huan liu
+arizona state university
+nonlinear dynamics
+legrand
+world health organization
+transactions on intelligent systems and technology
+marketing research
+nsw
+geographic constraints on social network groups
+environmental engineering
+maribor
+scalefree networks complex webs in nature
+natl acad sci usa
+controllability of complex networks
+yangyu liu
+jeanjacques slotine
+albertlaszlo barabasi
+transcription factor
+gene regulatory network
+departments of physics
+mechanical engineering
+cognitive sciences
+saccharomyces cerevisiae
+caenorhabditis elegans
+pp pp pp
+robust control
+mathematical description of linear dynamical systems
+indus
+applied nonlinear control
+pinning control
+di bernardo
+pinning synchronization
+exploring complex networks
+lombardi
+gene expression
+maximum matchings in bipartite graphs
+critical phenomena
+fosca
+pisa
+fet
+monreale
+trustbased recommendation
+foaf foaf
+shani
+menlo park
+international conference on intelligent
+webbased social networks
+uc berkeley
+lorrain
+unplugged
+bitton
+donovan
+wide web
+flora
+franks
+postdoctoral researcher
+oddball spotting
+bahmani
+greedy approximation algorithms
+vijayaraghavan
+local clustering algorithm
+picture delivery service for situation awareness
+picture delivery service
+faber
+brussels
+delaytolerant networking
+sigcomm workshop on delaytolerant networking
+finland
+mobile content
+routing mechanism
+icn
+embedded software
+jersey city
+vldb conference
+icde conference
+army research laboratory adelphi
+truth discovery in social sensing
+lu su
+assisted living
+mica
+tirumala
+poulton
+wark
+embedded networked sensor
+sensing platform
+wicker
+barroso
+similarity distance
+lire
+image sensing
+walkden
+puri
+circuits and systems for video technology
+image indexing
+prashanth
+cyclops
+routing scheme for intermittently connected mobile
+cheney
+future history
+sigplan
+object oriented programming
+provenance based
+university of california davis
+location history
+simon fraser university
+aai
+kaza
+ophir
+campagna
+acs
+fur
+butte
+reexamination
+wisconsin
+crypt
+maybank
+semidefinite programming
+independent component analysis
+score for feature selection
+quadratically constrained
+openstreetmap
+agate
+bergman
+mcmaster university
+university of north carolina at chapel hill
+kenley
+linear dynamical systems
+samaras
+mobile robot
+gaussian mixture
+mahler
+kalashnikov
+spatio temporal
+customer reviews
+megiddo
+nambiar
+rochester
+irin
+imagerich information networks
+lohse
+squire
+scandinavian
+nanyang technological university
+niskayuna
+international conference on multimedia
+computing science
+gudivada
+visual communication
+cascia
+branson
+kyoto
+michigan state university
+bentley
+beijing normal university
+machine vision
+harbin institute of technology
+robert perry
+eastman kodak
+watson research
+aesthetics
+bray
+remo
+lifelines
+mining periodic behaviors for moving objects
+polis
+surprising periodic patterns
+patterns with gap
+buffalo
+scapes
+acad sci usa
+dumont
+serengeti
+elephants
+periodic patterns in time series
+ariadne
+distance vector routing
+swiss federal institute of technology
+trust modeling and evaluation
+identity management
+legendre
+graph theoretical
+tatu
+capital asset pricing model
+hedge funds
+vortices
+pathetic fallacy
+wisdom of crowds
+a collaboratively created graph
+hanrahan
+sabre
+chris harrison
+radon
+communications conference
+ananthram swami
+discrete applied mathematics
+acm sigcomm computer communication review
+sampling directed graphs with
+pinghui wang
+fabricio murai
+multidimensional random walks
+umass amherst
+andrade jr
+systems science
+thai
+miyazaki
+scholz
+rimini
+sadri
+graphviz
+wayzata
+springer publishing
+nixon
+metapopulation
+suppressing cascades of load in interdependent
+fe institute
+selforganized criticality
+solar flares
+cauchy integral formula
+suppressing cascades of load
+mathematica
+idaho national laboratory
+energy information administration
+natural environment research council
+copernicus
+smart grid
+dsouza rm
+nber
+association of american geographers
+bumgarner
+genomic
+proteomic
+massari
+scalia
+valencia
+nonmonotonic reasoning
+del genio
+blacksburg
+dresden
+iop publishing
+deutsche physikalische gesellschaft
+trophic
+dynamical processes on complex networks cambridge
+monterey
+rahway
+havel
+rangelimited centrality measures
+indiana
+aria
+robustness and function cambridge
+akella
+viana
+alava
+penrose
+query incentive networks
+prediction markets
+zohar
+international congress of mathematicians
+experimental economics
+zoheb hassan borbora
+iftekhar
+basil blackwell
+stroudsburg
+conference on intelligent user interfaces
+invention
+international space station
+honeywell
+cargill
+huawei
+information architecture
+kpmg
+wuhan university
+kanpur
+electrical and electronics
+ninja
+exploratorium
+illinois at urbana champaign urbana
+international conference on social computing
+koblenz
+applied psychology
+jon kleinberg
+acm sigkdd intl
+earley
+dyne
+blekinge
+pagination
+bowdoin college
+aarhus
+argos
+trinity college
+dublin
+devadas
+isca
+oakland
+minos
+karlskrona
+conference on social computing socialcom
+henry louis gates
+epistemology
+california institute of technology
+kos
+rai
+denver
+xiangyang
+free and open source
+anchorage
+bellevue
+academy of sciences
+nisan
+algorithmic game theory
+cli
+hakodate
+edmonton
+network creation game
+supply chain
+acapulco
+lindley
+chania
+crete
+ares
+khokhar
+atomism
+holism
+kolari
+parallel and distributed systems
+ieee international conference on pervasive computing
+lima
+communications workshops
+dobra
+advanced information
+grunwald
+propagation to enhance distributed network security
+trichy
+iit bombay
+drdo
+ticket routing
+annapolis
+heraklion
+national conference on articial
+auton
+tory
+dearborn
+communications society conference
+adelphi
+cambridge philosophical society
+vefactor model
+zombie
+industrial and organizational psychology
+peabody
+personality disorder
+leary
+byungkyu kang
+lisbon
+melting pot
+sibel adali
+soma
+open architecture
+microeconomics
+message streams
+galilei
+padova
+budapest university
+gaspard monge
+cargo ship
+fraser
+influenza pandemic
+systems analysis
+transport economics
+mma
+kittel
+solid state physics
+las vegas
+transmitter receiver transmitter receiver transmitter receiver
+benko
+relationship prediction in heterogeneous information networks
+applied sciences
+conference on electronic commerce
+annual conf
+maastricht
+event detection in social streams
+indonesia
+sigir conf
+tucson
+birmingham alabama
+statist
+acm sigir conference
+harris interactive
+baud
+medical informatics
+sigkdd conference on knowledge
+discovery and data mining kdd
+mil abstract
+international statistical institute
+edward arnold
+von neumann
+ticket resolution
+processing letters
+shooting stars
+seeger
+wolsey
+approximations for maximizing
+submodular set
+yinghui wu
+trinity
+efcient subgraph
+mesoscale
+mchugh
+kw authors
+nonkw authors
+kw authors nonkw authors
+indrajit
+ostrovsky
+avinash
+colette
+franz joseph
+mukkamala
+jing zhang
+davide rossi
+epaminondas
+beardsley
+nikos nikolaidis
+michael stonebraker
+wolfgang
+bertrand meyer
+kw papers
+nonkw papers
+connectionist
+eighth street
+social cognitive networks academic research center
+artificial life
+chemical kinetics
+linear time overlapping community detection
+slpa copra gce
+cis link
+cfinder lfm
+uc riverside
+circuits syst
+qingyang
+poynton
+digital video
+sneha
+kevin chan
+sibel adal rensselaer polytechnic institute
+functional imaging
+actions speak as loud as words
+predicting relationships from social behavior data
+linguistic inquiry and word count
+adal
+russell sage
+information collection
+sucha
+ieee percom
+pervasive and mobile computing
+sciencedirect
+khayal
+masdar
+abu dhabi
+magnetic resonance
+maya
+url httpwww
+atherosclerotic
+conference on embedded networked sensor systems
+blair
+biomedical engineering
+eston
+physiology
+field trial
+kawachi
+neocortex
+reunification
+clydesdale
+pong
+maitland
+biogeochemistry
+galen
+massachusetts institute of technology mit
+lincoln laboratory
+lexington
+masdar city
+krakow
+ham radio
+soft matter
+kowloon
+whitworth
+newsbeat
+march accepted
+optical tweezers
+ames
+commissioner
+federal trade commission
+financial risk
+civilization
+berkman center for internet society
+computational physics
+eth zurich
+fortaleza
+ethz
+voss
+finch
+temperley
+backpressure scheduling
+paine
+synthesis lectures on
+kimbrel
+imperial college
+streaming trajectories
+alice leung
+principles and methodologies
+national university of singapore
+eisenhower
+articidcial intelligence
+hariharan
+johns hopkins
+bandra
+hungarian
+indiana university
+garrison
+mathworks
+natick
+astroturf
+realtime event detection by social sensors
+viola
+patent information network
+edler
+university of pennsylvania law review
+ueno
+kosala
+dey
+detecting periodic patterns
+xml database
+hierarchical dirichlet processes
+rubinstein
+knowl edge
+semisupervised truth
+solomon
+hsls
+oded schramm
+euro
+coding theory
+raptor
+selected areas in communications
+biophysics
+eli whitney
+naral
+saint
+bengal
+ieee spectrum
+sivakumar
+suel
+mafia
+sigcomm conference
+densest subgraphs
+minimumweight
+hungarian academy of sciences
+citation prediction in heterogeneous bibliographic networks
+lao
+alternating direction
+volcanoes
+tories
+genealogy
+web mining and social network analysis
+analyzing collaboration networks using simplicial complexes
+tsuruoka
+james pustejovsky
+ingria
+encyclopedic knowledge
+aberdeen
+fader
+dual decomposition
+constituency
+convergence properties
+a visual interactive hybrid recommender
+visual interactive
+delta encoding
+riverbed technology
+sigcomm workshop
+treewidth
+nonrumor numsourcesnum of monitors
+chile
+capet
+corcoran
+hongzhao huang
+md tanvir
+al amin
+ibm watson research center
+urbanachampaign urbana
+shanghai jiao tong university
+spreading of obesity
+ccny
+universidad de buenos aires
+buenos aires
+minerva
+starling
+neuron
+zipf law
+renormalization
+geneva
+accessed nov
+russo
+montgomery
+internacional
+bilkent university
+warsaw
+poland
+istanbul
+spotting signicant
+botnet
+scan statistics
+dbl
+medina
+gyorgy korniss
+development communication
+george mason university
+scientific american
+ordinary differential
+microfinance
+troy ny
+scipy
+unc
+karlsruhe
+sandy pentland
+team formation in social networks
+chiba
+bianchini
+brisbane
+ultramarine
+louisiana
+palazzolo
+nanoscience
+cyberinfrastructure
+semantic network
+international communication association
+connected world
+small group research
+rowman littlefield
+nijmegen
+digital forensics
+santiago
+pearson education
+biological diversity
+coronations
+wiggins
+cocaine
+helsinki university of technology
+cagliari
+event driven
+swan
+catalan
+chinese university of hong kong
+maron
+collaborative tagging
+formal models for expert
+spelling correction
+ieee realtime systems symposium
+birch
+sigcomm computer communication review
+exploiting transient social contact patterns
+data forwarding in delaytolerant networks
+knoxville
+tel aviv
+icar
+disk- resident
+multivariate distributions
+antwerp
+jilles vreeken
+mueller
+munich
+philips
+hafez
+graphite
+kraft
+elements of information theory
+ravi kumar
+amos tversky
+andrew tomkins
+kyoto university
+darwin
+information diusion
+colo
+flanders
+political economy
+danah boyd
+lake district
+crowd sensing
+cyberpunk
+albuquerque
+burr
+an explanatory multimodal factor analysis
+rob pike
+personalized web search
+hausdorff
+klimt
+drexel university
+conference on data engineering icde
+redondo beach
+photogrammetry
+st annual meeting of
+transportation research board
+kent state university
+scottsdale
+marlon
+british airways
+alzheimer
+chlamydia
+genome sequence
+partial evaluation
+sesame
+distributed shared memory
+birney
+coding theorem
+mdpi
+spartan
+bondy
+bon
+dragut
+managing and mining
+molecular biology
+learning icml
+accepted june published
+boston ma
+nord
+turin
+adaptive networks
+scientific collaboration networks
+circadian
+sexually transmitted diseases
+das sarma
+madison
+kolkata
+fp fp fp fp fp
+organizational management
+maturity model
+gantz
+warmth and competence
+command and control research and technology
+www session game theory and
+gambit
+supply chain management
+university college dublin
+clough
+eisenstein
+inspectability and control in social recommenders
+irvine
+structural equation modeling
+graus
+user modeling and useradapted interaction
+stereotypes
+newell
+florence
+satisficing
+delos
+eindhoven
+struc ture
+cowell
+computational statistics
+lund university
+lund
+sabbatical
+maze
+acmieee conference on information
+processing in sensor networks ipsn
+truth discovery with multiple
+neural information processing systems nips
+market maker
+sri international
+pasha
+central committee
+zellig harris
+fan li
+andrew mccallum
+joint stock company
+yuen ren chao
+unesco
+noah
+guinness
+hongkong
+chiang mai
+jugal
+rada
+mayo
+british columbia
+radiology
+dieter zetsche
+cerberus
+slow club
+pharmacology
+gluck
+fairfax
+review article
+comics
+irony
+rand mcnally
+sens
+sentimental education
+social simulation
+vertex collocation
+rspb
+bioengineering
+steel
+linnean
+lizard
+macarthur
+rufous
+hummingbirds
+prospect theory
+beetles
+vahl
+lubin
+panel data
+prado
+owl
+beckett
+grau
+web ontology language
+mcqueen
+alexandria
+locationbased social networks
+locationbased social network
+ieee international conference on distributed computing
+national public radio
+source selection in social sensing
+savoy
+zerfos et al
+predictive analytics
+structured query language
+decompression
+smtp
+systems management
+ibm corporation
+paisley
+achilles
+th acm sigkdd int
+received july
+national technical university of athens
+associate editor
+diplom
+business analytics
+scientic reports
+nani
+dyadic reciprocity index
+zufpr dyadicreciprocitynetscir october
+omar lizardo
+mandel
+uman
+waller
+bacterium
+inferring social network structure
+scot
+lemon
+ncomms www
+comnaturecommunications macmillan publishers limited
+ncomms article
+article nature communications doi
+influential spreaders in complex networks
+ninove
+control centrality and hierarchical structure
+liu yy
+slotine jj
+acad sci
+motifs simple building blocks of complex
+genomes
+controlling edge dynamics in complex networks
+vilhena
+complex networks by minimum structural perturbations
+web conference www
+seoul korea
+scalable inuence maximization
+btech
+centrality methods
+interdisciplinarity
+modeling topic specic credibility on twitter
+alex beutel
+continuous continuous continuous continuous
+continuous continuous continuous continuous continuous continuous
+mellon university
+dropbox
+shrub
+samuel madden
+shiva
+nancy
+spotting anomalies in weighted graphs
+trier
+clp
+symbolic and quantitative approaches to reasoning
+verona
+witwatersrand
+wool
+brescia
+belfast
+magi
+dialectic
+metalogic
+object clustering in heterogeneous information networks
+integrating metapath selection with userguided object
+clustering in heterogeneous information networks
+bulgaria
+outlier detection in graph streams
+detection in information networks
+detection for mining evolutionary community outliers
+integrating community matching
+integrating community matching and outlier
+jerome
+icann
+electrophoresis
+argument schemes for reasoning about trust
+argumentation schemes
+carneades
+carlson school of management
+university of alabama press
+linz
+riemannian geometry
+dirty pictures
+czech republic
+conference on computational linguistics coling
+saiga
+sapporo
+claypool publishers
+european university institute
+wageningen university
+wageningen
+digital object identier
+bounded rationality
+collectivist
+chrysanthemum
+cam bridge
+tuberculosis
+iba
+cognitive science society
+clarendon press
+toxicology
+environmental health
+rousseau
+symbolic dynamics
+sipahi
+shochet
+roose
+yanqing hu
+southwest jiaotong university
+chengdu
+received october
+bashan
+northamptonshire
+global cascades on random networks
+thresholdlimited spreading in social networks
+error and attack tolerance
+shere
+dupont
+huai
+lavi
+imation
+hebrew university of jerusalem
+topol
+discus
+case based reasoning
+bye
+modeling trust context in networks
+fairplay
+user interaction in facebook
+fast company
+annavaram
+real analysis
+cornell university
+boulevard haussmann
+socialaware multicast
+manuscript received
+acis
+percom workshops
+www companion
+stochastic calculus
+scholes
+ledyard
+bourgeoisie
+contrarian
+practical machine learning
+optimal design
+ladner
+gentile
+mro
+sarin
+latent community topic analysis integration of
+selected communities
+nansen
+zee
+peter stone
+lucian
+markham
+guy kawasaki
+on articial intelligence ijcai
+scientic collaboration
+judea pearl
+judea
+nested chinese restaurant process
+reisinger
+athletics
+graduate research
+minesweeper
+philologists
+spreadsheets
+hierarchical topic models
+paca
+milwaukee
+llvm
+madhavan
+ishikawa
+east lansing
+msu
+emmanuel
+boaz
+aarti
+lanl
+periodicity from incomplete observations
+jingjing wang
+priestley
+astronomical
+astrophysical journal
+iee
+cardinal
+pascal denis
+derry
+van durme
+modeling language
+espresso
+vishnu
+universality in network dynamics
+baruch
+knockout
+eukaryotic cells
+costello
+systems biology
+inuential spreaders in complex networks
+shatin
+key laboratory
+persi diaconis
+siddhartha
+graph sampling
+nicholas metropolis
+augusta
+stanley milgram
+cleotilde gonzalez
+sixth acm conference on recommender systems
+marietta
+economic journal
+conflict management
+core percolation on complex networks
+marton posfai
+transition in complex networks
+acmsiam symposium on discrete
+partial correlation
+mammalian
+transcriptional regulation
+chapman hall
+gillet
+canal
+based data selection and transmission
+shaohan hu
+shen li
+compressed sensing
+dimension reduction
+assured social sensing
+alex waagen
+william dron
+john hancock
+named data
+cooperative caching in ad hoc networks
+caching in mobile
+spatiotemporal correlation
+akan
+hopkins
+siam journal on computing
+bron
+boulogne
+rate distortion
+pervasive computing and communications workshops
+yuxiao dong
+observationsa maximum likelihood
+with conicting observationsa maximum likelihood approacha
+gesture recognition
+metropolitan
+asme
+constellation
+wyoming
+hesse
+zaria
+gordon willis
+rockville
+wende
+ksl
+pilsner
+cleveland state university
+cleveland
+free university
+groningen
+organizational culture
+krone
+boer
+lorsch
+morphogenesis
+british journal of sociology
+galileo
+dubuque
+ct scanning
+renaissance
+systems thinking
+syracuse
+housing project
+greenwich
+mathematical psychology
+sido
+como
+integra
+corrientes
+dune
+celle
+passat
+zoology
+tractor
+proquest
+pfeiffer
+slonim
+secaucus
+rodan
+strategic management
+psy
+integrating metapath selection with
+kali
+hypertextual web search engine
+fudan university
+smith college
+northampton
+classics
+fal
+nickel
+qualityofinformation aware
+joint transmission scheduling and
+stability properties of constrained
+lugano
+utility based
+conference on information fusion
+newcastle
+overlapping community detection in networks
+jierui xie et al
+ilcd ueoc
+optics
+parallel community detection
+gulli
+rossetti
+kaohsiung
+bhavani
+united arab emirates university
+al ain
+social text
+kirkby
+population genetics
+thomas schelling
+sudbury
+bifurcation theory
+concurrent computing
+padua
+climatic
+antibiotic
+mahidol university
+king abdulaziz university
+january yyyy
+liu xu
+latent credibility analysis
+willow
+risk management
+infertility
+user-user
+jialu liu
+information sciences institute
+st acm international conference on
+event exploration
+purcell
+fresno
+community detection in weighted networks
+journal of chemical physics
+lisa scott
+copy editing
+darlington
+multiplayer online games
+activity theory
+capitalism
+eisenstadt
+killers
+shooter game
+telefonica
+adaptive streaming
+ottawa
+business simulation
+director of national intelligence
+hyatt
+aseieee international conference on social
+dtic document
+watson research center yorktown heights
+temporal consistency
+proteomics
+rhodes
+biotech
+cpan
+dynamic decision making
+central european university
+rhode island
+smallworld network
+emergence of bimodality in controlling complex
+network medicine
+observability of complex systems
+southgate
+nematode
+giorgio parisi
+erythropoietin
+pp pp pp pp
+pp pp pp pp pp
+centrum wiskunde informatica
+chalmers university of technology
+ingalls
+genet
+kumamoto university
+fractal geometry
+paradise
+nevada
+mrsa
+staphylococcus
+sites for viral marketing
+stony brook
+leuven
+biograph
+zito
+wieland
+layout engine
+electronic journal
+molle
+avant
+cross media
+phrase mining framework for recursive construction
+search and browsing
+concurrency control
+ussr
+computational mathematics
+mathematical physics
+xiang ren
+fillmore
+robustness and fragility
+mitsou
+royal society of london
+accessed march
+hmmbased map
+pompey
+hummel
+browning
+asia society
+salk institute
+yeshiva university
+nucleotide
+econophysics
+shea
+circadian rhythm
+pepsi
+reinhardt
+anaheim
+dordrecht
+folklore
+pleasantville
+smuts
+internet encyclopedia of philosophy
+guthrie
+annual international acm sigir conference
+banff alberta
+williamstown
+grenada
+an open access article
+komal
+university of minnesota twin cities
+black swan
+estrada
+arxiv preprint arxiv
+centrality in social networks conceptual
+based smartphones
+rollins
+turducken
+chameleon
+oled
+radio resource management
+user contact detection
+grunewald
+urban sensing
+cooperative caching in wireless pp networks
+joint event extraction via
+structured prediction with global features
+liang huang
+vincent ng
+yu hong
+yang guo
+compositional semantics
+george washington university
+online newspaper
+romani
+clare
+transaction on knowledge and data engineering
+jagan
+iraklis
+andranik
+mediascope selective ondemand media retrieval from
+international society
+photonics
+mathematical chemistry
+hare
+az
+palfrey
+tony white
+klos
+daniel kahneman
+human evolution
+social neuroscience
+event history
+jim morris
+meta analysis
+piccolo
+zen
+dirichlet process mixture
+bieber
+linking named
+mcgill university
+microelectronics
+open subject areas
+chapel
+transducer
+cascades on random networks
+marvel
+medical history
+melancon
+topk similarity search in heterogeneous
+adelaide
+pancreatic cancer
+webber
+moat
+breast
+calais
+cdma
+packet radio
+sigcomm workshop on delaytolerant
+haitian
+aldine
+yagan
+cornell university library
+nuclear warfare
+prescot
+capitalist
+journal of economic literature
+soga
+theoretic perspective
+anhui
+natural resource management
+trusted platform module
+skene
+body image
+forest ecology
+lillesand
+kiefer
+reference implementation
+sanghavi
+international world wide web
+conferences steering committee
+reliable social sensing
+catania
+cricket
+buxton
+lichtenberg
+tyson
+bex
+vienna
+southampton
+liverpool university
+holly
+birth control
+ithaca
+downloaded from rsta
+industrial engineering
+hendrick
+heino
+beverly hills
+depew
+cantabria
+weaving
+xxxii
+indiana university bloomington
+fielding
+draper
+stoning
+mingming chen
+computational sociology
+human ecology
+oza
+ben bernanke
+robin dunbar
+distances via shortcut edge addition
+outliers in heterogeneous information networks
+associationbased clique
+zacharias kunuk
+igloolik
+richmond
+victoria
+xkcd
+gizmodo
+stony brook university
+montpellier
+phonetics
+rocklin
+porto
+multi agent
+lehigh university
+control systems
+kipper
+jiliang tang
+similarity in online social networks
+usercentric data dissemination in disruption
+cooperative caching in disruption tolerant networks
+quantifying social group
+dissemination in opportunistic
+alfano
+mathematical economics
+solan
+nperson games
+emotional contagion
+goldsmith
+behavioral neuroscience
+scientific reports
+emotional intelligence
+neurophysiology
+neurology
+descartes
+royal economic society
+schizophrenia
+gainesville
+scientific misconduct
+plastic
+furman
+abacus
+sievert
+international joint conference on autonomous agents
+rekha
+topicspecic behavior
+realworld social media
+large social media
+virginia law review
+downloaded on january
+restrictions apply
+rourkela
+lafayette
+torr
+rishi
+kost
+stylometry
+workshop on link discovery
+lehman college
+nas
+ieee international conference on communications
+hebrew university
+carlos iii
+ramya
+giurgiu
+image compression
+dmk
+dmm
+inh
+ntr
+siggraph
+submission january
+tantrum
+max planck
+incentivizing participatory sensing via
+deconvolution
+tristan
+quality of network community structure
+ase human journal
+conference on internet measurement
+ieeeacm international conference
+villavicencio
+colchester
+vermont
+burlington
+iowa state
+power systems
+beijing university
+astronautics
+arditi
+emden
+rama
+yellowstone national park
+electric power transmission
+electrical energy
+physical society
+federal energy regulatory commission
+science news
+socialcommunication composite networks
+british army
+royal tank regiment
+berkley books
+rhine
+militaria
+cougar
+networks extended structural balance theory
+qian and adal
+university of massachusetts lowell
+lowell
+special administrative region
+estimating subgraph statistics of large networks
+cyworld
+nature genetics
+np- hard
+colin cooper
+ian foster
+deadpool
+lelis
+econometric society
+arunachalam
+stock market
+shaman
+loos
+semmelweis university
+szeged
+zhongguancun
+puffy
+signal transduction
+chromatin
+monkeys
+oecologia
+trusses
+orsini
+fernand braudel
+debrecen
+spangenberg
+nikoli
+batista
+transduction
+zoogeography
+medan
+quart
+konstantin kuzmin
+cartography
+usha
+bridewell
+nutley
+passaic
+nature medicine
+gridlock
+daz
+semiotic
+henry holt
+materialism
+provo
+byron
+schemaless and structureless graph querying
+chamberlin
+experimental mathematics
+petri nets
+pervasive and ubiquitous computing
+volume number august
+sinatra
+orthologs
+arabidopsis
+protein structure
+regulatory network
+control principles of complex systems
+cell division
+cytoplasmic
+organelles
+cytology
+reversible reaction
+jinhua
+bamberg
+imagawa
+synchrotron
+pdb
+anselm
+aarhus university
+coral gables
+garfield
+lockheed martin corporation
+wuhan
+luxury goods
+sloan school of management
+colombo
+psychiatric
+rabbi
+chittaranjan
+paul young
+harihar
+mobile marketing
+tourism industry
+heritability
+ethology
+brent smith
+customer engagement
+nuclear strategy
+ine
+sosa
+product design
+ferrara
+url httpdoi
+fpu
+basak guler
+theory isit
+statistical thermodynamics
+hendriks
+engineering physics
+rice university
+storytelling
+protein interaction
+isoperimetric inequality
+urvashi
+compstat
+theoretical physicist
+michael lewis
+tadashi suzuki
+mercedes
+lin gordon
+redondo
+savanna
+surat
+social networks analysis and mining asonam
+saint petersburg
+world scientific
+mineola
+practicum
+dian yu
+beirut
+corroborating information from disagreeing
+zine
+base population track
+kelvin
+lake tahoe
+computer-mediated communication
+shaanxi
+hayedeh
+edo
+australian national university
+lars backstrom
+itamar
+industrial organization
+john fisher
+technological change
+mark granovetter
+historian
+jasmine
+sinan
+herbert a simon
+plant pathology
+cultivars
+cultivar
+university of illinois press
+fungal
+wroclaw
+oppenheimer
+carnivore
+spanning subcomplex
+multi channel
+kern
+selected topics in signal processing
+lewisville
+dan higgins
+efrat
+kepler
+orange county
+flix
+outlier detection for temporal data
+gachibowli
+emerald
+corpus christi bay
+national oceanic and atmospheric administration noaa
+solaris
+telematics
+twente
+nasa ames research center
+vieira
+electronic engineering
+panasonic
+yonsei university
+sampo
+wired magazine
+entities in web text
+mining evidences for named entity
+thrasher
+smartwatch
+tux
+art history
+queens university
+ponce
+handwriting recognition
+minimum message length
+positron
+single photon emission computed tomography
+austrian
+peel
+digital signal processing
+metastasis
+machu picchu
+rafting
+bonn
+santa clara
+galil
+marsi
+aristides
+lira
+north holland
+quantum cosmology
+sotomayor
+american mathematical monthly
+commer
+billings
+sensor anomalies using social network feeds
+bachelor degree
+hughes aircraft company
+idaho
+arabic language
+multiaspectforensics pattern mining on
+graphscope parameterfree
+open science
+konstanz
+stipend
+deutsche forschungsgemeinschaft
+risperidone
+ohl
+madeira
+correa
+czechoslovak
+hagen
+integrated circuits
+shelter island
+richard hartley
+lilienthal
+muff
+baruch college
+st paul
+bhubaneswar
+topical phrase mining from text corpora
+ahmed elkishky
+kohala
+fishing
+semiconductors
+wang ming
+west virginia university
+webscale approach to probabilistic knowledge fusion
+galarraga
+jayaram
+murat
+suny buffalo
+hong kong university
+heterogeneous data by truth discovery
+negrained sequential patterns in semantic trajectories
+staunton
+tanay
+craven
+oncogenic
+gillespie
+abruzzo
+applied human factors and ergonomics ahfe
+international school
+tallinn
+estonia
+clemmons
+kolar
+barab asi
+lockstep behavior in social networks
+oup
+barth
+hannu toivonen
+sighan workshop on chinese
+distributed representations of words
+sensitive hashing
+orthodontics
+item response theory
+ogden
+penrod
+actions speak as loud
+purpura
+antitrust
+mana
+caruso
+mitre corporation
+edward elgar
+social facilitation
+kandel
+bunker
+locke
+gerling
+morristown
+gesualdo
+acharya
+google glass
+krum
+bolas
+open university
+negev
+snowbird
+unsw
+south dakota state university
+eric martin
+jigs
+liege
+adana
+shares outstanding
+jota
+thera
+harang
+molecular orbital
+hydrophobicity
+medicinal chemistry
+gartner
+garnett
+barla
+sutherland
+autopsy
+social innovation
+gore
+jianxi gao
+chemical engineering
+reba
+survey research
+analysis conference tac
+silicon valley
+auxiliary verb
+leech
+transformational grammar
+sense disambiguation
+jeju island
+medlock
+babbitt
+hooke
+information diffusion in mobile social networks
+hillel
+kasetsart university
+error rate on nov
+kojima
+sreenath
+suzhou
+weinsberg
+taft
+sourcechannel coding
+cnes
+lexicography
+hemachandra
+inferring user demographics and social
+rhetorical
+psychophysiology
+genoa
+conference on machine learning icml
+elda
+positive psychology
+nc state university
+aalborg
+national bureau of economic research
+university of south carolina
+van dijk
+boucheron
+qualitative research
+naushad
+histograms of oriented gradients
+bloomington
+internet memes
+mass spectrum
+distributed sensing systems
+philadelphia society
+grenoble
+migraine
+paul sabatier
+los altos
+girona
+the polish national science centre
+fission
+xx xxxx
+partial periodic
+mccartney
+slurry
+eye tracking
+coty
+foster city
+morar
+moldovan
+chromium
+bingley
+emerald group publishing
+cedar falls
+optical society of america
+smart cameras
+acm siggraph
+modi
+washington wizards
+houston rockets
+lucchese
+trani
+soochow university
+shi zhi
+minimum information dominating set for
+ibm pc
+macintosh
+xterm
+prabhu
+marck
+kamenev
+modern physics
+economic inequality
+safari
+albers
+samuel bowles
+wealth inequality
+fair division
+dispute resolution
+international development research centre
+schlegel
+thomas piketty
+belknap press
+arthur goldhammer
+hal varian
+vehicle detection
+dadu
+shyama
+goor
+orwell
+color vision
+pushkar
+catastrophe theory
+transportation engineering
+lomax
+aashto
+tianjin china
+coprocessor
+flaviano morone
+superspreaders of information
+spreading dynamics in complex networks
+poggio
+international telecommunication union
+couchdb
+hyperlocal
+labelle
+green computing
+centaur
+ray tracing
+bayer
+reproducing kernel
+jonathan kuck
+zhang hui
+educational psychology
+distributed virtual experimentation center design
+rousse
+volterra
+mela
+rock paper scissors
+spock
+marshall school of business
+power distribution
+telephony
+voice over
+basak guler and aylin yener
+circuit complexity
+radhakrishnan
+matching hypothesis in networks
+sci rep
+huerta
+cska
+plurality voting
+mahindra
+shaq
+geoffrey hinton
+world journal
+nat phys
+dhar
+leeds
+fordham
+vigan
+weizmann institute
+discrete applied
+varan
+triple entente
+blackmore
+marconi
+nikolaev
+motor coordination
+eltham
+meta- data
+epidemiologic
+spagna
+spire
+atypical combinations
+social status and rich club
+namur
+callaghan
+acm sigkdd conference on knowledge discover
+qin dynasty
+simei
+human mobility and social
+dynamically allocated virtual clustering management system
+jagadeesh
+appearance models
+serre
+grimm
+springer science business media
+xtc
+talent management
+davenport
+panagiotis karampourniotis
+pramesh singh
+feminist
+social media marketing
+otley
+bombay
+tippett
+david geffen school of medicine at ucla
+western university
+cranston
+fribourg
+muse
+emerging market
+francis galton
+pppp pppp pppp pppp
+pppp pp pppp pppp
+pppp pppp
+pppp pppp pppp pppp pppp
+pppp pp pppp
+pppp pppp pppp pppp pppp pppp
+weinheim
+charles de gaulle airport
+graphscope parameterfree mining of large
+rwth aachen university
+bottlenose dolphin
+ov qov ds
+cellular automaton
+tumkur
+patella
+lightning
+moseley
+fugal
+stafford
+dijon
+ashwin bahulkar
+brooklyn museum
+mishima
+doi httpdx
+finegrained entity
+conditional random
+uehara
+guru
+nested chinese restaurant
+pasupathy
+hanyang
+ansan
+cangzhou
+massive text corpora
+marlin
+mining quality phrases
+shang chi
+copyright ccid
+kea
+sliding mode control
+multiple discontinuous percolation transitions on scalefree
+peoples republic of china
+fields institute
+william wallace
+washington university
+hagar
+carmen
+hamed haddadi
+malcolm gladwell
+nimrod
+jimmy lin
+nava tintarev
+engineering and physical sciences research council
+pattern formation
+pergamon
+stability theory
+tinkerer
+bar ilan university
+nashville
+reston
+ebm
+ash wednesday
+rajendran
+bern
+survey on trust modeling
+international relations
+cetaceans
+minhas
+wright state university
+salamanca
+tasmania
+hubei
+neural information processing
+relevance theory
+voltaire
+semiotics
+somerset
+stanford encyclopedia of philosophy
+conversation analysis
+metaphysics
+unlv
+cummins
+representation theory
+reductionism
+psycholinguistics
+steven davis
+natural history
+malang
+imperial college london
+royal holloway university of london
+cardiff university
+logica
+beamforming
+norfolk
+cyprus
+thresholdlimited spreading in social
+templeton foundation
+cyber war game in temporal networks
+daqing
+collective motion
+dependent dependent dependent dependent dependent
+rush university medical center
+cognitive function
+keratinocyte
+brainstem
+neuropsychopharmacology
+masada
+arth
+linksys
+frome
+bangalore university
+indian institute of science
+jian xu
+ameritrade
+salesforce
+munch
+primary school
+ferranti
+charpentier
+chalice
+sex segregation
+gwen
+shelley
+saclay
+ligo
+coral
+ocean acidification
+complex webs
+macroeconomics
+transition state
+networks under targeted attack
+solitons and fractals
+pr china
+commercial banks
+trophic cascade
+liquidity risk
+controllability of multiplex
+bimodality in controlling complex networks
+satisfiability
+george barnett
+swallow
+matsuyama
+market liquidity
+rollover
+financial crises
+prairie
+zeeman
+pomona
+california state polytechnic university
+bath
+jellyfish
+rochet
+wolfram research
+acm kdd
+rhp
+interactive function
+minsky
+henson
+harmondsworth
+metamathematics
+symbolic logic
+tempe
+university of central florida
+theano
+cyborg
+guadarrama
+classication with deep convolutional
+suleiman
+martorell
+alloys
+satyam
+sheridan road
+vasp
+schilling
+citadel
+chelate
+ase human
+hursley
+ndb
+edgware
+lanzhou university
+collective motion in network of spa
+motile
+colloids
+stilwell
+moyer
+hevia
+ateneo
+telekom
+boulton
+massachusetts bay
+mbta
+kenton
+knowles
+tanvir al
+bimbo
+deep convolutional
+merlin
+carman
+transaction processing
+waas
+recognition cvpr
+cvpr submission
+hubbard
+university at albany suny
+hub network
+uniform convergence
+scg
+pointofinterest recommendation
+evaluation of spitzbergs meme diffusion
+bormann
+sousa
+bentwood
+warwick
+neurocognitive
+awareness and decision support
+air traffic
+federal aviation administration
+network centric warfare
+lubbock
+texas tech university
+nasa langley research center
+presses universitaires de france
+huy
+jens lehmann
+dahab
+kenneth church
+yoni
+quebec city
+artificial general intelligence
+serb
+washington state university
+chawla sci
+island country
+hamburg
+interurban
+bagler
+drake
+pfitzner
+yona
+signed network mining in social media
+prithviraj
+paypal
+sinop
+crystal
+medical genetics
+kshiteesh hegde
+boleslaw szymanski and konstantin kuzmin
+lighttpd
+naiad
+shark
+apache tomcat
+urdaneta
+wale
+schleiermacher
+david eppstein
+radford university
+hunter college
+sequential analysis
+limited circulation
+control engineering
+tarbiat modares university
+interdependent networks as random graphs
+noda
+ucc
+eurasia
+political psychology
+west lafayette
+purdue
+antibes
+oldham
+fractional calculus
+siberian
+malibu
+roch
+esther
+sprinter
+charo
+franco
+akbar
+bruce alberts
+keith roberts
+zufpr output january
+baccara
+kirchner
+takamatsu
+claude berge
+torun
+norwell
+warrington
+graph compression
+games and dynamics in adversarial environments
+siddharth pal
+khaitan
+jadavpur university
+iit kharagpur
+kharagpur
+iit delhi
+applied physics laboratory
+gte
+vintage books
+united states military academy
+lackey
+phi delta kappa
+wharton school
+weil
+virginia commonwealth university
+aaai conference on articial
+strobl
+poznan
+american philosophical society
+applied economics
+mebane
+election fraud
+canonical ensemble
+colorectal cancer
+biomedical research
+cella
+related molecules number of publications
+gottschalk
+narita
+clinical research
+elixir
+gremlin
+big data to knowledge bdk initiative
+southern association
+charlottesville
+von neumann entropy
+svp
+suriya
+sahand
+mathematische annalen
+nam nguyen
+metropolitan museum
+celine
+baram
+iberian
+popular library
+neon
+osaka
+bages
+metrology
+benevento
+simultaneous localization and mapping
+suining
+fingerprints
+web mapping
+pedometer
+koehler
+los angeles county
+radio communications
+sakamoto
+realtime databases
+engler
+workshops percom workshops
+international command
+ambili
+wiley sons
+cottage hospital
+hypertension
+morong
+obstructive sleep apnea
+westchester
+patient safety
+american medical informatics association
+kijung shin
+bryan hooi
+mass density
+mascot
+yap
+pandu
+hofstra
+journal of geophysical research
+nasser
+expert networks for query answering
+john guare
+world ocean
+antonov
+botha
+holten
+international maritime organization
+ecological economics
+applied human factors and ergonomics
+synapses
+benito
+kagan
+brain function
+arroyo
+andes
+microbiota
+plantpollinator plantpollinator
+alp
+temperate forest
+huxley
+boreal forest
+herbs
+botany
+woodland
+galapagos
+tenerife
+western australian museum
+perth
+hummingbird
+cranmer
+peat bog
+phenology
+snowy mountains
+trinidad
+auk
+polygamy
+rainforest
+invasive plants
+calton
+heathland
+west pomeranian
+szczecin
+siegmund
+dengue
+zhenjiang
+formal concept analysis
+multilinear subspace learning
+dna microarray
+george mason
+neptune
+smurf
+satan
+big mobile social networks
+triangles in vs ego network number
+gautier
+donga
+gerontology
+rwanda
+marcum
+western united states
+ethnology
+understanding individual human mobility
+halifax
+rok
+visual communications
+east china normal university
+contextual valence
+indianapolis
+okumura
+doha
+issei
+jan nilsson
+levent
+pensacola
+defence research agency
+norwegian defence research establishment
+ffi
+kjeller
+aalto university
+espoo
+diffracted
+trout
+relational event modeling
+junker
+lozier
+peertopeer lending and bias in crowd
+indian institute of management
+karnataka
+plos one httpsdoi
+liberalization
+embargo
+kor
+international economics
+free trade
+gravitas
+smithsonian
+ratha
+spal
+geometric topology
+multitype housing
+geb
+naturalist
+yangyu liu and albertlszl barabsi
+openloop control
+pinning synchronizability
+centrifugal governor
+julyseptember yangyu liu and albertlszl barabsi
+tass
+thatcher
+lie groups
+bourassa
+lesage
+zillow
+spengler
+personal development
+ncaa basketball
+kole
+paas
+acm transactions on interactive intelligent systems
+instructional design
+educational psychologist
+aaf
+bozeman
+khatami
+parasitology
+neglected tropical diseases
+sheikh
+phytotherapy
+blood transfusion
+infectious diseases society of america
+american academy of dermatology
+primary health care
+visceral leishmaniasis
+indian subcontinent
+bournemouth university
+graz university of technology
+barrow
+graz
+politeness
+lior
+carlisle
+kalyanpur
+stephen hawking
+max tegmark
+frank wilczek
+allen lane
+ben shneiderman
+sifre
+veda
+john seely brown
+casper
+unam
+london school of economics
+thomas morley
+gary miller
+cadiz
+james gleeson
+periodica kerneldiscp predsep pred
+probabilistic conditional preference
+sibel adal rensselaer polytechnic
+multiattribute domains
+sao paulo
+catalonia
+paradoxes
+ryan adams
+hu hu
+nagesh
+agon
+iwaki
+cornea
+mckittrick
+shravan
+yu jing
+utu
+markedness
+aalen
+nugent
+paul martin
+catia
+jonathan katz
+russell sage foundation
+credit rating
+anthropologist
+irgc
+wien
+manchester university
+jasper
+loretto
+university of illinois urbanachampaign
+masato hagiwara
+workshop on chinese language processing
+jingzhou
+taku
+xu shen
+jia xu
+conference north
+study skills
+london university
+heidelberg university
+definiteness
+xuzhou
+jakarta
+chaitanya
+yang chen
+processing toolkit
+netherland
+johan galtung
+bali
+sam clark
+stubbs
+riaz
+hiroaki sato
+mariah
+inference to improve event
+amber
+entropy based
+ltp
+conference tac
+ferret
+alicante
+bessi
+thelwall
+grissom
+contemporary educational psychology
+sayan
+tench
+eigenspokes surprising
+vinh
+shin et al
+data min
+latin american
+nfs

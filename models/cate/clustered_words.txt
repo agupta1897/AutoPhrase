@@ -1,5 +1,4 @@
-~~~~~~~~~~ Category0 ~~~~~~~~~~
-
+Cluster: 0 (description: Linear Algebra )
 ii
 connected_subgraph
 node_set
@@ -3451,7 +3450,7 @@ smax_opt
 sbb
 accuracyxidealxelapsed_time_secdensity_accuracyxidealxelapsed_time_secdensity
 financial_engineering
-~~~~~~~~~~ Category1 ~~~~~~~~~~
+Cluster: 1 (description: National-Research Oriented Terms )
 
 tolerant_networks_dtns
 live
@@ -8090,7 +8089,7 @@ musicology
 tencent
 kant
 rich-get-richer
-~~~~~~~~~~ Category2 ~~~~~~~~~~
+Cluster: 2 (description: Textual Data Learning )
 
 data
 paper
@@ -14173,7 +14172,7 @@ big-picture
 general_patterns
 sound_techniques
 domain-dependent
-~~~~~~~~~~ Category3 ~~~~~~~~~~
+Cluster: 3 (description: Locations - Research and Institute names )
 
 supporting_cooperative_caching_in_disruption_tolerant
 ieee
@@ -19240,7 +19239,7 @@ shin_et_al
 data_min
 latin_american
 nfs
-~~~~~~~~~~ Category4 ~~~~~~~~~~
+Cluster: 4 (description: Social Networks & Security  )
 
 unpredictable_node_mobility
 global_network_information
@@ -24792,7 +24791,7 @@ delay/tolerant_networks
 decathlon
 brain_networks
 isan
-~~~~~~~~~~ Category5 ~~~~~~~~~~
+Cluster: 5 (description: Network/Tree/Graphs  )
 
 low_node_density
 cached_data

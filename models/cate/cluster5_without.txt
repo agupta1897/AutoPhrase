@@ -1,0 +1,5635 @@
+low node density
+cached data
+multiple nodes
+data access delay
+network central locations
+ncl selection
+probabilistic selection
+multiple caching nodes
+pa
+intermittent connectivity
+forward
+relay selection
+data forwarding
+query history
+data transmission
+individual nodes
+central node
+high
+caching buffer
+central nodes
+popular data
+cache replacement
+listed
+scheme achieves
+access delay
+solid line
+dotted line
+opportunistically contact
+epidemic
+entire network
+lower
+forwarding cost
+node contact
+node caches
+passby data
+caching locations
+caching nodes
+key difference
+illustrated in figure
+remains unchanged
+intermediate node
+proposed scheme
+star
+generated data
+network contact graph
+dashed circles
+node contact frequency
+lifetime
+node contact pattern
+ncl selection metric
+opportunistic path
+edge weights
+probability
+dis tribution
+probability density function
+caching performance
+specic nodes
+node pair
+pairwise node intercontact time
+exponentially distributed
+poisson
+contact rate
+randomly distributed
+node buffer
+table trace summary
+network type
+bluetooth
+mit
+reality
+duration days
+pairwise contact
+frequency
+ucsd
+shortest opportunistic
+shortest opportunistic paths
+selected central nodes
+average
+network administrator
+global knowledge
+performance requirements
+warmup period
+pairwise contact rate
+section iiib
+long
+signal strength
+pairwise node contact
+distributions
+highly skewed
+metric values
+transmission overhead
+newly generated
+automatically determined
+forwarding process
+solid lines
+dashed lines
+node buffer constraint
+multicast
+newly created
+proportional
+probabilities
+shown in figure
+optimal selection
+period
+broadcast
+caching node
+number of data copies
+multicasting
+local cache
+utility values
+leaves
+increase linearly
+number of cached data copies
+multiple times
+higher utility
+node selects
+bytes
+number of ncls
+randomly generated
+statistical convergence
+successful ratio
+requested data
+caching overhead
+uniformly distributed
+range
+query pattern
+zipf distribution
+figure shows
+cache size
+storage cost
+fifo
+bit
+takes longer
+delivery ratio
+buffer space
+transient state
+community
+fused information
+semiring
+trust levels
+independent
+node contacts
+order
+transmission delay
+er
+exponential distribution
+total number
+opportunistic paths
+node maintains
+marginal provenance
+space overhead
+nphard problem
+inversely proportional to
+runs
+storage space
+network bandwidth
+query response
+cdf
+access bandwidth
+mbs
+contact rates
+table ii
+query responses
+delay constraint
+number of replicas
+interpreted as representing
+green
+power law
+exponential decay
+contact times
+spray and wait
+node failures
+pubsub network
+publisher
+key space
+signicant benets
+decryption key
+routing scheme
+routing nodes
+covered
+topology
+topologies
+sake
+node receives
+node forwards
+parent node
+intermediate nodes
+channel
+children nodes
+protected
+copyrights
+route messages
+malicious nodes
+network topology
+number of publications
+malicious node
+rst check
+figure illustrates
+bad node
+ooding based
+neighbor nodes
+timestamp
+worst case
+computationally feasible
+computationally infeasible
+randomly chosen
+computationally intractable
+leaf
+numeric attributes
+split
+composing
+lines represent
+binary tree
+locality
+aary tree
+strike
+total cost
+directly connected
+ary
+signature verication
+routing path
+destination node
+message delivery
+path exists
+node ni
+ni and nj
+upper
+carefully choosing
+master
+node matches
+priori knowledge
+end points
+randomly chooses
+colluding nodes
+area
+frequencies
+randomness
+main memory
+tcp
+round trip
+ms to ms
+standard deviation
+count
+gaussian distribution
+chosen uniformly
+mhz
+intel pentium
+linux
+block size
+byte
+computation times
+table iii
+table iv
+size mb
+symmetric key
+slightly higher
+bad nodes
+extremely small
+stamp
+typically small
+percentile
+signicantly smaller
+dierent values
+table vi
+scale linearly
+load balancing
+total number of publications
+computation cost
+times larger
+signicant reduction
+dropping attacks
+realistic scenario
+signicantly higher
+random dropping
+rst experiment
+network resilience
+random walk
+average number of hops
+longer paths
+random walkers
+ms ms
+xeon
+maximum throughput
+increasingly larger
+till
+rst decreases
+rate increases
+neighborhood
+routing algorithm
+cover
+gnutella
+reliable group
+diffusion
+paging
+strong correlation
+social distance
+users and products
+target
+heat
+inuence ow
+state
+reading
+potential interaction
+signed edges
+single
+historical data
+weight wij
+inuence spread
+temperature
+directed
+nice
+axis
+invocation
+current state
+monte carlo
+tick
+activation window
+peak
+starting and ending
+windows
+positively correlated
+degree
+process repeats
+workstation
+ram
+ghz intel core
+hop distance
+shortest distance
+hops
+signicantly dierent
+number of iterations
+observed interactions
+deviation
+logarithmic
+orders of magnitude
+plot shows
+relative frequency
+active or inactive
+location update
+cell
+station
+base station
+similar patterns
+plotted in figure
+fairly high
+success rate
+hop neighbors
+neighboring nodes
+approximately linear
+parameter setting
+edge weight
+tensor product
+ui and uj
+incoming degree
+input current
+special cases
+dimension
+magnitude
+rst glance
+lost
+illustrative examples
+number of bits
+sources and destinations
+receiver
+years ago
+real systems
+receivers
+region
+transmitter
+throughput capacity
+desired qoi
+loss rate
+frame rate
+passes
+fundamental limit
+network operates
+minimum qoi
+requires computing
+oic
+flow type
+data transfer
+transfer rate
+increasing function
+shown in fig
+remain unchanged
+qoi requirement
+link rates
+timeliness requirements
+maximum achievable
+official policies
+achievable rate region
+coin
+motion video
+simple case
+lossy
+jitter
+end nodes
+correct decisions
+accurately estimate
+pass
+prohibitively large
+network throughput
+number of hops
+availability probability
+verication process
+packet size
+network load
+node density
+transmission rate
+extremely high
+similar trend
+processing overhead
+packet transmissions
+packet length
+descending order
+scratching
+reporter
+events occur
+dierent locations
+band
+euclidean
+minimum distance
+powerlaw decay
+cost budget
+credibility values
+admission control
+ocial policies
+tempo
+presence or absence
+compromised nodes
+fully trusted
+average path length
+source and destination
+path length
+delivered qoi
+source node
+processing capabilities
+extreme cases
+density
+overhead incurred
+normal mode
+resource consumption
+performance metric
+models predict
+trusted source
+counterintuitive
+capacity region
+energy
+limited bandwidth
+compression ratio
+discrete-event
+transmission energy
+transcoding
+packet loss
+network parameters
+transmission power
+source rate
+taking into account
+transmission rates
+total utility
+conict graph
+maximum power
+control messages
+control message
+node ids
+port
+network overhead
+encoding and decoding
+total duration
+low priority
+fedora
+nonoverlapping channels
+compression ratios
+source nodes
+packet delivery
+active nodes
+experiment runs
+control data
+transmitting node
+receiving node
+significant effect
+figure comparison
+performance gains
+rate allocation
+network settings
+nodes and edges
+network types
+wang and singh
+light
+takes into account
+approach for maintaining trust
+discount factors
+boundary condition
+partitions
+silent
+agents playing
+commodity
+set of moving objects
+interpolate
+bald eagles
+color represents
+bald eagle
+parameter values
+longer period
+shorter period
+spatial noise
+original data
+reference spots
+reference spot
+representation error
+linearly interpolated
+partial movement
+illustration
+correct period
+dimensional space
+ranges
+regular grid
+grid size
+higher probability
+standard deviations
+false positives
+accurate estimation
+condence level
+random permutation
+experiment times
+red
+dashed line
+considered separately
+independence
+vice versa
+essentially means
+consecutive timestamps
+mino
+uniquely determined
+depthrst search
+signicantly reduced
+prune
+node with objectset
+os
+gb memory
+sampling rate
+practical issue
+golden eagle
+periodic segment
+variance
+normal distribution
+circle
+radius
+random noise
+repeated times
+noise level
+reported locations
+linear interpolation
+dierent degrees
+fair
+produce results
+spatial region
+universe
+clock
+xed size
+geographic information
+transmission delays
+steady-state
+asymptotic behavior
+friendship community
+delivery rate
+endtoend path
+higher chance
+encounter history
+friendship communities
+erasure
+multiple copies
+frequently encountered
+local community
+link quality
+forwarding opportunity
+single link
+average separation period
+contact duration
+contact durations
+message exchange
+link weights
+separation period
+message forwarding
+node pairs
+contact history
+similar results
+forwarding strategy
+forwarding algorithm
+prophet
+node js
+node meets
+tb
+tracedriven simulations
+start and end
+random seeds
+higher delivery
+current setting
+routing efciency
+small size
+threshold increases
+routing performance
+performance results
+maintenance cost
+trace driven simulations
+bubble rap
+arbitrary length
+actual traces
+a level
+mobility behavior
+mobility trace
+operand
+init
+buses
+longitude
+discretization
+intermeeting times
+connectivity graph
+mobility model
+access points
+mobility prediction
+mobility pattern
+mobility observations
+voi
+lowest level
+highest level
+signicantly fewer
+forest
+optimal strategy
+low level
+nearby nodes
+queue length
+probability distributions
+maximum feasible
+packet delay
+lowest cost
+expected gain
+sketch
+social influencing
+asymptotic consensus times
+complete graph
+complete graphs
+word naming game
+committed agents
+external eld
+pacs
+random graphs
+random networks
+consensus times
+tipping point
+metastable
+reaching consensus
+nite size
+increase exponentially
+extremely slow
+asymptotic scaling
+update events
+voter model
+speaker
+na na na na
+naming game
+global consensus
+network size
+mixing
+network states
+presence of committed agents
+multiple opinions
+expected total
+word ng
+macrostate na
+absorbing states
+boundary conditions
+scaling behavior
+numerical simulations
+averaged over runs
+analytical results
+numerical simulation
+vertical axis
+horizontal axis
+straight line
+randomly selects
+listed in table
+consensus states
+consensus state
+spontaneous symmetry breaking
+achieve consensus
+triangle
+square lattice
+rate equation
+reach consensus
+mixed state
+peaks
+alla consensus
+black
+equal probability
+square root
+grows larger
+decays exponentially
+symmetry
+committed fraction
+phase space
+xed points
+saddle point
+exponentially large
+stable xed point
+tcn
+grows exponentially
+rough estimate
+critical fraction of committed agents
+committed nodes
+fraction of committed agents
+monitoring sensors
+falls
+higher quality
+memory
+sampling rates
+gps receiver
+significantly reduce
+duty cycle
+local processing
+power consumption
+observables
+geographical area
+budget constraints
+maximize coverage
+mobility prole
+poor quality
+initial values
+vehicle speed
+perturbation
+absolute values
+randomized
+adding or removing
+phase transition
+critical threshold
+minority opinion
+scalefree networks
+smallworld networks
+node degrees
+short path
+seeding strategy
+direct contacts
+statistically signicant
+propagation trust
+million nodes
+node degree
+direct evidence
+entire population
+competing opinions
+ng dynamics
+committed opinion
+majority opinion
+erdosrenyi random graphs
+qualitatively similar
+committed minorities
+sharp transition
+random geometric networks
+opposing opinion
+pc
+scale-free networks
+threshold model
+key feature
+initial conditions
+reaches consensus
+opinion states
+american physical society
+left column
+arrow
+magnetization
+nite systems
+uncommitted nodes
+dna
+meaneld equations
+active steady state
+trivial case
+numerically integrating
+phase transitions
+critical point
+color online
+conditioned on survival
+diamonds
+asterisk
+inset shows
+blue
+consensus time tc
+asymptotic limit
+survival probability
+occupation probability
+absorbing state
+decay rate
+exponentially decaying
+exponential growth
+loglog scale
+critical point pc
+sparse networks
+erdosrenyi er random
+critical fraction
+barabasialbert ba
+qualitative behavior
+fixed points
+meanfield equations
+erdosrenyi graphs
+na and nb
+relative error
+personality trait
+block design
+word valence
+face type
+error bars
+standard error
+main effect
+significant difference
+cu faces
+mms
+erp
+scalp
+occipital
+electrophysiological
+optimizing synchronization
+weighted complex networks
+weighted networks
+coupling strength
+hub avoidance
+current ow
+wave
+resistor
+stochastic synchronization
+coupling strengths
+uncorrelated scalefree
+sf networks
+present results
+cascade
+regular networks
+scalefree sf
+linearization
+cii
+noise term
+correlation function
+ensemble average
+numerical diagonalization
+synchronization landscape
+network realization
+network ensemble
+network ensembles
+spectral gap
+uncorrelated networks
+cost constraint
+unweighted network
+heterogeneous degree
+restricted set
+fully connected
+meaneld approximation
+weighted average
+global average
+weighted degree
+simple random walk
+minimum degree
+elementary
+degreedegree correlations
+numerical results
+growing networks
+ba
+network realizations
+scalefree model
+preferential attachment
+scatter plot
+low degrees
+weighting parameter
+network sizes
+solid curve
+sw networks
+exponential tail
+nearest neighbors
+centrality measures
+powerlaw tail
+connected network
+propagator
+voltage
+hhs
+uncorrelated random
+global measure
+cure
+sf network
+parameter controls
+random walker
+link strength
+node betweenness
+rws
+betweenness measure
+kinn
+hitting
+network congestion
+chosen uniformly at random
+remaining nodes
+independent random walkers
+largest degree
+figure demonstrates
+strongly correlated
+small degrees
+weighting scheme
+similar behavior
+highest betweenness
+highest degrees
+random node removal
+hanging
+dead ends
+potential difference
+horizontal lines
+load distribution
+loglog scales
+random network
+fat
+erdosrenyi er
+random graph
+shortest path
+optimal path
+sourcedestination pair
+weighted network
+shortest paths
+betweenness centrality
+unweighted networks
+scalefree networks with degree
+heavy tailed
+conguration model
+scalefree network
+highest load
+scale free networks
+weight distribution
+erdosrenyi network
+cascading failure
+domino effect
+erdosrenyi networks
+tolerance parameter
+node failure
+giant connected component
+giant component
+removed nodes
+node removal
+negative values
+original network
+weighted edges
+surviving giant component
+globally optimal
+local neighborhood
+differential equations
+effective coupling
+pkk
+linear couplings
+nonmonotonic behavior
+connected nodes
+steady state
+numerically integrating eq
+large degrees
+scalefree sf networks
+held xed
+scaling form
+limiting case
+optimal performance
+numerical integration
+largest eigenvalues
+phase diagram
+effective forwarding
+conditional intermeeting time
+local knowledge
+conditional intermeeting times
+encountered node
+forwarding algorithms
+lognormal distribution
+key observations
+meeting frequency
+delivery probability
+abc
+met node
+meets node
+crt
+acb
+probability density
+haggle traces
+ath
+minimum expected
+expected delay
+edge sets
+bidirectional edges
+messages received
+link state
+source destination
+historical information
+permutations
+outgoing edges
+incoming edges
+original graph
+takes ov
+carrier
+section iva
+delivery delay
+compared algorithms
+delivery ratios
+based algorithms
+neighbor node
+performance analysis
+msc
+behavior types
+protagonist
+socio label
+npp
+physical interaction
+waiting times
+scaling exponents
+momentum
+waitingtime distributions
+supplementary section
+km
+distinct locations
+articles nature physics doi
+individualmobility model
+plot showing
+visited location
+loglog plot
+straight lines
+zipfs law
+diffusive
+null models
+previously visited
+waitingtime distribution
+equation predicts
+fattailed distribution
+figure schematic
+left panel
+scaling law
+nphys figure
+user group
+excellent agreement
+error bar
+analytical predictions
+finite size
+empirical observation
+spatial mobility
+quenching
+macmillan publishers
+correlation coefficient
+gravity
+powerlaw distributions
+levy flight
+walks
+distribution functions
+supplementary information
+forwarded emails
+spreading process
+individual activity
+immunization
+revenue
+activity levels
+illustrated in fig
+initiators and spreaders
+wb
+strong evidence
+random sample
+randomly sampled
+positive correlation
+signicantly faster
+number of threads
+existing models
+branching factor
+important structural
+longest path
+empirical model
+empirical measurements
+triangles
+linearly wrt
+branching factors
+branching process
+random number
+underlying mechanism
+random numbers
+infection
+scaling exponent
+mutation
+worm
+scalefree topology
+avalanches
+the creative commons attribution license
+permits unrestricted use
+epicenter
+plos one www
+main text
+relative change
+shown in red
+female users
+vtv
+materials and methods
+approximate location
+modulo
+supporting information
+percolation
+ha
+analytical approach
+labeled target
+randomly generate
+random initial
+combined algorithm
+newly added
+font
+negative instances
+circles represent
+negative pairs
+error reduction
+rst order
+similar trends
+randomly choosing
+dotted lines
+edges connecting
+previous iterations
+vertices and edges
+vertex and edge
+relative improvement
+onetoone mapping
+multiplicative inverse
+correct answer
+rst row
+hidden states
+sources and claims
+true claims
+directly measured
+undirected edges
+discovered community structure
+flickr
+activity rate
+positive links
+insertions and deletions
+slashdot
+negative edges
+undirected graphs
+sink node
+optimal partition
+positive edges
+query node
+space constraints
+negative links
+causal relation
+slightly lower
+signicantly lower
+working class
+multiple rounds
+edge degree
+desirable property
+positive edge
+extreme case
+randomly sampling
+randomly selected
+sink nodes
+figure presents
+negative edge
+smaller values
+hill climbing
+signicant difference
+edge count
+opposite directions
+pagerank
+intel
+strong positive
+strong negative
+error bounds
+query error
+granted without fee provided
+commercial advantage
+copies bear
+measurement errors
+discrete values
+histogram
+polynomials
+minimum error
+error metric
+shown in gure
+evenly spaced
+held constant
+approximation error
+distance computation
+reduction in error
+theoretical result
+local maxima
+cluster size
+result set
+query range
+simply compute
+helps reduce
+user dened
+magnitudes
+increases linearly
+greedy algorithm
+database size
+running times
+absolute error
+spearmans rank correlation coefcient
+monotonic function
+uniform space
+rerun
+input signal
+natural ordering
+exist multiple
+accurate estimates
+discount factor
+signicant dierence
+accurate predictions
+trust in history
+positive outcome
+uniform distribution
+trust values
+positive experiences
+total number of transactions
+estimated trust
+previously received
+highly sensitive
+actual quality
+ideal case
+estimation error
+numerical examples
+figure compares
+ghost
+initially set
+key point
+xed discount
+damping
+previous steps
+average prediction error
+prediction errors
+result shows
+low condence
+prediction error
+low trust
+extremely low
+unreliable sources
+brownian motion
+number of labeled examples
+depth attacks
+detection latency
+probabilistic detection
+depth attack
+false positive and false negative rates
+resourcemisuse attack
+resourcemisuse attacks
+event occurs
+contact opportunities
+selsh nodes
+node launching
+breadth attack
+detection scheme
+gateway nodes
+download data
+synthetic random
+imote infocom
+transmission range
+torus
+node moves
+compromised node
+uniformly randomly
+false negative
+false positive
+waits
+default values
+percentage of compromised nodes
+false positive rate
+attack packets
+analytical model
+conservative
+copy number
+mules
+problem instances
+continuously updated
+transmission cost
+routing paths
+latency constraint
+remote transmission
+spacetime
+random chance
+mutations
+reachability
+vertices represent
+central server
+subfamily
+connected component
+transition occurs
+connected components
+compressed graph
+disjoint paths
+pie graph
+arrows represent
+maximal sets
+ltering phase
+reverse order
+validity interval
+validity intervals
+bars represent
+edge exists
+source vertex
+internal nodes
+edge connecting
+vertical line
+ltering process
+location updates
+uniformly random
+intel core
+cpu
+dominating sets
+routing protocol
+compression rate
+stp walks
+edge exploration
+dense networks
+realworld networks
+global information
+past history
+analytic results
+virgin
+sn xn
+colour online
+visited nodes
+distinct edges
+connected graphs
+dense graphs
+rss
+generating functions
+taboo
+triangular lattice
+remaining edges
+fractal
+gasket
+dierent graphs
+small networks
+necessarily true
+sparse graphs
+uniformly at random
+maximum degree
+node discovery
+pheromone
+zigzag
+trust level
+partial revocation
+revocation immediacy
+fuzzy trust
+attack strategies
+trust score
+honest nodes
+signicantly increase
+honest node
+predened threshold
+high trust
+tas
+false positive and false negative
+local view
+positive opinion
+negative opinion
+average trust level
+attack intensity
+trust of malicious nodes
+achieve higher
+optimal attack
+attack strategy
+minimum threshold
+false positives and false negatives
+current node
+initial messages
+san diego county
+tightly knit
+network density
+tie strengths
+high and low
+equal trust
+proportion of evacuated
+noise levels
+travel times
+weight watchers
+hot spots
+humidity
+incoming data
+depicted in fig
+space limitations
+crowdedness level
+onehop neighbors
+static networks
+worstcase latency
+statistically significant
+common authors
+citation counts
+pseudocode
+hits
+densely connected
+number of citations
+cited papers
+common papers
+underlying graph
+important nodes
+user base
+negatively correlated
+correlation coefficients
+table average
+pearson correlation
+shown in bold
+strong correlations
+closely matched
+wireless access
+performance degradation
+realistic traces
+temporal distribution
+node movement
+parameter reestimation
+velocity
+mobility stages
+mobility observation
+node velocity
+decreasing degree
+constant factor
+steadystate mobility
+moving direction
+moving directions
+mobility dependency
+generally increases
+localization error
+maximum distance
+temporal stability
+decreasing trend
+rwp
+average relative error
+large values
+larger values
+temporal correlation
+group sizes
+fewer nodes
+consistent results
+square area
+rwp mobility
+rwp mobility model
+higher chances
+centrality metric
+maintaining network information
+dissemination costeffectiveness
+unicast
+node centrality
+implicitly assumes
+selected relays
+capability of contacting
+existing relays
+buffer size
+exponential distributions
+experimentally validated
+hop neighborhood
+contact graph
+local centrality
+network diameter
+hop count
+lcc
+popular data items
+local network
+cumulative contact
+dissemination cost
+cumulative distribution function
+contact capability
+increases exponentially
+temporal sequence
+update process
+local optimality
+randomly drawn
+kb to kb
+diameter
+pairwise intercontact
+centrality values
+diffusion in delay tolerant manets
+query delay
+socialaware data
+yang zhang et al
+theoretical results
+higher centrality
+relay node
+powerlaw distribution
+interested nodes
+uninterested nodes
+uninterested node
+uninteresting data
+node sends
+innite buffer
+nite buffer
+sir model
+si model
+susceptible state
+infected state
+infected uninterested
+average query delay
+rst choose
+infected nodes
+number of infected nodes
+sudden drop
+sis model
+endemic
+skewer
+contact frequency
+numerical analysis
+performance difference
+worth noticing
+pareto
+power laws
+lack of global information
+forwarding metrics
+transient contact
+transient contact distribution
+skewness
+transient connectivity
+trafc light
+indirect contacts
+nodes inside
+gaussian function
+data delivery ratio
+forwarding metric
+node contact capability
+cumulative node contact
+temporal network
+pm and pm
+onperiod and offperiod
+contacts happen
+skewed distribution
+contact process
+modulus
+tcs size
+summarized in table ii
+tc te
+tls
+temporal distributions
+randomly pick
+data sources
+ccp
+compareandforward strategy
+signicantly reduces
+forwarding strategies
+generally speaking
+buffer constraint
+delegation forwarding
+directly linked
+candidate graph
+directed acyclic graph
+interesting observation
+simply assume
+observed variables
+linear chain
+direct links
+rectangle
+twins
+higher condence
+randomly select
+message passing
+enron
+higher precision
+higher recall
+painter
+pattern probability
+semantically equivalent
+initial answer
+relative performance
+flags
+significantly improved
+packet forwarding
+packet rate
+traceability
+forwarding paths
+forwarding path
+defender
+path reconstruction
+onehop neighborhood
+allowing multiple
+router
+colluding node
+efciency analysis
+packets forwarded
+received packets
+verication phase
+received packet
+coupon collectors problem
+sample size
+radio transmission
+random waypoint mobility model
+mac layer
+network layer
+constant rate
+size bytes
+low rate
+ip packets
+centroid
+confidence level
+similar values
+priority order
+higher score
+candidate set
+modularity measure
+removing nodes
+detected community
+real networks
+multiple communities
+highest degree
+highdegree vertices
+detected communities
+initially assigned
+communities detected
+optimization process
+removed vertices
+random vertex
+random removal
+largest connected component
+ansatz
+simpler approach
+generated networks
+breakpoint
+simulated networks
+remaining network
+highdegree nodes
+yeast
+metabolite
+mus musculus
+clique size
+shown in table ii
+maximal cliques
+ppi network
+multiple giant components
+frieze
+potential edges
+sampled uniformly at random
+rejected provided
+fraction of accepted edges
+decreasing function
+strongly discontinuous
+explosive transition
+largescale connectivity
+secondorder transition
+discontinuous transition
+local cluster
+largest component
+discontinuous transitions
+stable giant components
+isolated nodes
+number of edges added
+largest jump
+bfw model
+sampled edges
+giant components
+number of stable giant components
+erdosrenyi model
+edge density
+cin
+supercritical
+component size
+critical region
+bfw process
+a strongly discontinuous transition
+macroscopic components
+typical evolution
+scaling window
+critical behavior
+discontinuous jump
+previously observed
+largest clusters
+multiple links
+size limit
+candidate edges
+genes
+isolated network
+small clusters
+technological network
+connectivity properties
+random edge
+component sizes
+multidegree distribution
+vertical lines
+local connectivity
+isolated networks
+total degree
+edges incident
+signicantly larger
+horizontal line
+powerlaw degree distributions
+gure shows
+averaged over realizations
+solid red
+similarity threshold
+correctly labeled
+significantly higher
+perform worse
+carbonation
+closed set
+direct comparison
+child nodes
+gcc
+times slower
+spatial clusters
+higher probabilities
+initial estimation
+consecutive days
+index construction
+indexing method
+candidate paths
+isomorphic
+distortion
+network scenario
+evenly distributed
+lookup table
+grows linearly
+medium size
+rst assume
+disk accesses
+index size
+clique queries
+amd
+ubuntu
+query size
+dierent sizes
+common subgraph
+disconnected components
+adjacent vertices
+input graph
+priority queue
+distinct labels
+induced subgraphs
+synthetic graphs
+outdegree distributions
+terabyte
+petabyte
+scales linearly
+synthetic graph
+georgian technical university
+edge type
+wrong answers
+gossip
+citation network
+reference set
+sampling probability
+ideal solution
+stamps
+decreasing order
+papers published
+strength of social ties
+edges representing
+blogger
+highly correlated
+complete data
+number of nearest neighbors
+obtained by averaging
+starting points
+nmi
+dierent algorithms
+object relationships
+individual objects
+section iib
+section iic
+anomalous scores
+pairwise distance
+roc
+detection rate
+false alarm
+roc curve auc
+imdb
+stable state
+majority class
+higher weights
+increase or decrease
+gradually increase
+neighboring information
+previously discussed
+randomly choose
+random selections
+optimal choice
+gin
+gout
+ranking list
+randomly selecting
+relation strength
+greater importance
+sensor node
+observed values
+attribute values
+input parameter
+mentioned earlier
+higher values
+attribute distribution
+highest probability
+synthetic network
+synthetically generated
+higher weight
+interesting case
+similar pictures
+paths connecting
+strongly connected
+stars
+search algorithms
+reverse path
+coauthored papers
+neighbor sets
+higher similarity
+rows and columns
+highest similarity
+topk list
+images and tags
+direct link
+existing clusters
+randomly assign
+change signicantly
+current topk
+feature objects
+higher degree
+query sets
+candidate size
+small patterns
+spiders
+large sizes
+paths leading
+random selection
+small components
+higher priority
+larger sizes
+data size
+scalefree graphs
+multiple edges
+size grows
+spin
+shortest distances
+pairs of vertices
+support threshold
+initial seed
+minimum number
+smaller components
+ghz cpu
+carefully chosen
+doubles
+erdosrenyi random
+dierent data sets
+pattern size
+average node degree
+graph size
+powerlaw degree distribution
+scalefree graph
+smaller size
+larger size
+necessarily imply
+blue lines
+lines of code
+software maintenance
+friendship relation
+xed budget
+minimum energy
+predicted class
+classes classes classes
+computed by averaging
+run experiments
+graph cut
+query points
+query point
+io overhead
+exponential function
+list of notations
+stop criterion
+process stops
+distance threshold
+experiment settings
+gb ram
+file size
+default settings
+io cost
+higher dimensions
+prior probabilities
+smooth transition
+faster convergence
+prior weight
+membership probabilities
+cluster ci
+network evolves
+interesting observations
+livejournal
+number of common neighbors
+common neighbors
+xed length
+common neighbor
+positive pairs
+rooted pagerank
+previous cases
+accuracy rate
+table ix
+fully observed
+left gure
+selection scheme
+hidden nodes
+idle state
+incoming messages
+grow exponentially
+arbitrary order
+neighboring node
+network property
+quickly converge
+selecting nodes
+set of seed nodes
+common friends
+adding additional
+starting node
+query nodes
+noisy edges
+simply counting
+result sets
+precisionrecall curve
+weight parameter
+random guess
+times higher
+number of clicks
+fr
+computational burden
+discrimination
+high computational cost
+skewed data
+condence interval
+worse performance
+cave
+matching function
+prediction power
+source weight
+similarity values
+validation error
+log scale
+implicit interests
+relative variance
+sequel
+sparsity patterns
+pixels
+pixel
+recognition accuracy
+horizontal axis represents
+socalled
+friend relationship
+males and females
+interesting phenomenon
+grow linearly
+static graph
+distinct values
+published cuboids
+contingency table
+noise added
+theoretical bound
+input size
+cap
+error ratio
+drawn uniformly
+small values
+small numbers
+minimum vertex cover
+linked list
+users visiting
+importance score
+eigen vector
+trafalgar
+discriminative words
+yield similar results
+sand
+adjacent nodes
+web graph
+link path
+reference page
+dependent sources
+cluster based
+ranked higher
+birth and death
+command center
+alarm threshold
+false negatives
+severity threshold
+alarming sensors
+sampling ratio
+inverse function
+nal score
+trustworthy alarm
+default parameter settings
+logarithm
+trust threshold
+sampling based
+number of unique tags
+realtime response
+fdr
+ghz cpu and gb
+quality performance
+computation complexity
+higher likelihood
+gure illustrates
+global inuence
+betas
+direct propagation
+performance change
+largest values
+solid black
+user trusts
+papers authors
+add edges
+replicate data
+interested data
+mobility anomaly
+frequently accessed data
+network partitions
+limited storage
+neighboring vehicles
+link failure
+data access
+curvature
+access frequency
+drc
+relative positions
+relative position
+monitoring vehicle
+reference vehicle
+moving average
+reference vehicles
+position change
+change threshold
+detection condence
+detection accuracy
+distance change
+chart
+access probability
+neighboring data replication
+access cost
+extremely large
+computation overhead
+frequently accessed
+message overhead
+opposite direction
+randomly picks
+zipf parameter
+access pattern
+false positive rates
+mac protocols
+number of quality tags
+dierent measures
+rate of pay
+quality tags
+quality labels
+number of distinct labels
+quality metrics
+task completion
+sorted list
+reward per hit
+requested per image
+unique tags
+hour period
+activity level
+diminishing returns
+standard errors
+tags requested
+unique tags in gold standard
+week period
+mean absolute error mae
+diminishing marginal returns
+models predictions
+number of tags requested
+pay rate
+encoding scheme
+posting fees
+low pay
+baseline and optimized designs
+constraint ensures
+turks
+high pay
+prediction interval
+tags received
+pay high
+correct claims
+stopping criteria
+unions
+reported results
+overwhelming majority
+convergence times
+author-topic
+occurrence frequency
+parse tree
+multiple steps
+word list
+signicant effect
+local contacts
+longrange contacts
+grid network
+number of longrange contacts
+main results
+dense network
+unit square
+tdma
+concurrent transmissions
+rhombus
+growth rate
+identically distributed
+network growth
+statistical knowledge
+save power
+optimal decisions
+control decisions
+network delay
+successive frames
+arrival process
+performance tradeoff
+mixed strategies
+average power
+slightly larger
+network scenarios
+central command
+task arrival
+interarrival times
+qoi utility
+geometric distribution
+tasks arrive
+degenerate case
+scheduling policy
+relay network
+result holds
+markovian dynamics
+queueing discipline
+original backpressure
+performance of lifobackpressure
+network state
+stochastic network
+average packet delay
+queue sizes
+decreases exponentially
+queue size
+arrival rate
+nite state
+subject to network stability
+expected average
+average backlog
+reasonable assumption
+input rate
+queue backlog
+link states
+outgoing link
+incoming links
+lifo and fifo
+attractor
+oating queue
+tinyos
+markovian evolution
+dbm
+moderately high
+condence intervals
+delay reduction
+packet drops
+throughput-utility
+sample paths
+peertopeer network
+node observes
+le size
+centralized control
+scheduling decisions
+arrival processes
+transmitting data
+uplink channel
+total throughput
+utility metric
+control parameter
+exact computation
+positive weights
+scheduling decision
+rab
+decimal
+unit cost
+minimum cost
+arrival times
+average cost
+geographic distance
+source routing
+complete path
+spent waiting
+edge dynamics
+edge failure models
+edge states
+dynamic routing
+static network
+constituent edges
+dynamic graph
+present or absent
+static case
+highest order
+missing edge
+erdosrenyi random graph
+path graph
+optimally solvable
+dynamic markovian
+initial states
+path graphs
+optimal routing
+delay distribution
+topologically
+sorted order
+nal state
+room for improvement
+dynamic path
+online algorithm
+closetooptimal utility
+nonzero values
+storage capacity
+performance bounds
+maximum indegree
+energy queue
+energy storage
+outgoing links
+guar
+phase ii
+signicantly reduce
+sense data
+minimum total cost
+networkwide broadcast
+prohibitively expensive
+link layer
+intended recipients
+hidden terminals
+cost of transmitting
+dominating set
+nonleaf nodes
+approximation ratios
+cubic graph
+pairwise relationships
+simplicial complex
+higher dimensional
+figure left
+simplices
+skeleton
+topological spaces
+dominator
+larger networks
+multiple radios
+common channel
+mrmc network
+clique complex
+strictly speaking
+total energy
+sca
+vertex pairs
+random simplicial complex
+onetoone correspondence
+messages transmitted
+received message
+antonym
+syntactically
+extinct
+total probability
+message entropy
+noisy channel
+syntactical
+received messages
+discrete memoryless
+centrality metrics
+closeness centrality
+sampling error
+betweenness and closeness centrality
+betweenness and closeness
+sampled fraction
+sampling process
+weakly correlated
+sampled nodes
+figure reports
+complementary cumulative distribution function ccdf
+correlation coefcient
+pearsons correlation
+pearson correlation coefcient
+linear relationship
+expansion sampling
+randomwalk sampling
+uniform restarts
+uniform node sampling
+frontier sampling
+axs
+marked nodes
+highest centrality
+random neighbor
+closeness and betweenness
+rank correlation
+nodes with high degree
+sampling strategy
+monotonically decreases
+maximum overlap
+sample set
+similar properties
+costs incurred
+page rank
+estimation accuracy
+trust requester
+trust provider
+rendezvous node
+overhead reduction
+flood
+failure probability
+credit capacity
+socially optimal
+credit network
+social welfare
+stable states
+issuing credit
+default probabilities
+default probability
+credit line
+total credit
+maximum total
+shape parameter
+prole space
+hierarchical reduction
+players choose
+credit links
+low default
+remaining agents
+resulting network
+deadlock
+active user
+number of followers
+word cloud
+word appears
+factorial
+the visualization style factor
+anova
+candidates set
+users followers
+voters set
+column shows
+inference quality
+explicit interests
+highest correlation
+xed values
+worst performance
+set size
+mixed strategy
+strategy space
+strategy proles
+total delay
+additional cost
+congestion games
+rst selects
+sample variance
+actual delay
+average total
+dominated strategies
+reduced game
+microstate
+critical exponents
+group size
+differ signicantly
+benchmark networks
+word lists
+nonzero probability
+ring network
+resolution limit
+glauber ordering
+minority group
+neighbors ni
+adding edges
+main factor
+ve times
+end state
+minuscule
+chronological order
+likert scale
+equal weight
+positive results
+synchronous trading
+observation period
+window size
+kolmogorovsmirnov test
+market volatility
+expected by chance
+pairwise correlations
+outcome variable
+ims
+signicant correlation
+myopic
+impact factor
+obesity
+neutral relations
+fast changing
+closed triads
+approximately times
+global connectivity
+clustering coefcient
+related measures
+prestige
+coauthorship network
+carrying capacity
+nodes degree
+geographic proximity
+generalized exchange
+underclass
+transaction cost
+ari june
+yang su
+homelessness
+keyword bundles
+keyword bundle
+daytoday movements
+collective trading performance
+null model
+keyword pairs
+equal size
+word bundle
+rst dierences
+traders communications
+collective performance
+relative frequencies
+external and internal
+internal and external
+random null hypothesis
+null hypothesis
+criticality
+red dashed lines
+independent and identically distributed random variables
+object pairs
+generation procedure
+end point
+direct trust
+indirect trust
+indirect links
+bookkeeping
+spanish language
+immediately clear
+shorter path
+multiple paths
+low degree
+simple rule
+intermediate steps
+outlined in section
+bet
+mirror
+chemical structure
+computation required
+pcc
+direct friends
+interaction types
+slider
+wall post
+linear correlation
+isp
+mutual ties
+positive correlations
+additional parameters
+dht
+user receives
+collection process
+unique users
+slower rate
+completely independent
+user pairs
+buzznet
+popular items
+buzz count
+photo comment
+correlation coecient
+buzz counts
+distance distribution
+ks statistic
+powerlaw distributed
+ks test
+low variance
+orkut
+mutual friend
+backbone network
+signicant performance
+user pair
+approximately equal
+geographical distance
+decentralized search
+common ancestor
+keyword set
+randomly picked
+trend line
+sample users
+number of keyword pairs
+weak similarity
+strong similarity
+friend pairs
+entire graph
+uniform sampling
+bias and variance
+clustering coecient
+undirected edge
+urns
+critical points
+random samples
+increasing trend
+largest connected components
+multiple runs
+computation costs
+amd opteron
+adjacency list
+random access
+clustering coecients
+cache misses
+number of triangles
+common neighborhoods
+spatial correlation
+sliders
+incident edges
+node size
+user selects
+similarity space
+node sizes
+node belongs
+web crawler
+patterns and anomalies
+wellconnected nodes
+entry values
+enterprise network
+ncp
+ticks
+illustrated in figures
+timevarying network
+flag
+correlation matrix
+correlation values
+correlation score
+correlation scores
+window sizes
+number of smss
+total volume
+highly active
+processing times
+small diameter
+network robustness
+centrality scores
+direct neighbors
+high centrality
+highly central
+eigenvector centrality
+extreme values
+rwr scores
+cyan
+pink
+pentium
+cpu and gb memory
+extensive simulations
+power-law
+tlac model
+bivariate gaussian
+number of phone calls
+node weights
+high betweenness
+lognormal distributions
+odds ratio
+complementary cumulative
+goodness of fit
+negative correlation
+primary users
+true positive rate
+solute
+true positive
+correctly identied
+billion edges
+billion nodes
+opteron
+gb of ram
+centrality measure
+figure plots
+low scores
+diminishing return
+complete bipartite graph
+storage requirement
+empirically measured
+highlighted in red
+treated equally
+active lifetime
+passive lifetime
+approximately half
+recorded activity
+photos posted
+received activity
+correlation coefcients
+receiving activity
+critical period
+low error
+virus propagation model
+infected neighbors
+infectivity
+recovery rate
+infected population
+epidemic threshold
+bond
+real graphs
+infected node
+transmission probability
+equilibrium point
+number of infections
+greedy strategy
+mac address
+centos
+contact graphs
+shieldvalue score
+paths of length
+karate
+fraction of infected nodes
+red star
+powerlaw graphs
+routing policies
+adjacent edge
+unobserved nodes
+feasibility intervals
+synthetic networks
+higher density
+synthetic composite networks
+remains constant
+takes seconds
+multiple threads
+chain structure
+post pi
+spanning trees
+accurate approximation
+local structure
+performance improves
+small communities
+sparse regions
+competing techniques
+local communities
+node sets
+jaccard coecient
+local density
+powerlaw behavior
+hub nodes
+hub node
+dierent communities
+smaller communities
+dierent parts
+diagonal entries
+local threshold
+minhash sample
+disjoint communities
+cluster purity
+random partitioning
+large communities
+prolic authors
+minhash sample size
+sample sizes
+link density
+global topology
+ic model
+active node
+neighbors independently
+undirected networks
+maximum ow
+authority nodes
+consecutive iterations
+set of target nodes
+dblp collaboration network
+expected aggregate
+tracebackpagerankpeerinfluencedegree discount ic
+figure eciency
+increasing network size
+increasing size
+methods fail
+dynamically updated
+dierent classes
+structural nodes
+node identiers
+node identier
+inverted lists
+added or deleted
+structural hop
+correctly classied
+hop paths
+change occurs
+current source
+intel xeon
+graph with million nodes
+decayed hitting time
+random cases
+vq vq
+steps needed
+large scale graphs
+path lengths
+target node set
+estimation errors
+ajax
+randomly removing
+edge removal
+correlation structure
+automorphism
+structural noise
+missing edges
+topk embeddings
+propagation factor
+unmatched nodes
+matched nodes
+additional nodes
+real life graphs
+unmatched node
+cost metric
+query graphs
+total edges
+noise ratio
+efciency results
+based ranking
+vertex degrees
+related pages
+space cost
+sequential scan
+precision scores
+target document set
+realworld graphs
+local neighborhoods
+query labels
+sphere
+pairwise distances
+topk buer
+vertex degree
+sampled pairs
+ghz intel xeon
+random order
+miss ratio
+randomly assigned
+synthetic label ratio
+cpm
+stationary state
+player level
+task difculty
+plants
+player levels
+efciency index
+success index
+team efciency index
+team size
+segmented by group
+independent variable
+level diversity
+team efciency
+inactive players
+active players
+activity sequences
+player activity
+inactivity prediction coverage
+rna
+amino acids
+inactive player
+true positives
+true negative
+inactivity prediction coverage true
+true positive percentage
+dependent variable
+legend
+root mean squared error
+slightly smaller
+skill level
+slinky
+consistent hashing
+reference node
+timer expires
+reference nodes
+network wide
+final state
+jaccard index
+timescale separation
+responsible nodes
+node joins
+lakehurst
+query generation
+synthetic traces
+timevarying networks
+spatial networks
+proximity network
+connectivity pattern
+distant nodes
+sufciently small
+node adopts
+meaningful communities
+network snapshots
+dendrogram
+epinions slashdot
+narrow range
+clustering coefficient
+exhibit higher
+connected subgraphs
+network generation
+node arrival
+networked data fusion
+realtime capacity
+endtoend deadlines
+delay composition
+worstcase analysis
+endtoend deadline
+nonpreemptive scheduling
+task ti
+edf
+lower priority
+endtoend delay
+worstcase endtoend delay
+admission controller
+uniformly chosen
+holistic analysis
+product matrix
+initial estimate
+average error
+source categories
+negative correlations
+safety valve
+curve auc
+valley
+trafc lights
+stop signs
+input variables
+residual sum of squares
+degrees of freedom
+condence bound
+estimated parameters
+resulting model
+leaveoneout cross validation
+principal component
+locally stored
+content prioritization
+audio data
+virtual links
+estimated values
+vertices vi and vj
+greedy solution
+selected sensors
+selected sensor
+ip solver
+chlorine
+execution times
+error rates
+increasing budget
+ip greedy sampling budget
+baseline schemes
+simple graph
+generic network
+multilateration
+terminal nodes
+section iiic
+localization protocols
+anchor node
+curve shows
+polygons
+nodes representing
+rock music
+existing edges
+principal set
+dark blue
+resulting graph
+oat
+panel shows
+end to end
+powerful server
+player actions
+theoretical predictions
+geodesic
+methods section
+individual communities
+parameter estimates
+weakly connected
+completely connected
+atoms
+low probability
+ideal type
+incoming and outgoing
+reciprocating
+truncated power law
+transition point
+assortative mixing
+link existence
+link removal
+making predictions
+purely random
+lexicographical order
+similar characteristics
+sufciently high
+character level
+connecting nodes
+high precision
+training period
+positive samples
+million edges
+positive negative
+age groups
+household income
+indegree and outdegree
+final analysis
+control variables
+explained variance
+model model model model
+entry and exit
+previously reported
+internal consistency
+higher scores
+multiplex network
+event nodes
+gravitational
+anti
+expected number of infections
+antidote
+antidotes
+usmedicare network
+diminishing marginal
+initially infected
+arbitrarily high
+number of infected users
+incoming and outgoing edges
+effective closeness
+line graph
+low degree nodes
+real world graphs
+allpair shortest
+input le
+shufing stage
+edge importance
+adjacent edges
+odm
+yahooweb graph
+betweenness centralities
+scatter plots
+lowdegree nodes
+kenneth lay
+source-destination
+trafc network
+effectiveness results
+worth pointing
+total population
+black arrow
+random waypoint
+sine
+uss
+number of infected agents
+ghz and gb
+attenuation
+random waypoint mobility
+market share
+matrixmatrix multiplication
+eccentricity
+node and edge
+compressed representation
+failed state
+remaining vertices
+functional form
+potential links
+diseases and genes
+single node
+existing links
+newly formed
+expected result
+class distribution
+positive class
+walker rate
+sufcient conditions
+evolving graph
+le availability
+unitary
+fon
+accurately estimates
+selected uniformly at random
+highest ranked
+signicant change
+equilibrium state
+ncd
+random jumps
+rigorous proof
+disconnected nodes
+symmetric edges
+rw sampling
+asymptotically unbiased
+mean squared error mse
+regular graph
+sampling budget
+uniformly sampled
+vertex indegree
+hit ratio
+indegree and pagerank
+random vertex sampling
+loosely connected
+global clustering coecient
+edge sampling
+random edge sampling
+unbiased estimates
+squared errors
+outdegree distribution
+indegree distribution
+local clustering
+shared neighbors
+vertex sampling
+complementary cumulative distribution function
+singlerw and multiplerw
+thought experiment
+single edge
+small disconnected
+degree distribution
+closely matches
+mutually dependent
+indegree distributions
+normalized version
+condence levels
+answer quality
+sender and receiver
+sufficiently large
+strong community structure
+hamiltonian
+ferromagnetic
+ising model
+edges inside
+boundary nodes
+zacharys karate club network
+college football
+direct connection
+clustering coefcients
+lfr networks
+adjusted rand index
+run times
+pgp network
+community size
+constrained composite
+composite stretch
+composite broadcast
+random deployment
+composite path stretch
+interdependent networks
+random embedding
+geometric graph
+topic of future research
+shortest path distance
+ccd
+uniform random
+random geometric graph
+analysis suggests
+random geometric graph rgg
+lowest ranked
+normal distributions
+unique identiers
+red arrows
+favorites list
+crux
+directed path
+isolated clusters
+active members
+network snapshot
+added links
+thermodynamic
+shown in figs
+user attributes
+galaxies
+plateau
+number of reducers
+address space
+telescope
+partitioning strategy
+cluster sizes
+large clusters
+parallel execution
+totally ordered
+hourglass
+small datasets
+theoretical prediction
+middle column
+fixed point
+singlemachine bp
+larger graphs
+fault tolerance
+decision boundary
+vertical bar
+normal vertex
+points represent
+largest components
+turquoise
+rst observe
+large real networks
+rich get richer
+edit dynamics
+edit rate
+abstracting with credit
+macroscopic properties
+arrival rates
+empirical distribution
+larger datasets
+sample dimension
+potential candidate
+percentage accuracy
+river
+propagation behavior
+maxweight algorithm
+exploration events
+moving average window size
+maxweight learning
+slightly worse
+success probabilities
+trafc types
+trafc type
+successfully received
+node transmits
+rank order
+average total occupancy
+throughput versus
+average throughput
+total input rate
+asymptote
+trafc load
+minimum cut
+performance gap
+emd
+evidence scores
+speed data
+sources and assertions
+true assertions
+true and false
+barrier synchronization
+requesting node
+source and destination nodes
+cyclades
+largest cluster
+complete data item
+contact processes
+datalevel replication
+packetlevel replication
+data retrieval probability
+replication benet
+successful data retrieval
+query rate
+convolution
+retrieval probability
+slave
+arbitrary networks
+caching bound
+caching efciency
+linear network coding
+duplicate packets
+caching cost
+contacted neighbors
+based metrics
+intergroup data replication
+repeated traversal
+bounding overwatch
+pincer
+mobile node
+dafn scheme
+overwatch
+supplemental material
+link failure probability
+confidence interval
+similar observations
+total queue backlog
+observed events
+processing rate
+network eect
+digraph
+source input
+delay guarantees
+network scheduler
+modulation
+maximum transmission
+achieved utility
+delay bounds
+packet transmission
+scheduling problem
+average queue size
+sum throughput
+current round
+maxweight policies
+optimal transmission
+stability analysis
+future states
+successfully delivered
+steady states
+exponential complexity
+rate regions
+rate region
+limit point
+average utility
+ov utilitydelay
+discontinuous percolation
+direct growth
+discontinuous phase transitions
+discontinuous percolation transition
+growth by overtaking
+continuous transition
+realworld network
+discontinuous percolation transitions
+correlated percolation
+isolated node
+discontinuous phase transition
+main plot
+product rule
+edge competition
+edges added
+continuous percolation transition
+network persistence
+individual nestedness contribution
+pollinate
+nestedness contribution
+supplementary methods
+supplementary figs
+original source
+supplementary fig
+selfreported ties
+reciprocation method
+normalization method
+email network
+measurement error
+error tolerance
+common contacts
+response times
+social closeness
+average response
+absolute number
+ego network
+correlation threshold
+measurement noise
+word bundles
+extracted words
+global frequency
+timeevolving network
+small subgraphs
+thumbnail
+common prex
+consecutive time slices
+trafc dataset
+gws
+empirical networks
+population density
+links connecting
+interaction rules
+biomass
+sexual reproduction
+nygi networks
+cumulative distribution
+perfect agreement
+empirical network
+modularity values
+ksa
+clique percolation
+core size
+strong positive correlation
+representative node
+precision increases
+dening and discovering communities in social
+clique percolation method
+locally optimal
+resulting set
+scale free
+edge probability
+denition of modularity
+connected iterative scan
+iterative scan
+current density
+highest density
+zacharys karate club
+max degree
+identifying overlapping
+dened communities
+lfr benchmarks
+lfr benchmark graphs
+size distribution
+ova
+xaxis denotes
+discovered communities
+caveman
+block-diagonal
+caves
+compression results
+wing width ratio
+denser blocks
+random ordering
+ordering methods
+wing width
+low wing
+cross association
+cross edges
+prior beliefs
+cad
+positive score
+blue circle
+virulence
+propagation model
+threshold condition
+innite size
+expected degree
+mathematically tractable
+infectious state
+states susceptible
+kindergarten
+node selection
+cluster quality
+overlapping nodes
+adjacent cliques
+tness function
+copra
+belonging coefcients
+oscillation
+overlapping node
+maximum iteration
+perfect matching
+newmans modularity
+detected overlapping nodes
+distance based
+postal codes
+skt
+cell phone
+connection probability
+significantly lower
+size increases
+common cold
+voice calls
+maximizing modularity
+desired state
+controllability
+set of driver nodes
+number of driver nodes
+networks degree distribution
+driver nodes
+desired final state
+systems architecture
+wiring diagram
+interaction strength
+minimum number of driver nodes
+fully control
+systems dynamics
+supplementary information section
+maximum matching
+maximum matchings
+pathological cases
+structural controllability
+minimum number of inputs
+control configurations
+input signals
+minimum set of driver nodes
+fraction of driver nodes
+cavity method
+critical exponent
+random regular
+driver node
+increases monotonically
+kin kout
+driver node density
+erdos renyi
+exact results
+core emerges
+core percolation
+spin glass
+mobility measures
+cdr dataset
+temporal granularity
+potential link
+user movements
+sampling bias
+inverse problem
+recommendations in agent networks
+rating networks
+indirect paths
+propagated trust
+reputation values
+input graphs
+sorted in decreasing order
+trust coupling
+nonexisting edges
+high similarity
+structure graph gs
+query vertex
+agent ? based
+jester
+recommendation list
+reinforcing relation
+requester node
+arch
+forward path
+reachable witnesses
+unreachable witnesses
+epinions dataset
+academic collaboration
+aggregate score
+percentage of black vertices
+query attribute
+fa pfa ba
+event coverage
+command station
+picture collection
+storage requirements
+pivot points
+routing layer
+aggregation tree
+mule
+events reported
+gui
+simplest form
+inactive nodes
+power constraint
+active ticks
+active sensors
+maximum lag
+based prediction
+downloadable
+pes univariate
+update interval
+minimization criterion
+the pes multivariate technique
+pes univariate pes multivariate pes multivariaterl
+sampled univariate sampled multivariate
+figure error plot
+window size for regression
+lag for regression analysis
+figure running time data set
+pes univariate pes multivariate
+predictive accuracy
+crb
+estimation parameters
+participant reliability
+measured variables
+measured variable
+normal state
+observation matrix
+data sample
+correct observations
+high condence
+condence bounds
+estimation results
+chac protocol
+song sparrow
+ofine analysis
+sensory readings
+belief graph
+calculated by averaging
+gaussian noise
+joule
+equation computes
+diversity score
+sender to receiver
+timing results
+shrubs
+special measures
+ratio increases
+bug triggering
+execution graphs
+bug trigger
+position number
+ghz processor
+number of mixes
+true bug
+trust vector
+link capacity
+signaltonoise ratio
+merging process
+finite state machine
+lode
+number wnf
+run simulations
+complete provenance
+monetary reward
+malicious node detection
+reachable set
+similarity factor
+false alarm rate
+output size
+tpg
+frequent items
+median family income
+signicantly increases
+optima
+friction
+linear dynamics
+ellipse
+mahalanobis distance
+expected values
+query region size
+signicance scores
+fairly large
+issue queries
+dierent scales
+maximum distance change
+topk node pairs
+betweenness measures
+swamp
+importance number
+importance numbers
+dijkstra algorithm
+latitudes
+greatest change
+meeting frequencies
+cyclic order
+golden eagles
+original sequence
+utes
+amplitude
+trust metadata
+semanticsaware storage
+local broadcast
+trusted nodes
+storage location
+storage locations
+sas
+social optimization problem
+shaded area
+inconsistent links
+table view
+unusually high
+difculty level
+delivery deadline
+message copy
+secure delivery
+random direction
+message copies
+total node count
+fxx
+shortest hyperpaths
+edge deletion
+lent
+relationship tree
+colored red
+weight change
+hyperedge change
+weight decreases
+hind
+random geometric
+hidden incoming edges
+durw algorithm
+random jump
+virtual node
+baryossef et al
+uniform random sampling
+number of revisions
+mle estimates
+sampling probabilities
+cramerrao lower bound
+distribution estimates
+systematically study
+resistors
+large degree nodes
+chosen randomly
+vertex loads
+vertex load
+processing capability
+averaged over network realizations
+world wide
+cascades triggered
+salton index
+neighbours
+char level sum
+averageranked attributes
+fmeasure scores
+averageranked features
+char level
+tipping points
+largest cascades
+neighboring networks
+large cascades
+multitype branching process
+multitype networks
+transmission lines
+random regular graphs
+sandpile cascades
+avalanche size
+ferc
+southeastern united states
+configuration model
+avalanche
+size distributions
+american electric power
+universality classes
+grains of sand
+grain
+locally treelike
+erdsrnyi random
+origin and destination
+local cascades
+inflicted cascades
+external links
+infinity
+analytical calculations
+adding links
+global cascades
+si text
+edge stubs
+optimal interconnectivity
+strong coupling
+dynamical process
+dependency links
+highest average
+number of grains
+asymptotic expansion
+loosely-coupled
+geographic regions
+truncated powerlaw
+fewer edges
+direct simulation
+edge addition
+truncated power
+kcl
+strictly greater
+biased sampling
+bds
+residual sequence
+undirected and directed
+xi represents
+equivalence relation
+percolating cluster
+sourcedestination pairs
+undirected network
+unweighted graphs
+lbc
+numerical evidence
+betweenness values
+tentacles
+edge list
+periodic boundary conditions
+local routing rules
+routing rules
+local common knowledge
+prn
+number of coin ips
+routing game
+clique topology
+local strategy
+nodes and average degree
+regular lattice
+suciently high
+cfs averageranked
+account level
+age difference
+edge formation
+ranking factor
+group representation
+query budget
+diversity values
+sharp contrast
+speculation
+triad types
+facebook wall
+types of triads
+expected frequency
+mutual dyads
+predicted values
+gtv
+negative feedback
+categorical values
+closest cluster
+removing edges
+score threshold
+slaves
+page views
+growth models
+edge creation
+precisely dated edges
+mutual edges
+feasible date
+start date
+feasible range
+reciprocal edge
+edge pairs
+precisely dated
+distribution parameter
+network instances
+bors
+joint probability distribution
+positive inuence
+number of added edges
+heavytailed degree
+connect nodes
+spurious edges
+ve nodes
+deviationpreserving reduction
+opponent strategies
+reduced games
+dpr
+players play
+dprk
+clear separation
+perform similarly
+social- contact
+combat efciency
+nonparticipating players
+observed trust
+false reports
+cluster head
+number of compromised nodes
+neighbourhood
+length increases
+teleportation
+link breakages
+wireless adhoc
+link dynamics
+data packet
+security analysis
+bsc
+ct ticket
+ct tickets
+rendezvous point
+pigeonhole principle
+node receiving
+malicious detection
+random direction model
+message generation
+moving speed
+speed correlation
+average speed
+virtual nodes
+onion
+pklc scheme
+path-length
+correlation length
+markovian networks
+temporal correlations
+routing policy
+threshold values
+phonemes
+abort message
+propagation loss
+abort messages
+believed state
+abort information
+group model network
+node thresholds
+arning message
+nodes with high degrees
+selection strategy
+retweet rate
+equation describes
+number of commuters
+flux
+alabama
+county
+york county
+mnr
+municipalities
+accurately predicts
+homogeneous function
+individual income tax
+absorbance
+congressional districts
+square grid
+packet losses
+forwarding misbehaviors
+te availability
+hoplevel te
+path loss
+bitrate
+pnr
+selected randomly
+media access control
+sinr thresholds
+rates mbps
+pkt len bytes pkt len bytes
+trafc volume
+retransmission limit
+qam
+ofdm
+variables representing
+quantile
+weibull distribution
+papers written
+correctly predicted
+demand model
+reserve
+xed price
+truthful bidding
+bks mechanism
+dominant strategy
+perturbed bid
+strict priority
+incoming object
+tci
+tch
+cluster summaries
+hash functions
+estimation process
+megabyte
+alarm level
+num ber
+reliability score
+invalid treatments
+correctly reported
+knee
+domain model
+event pairs
+vab
+hhop bfs
+alternative hypothesis
+isotropic
+local correlations
+correctly detected
+significance level
+increases signicantly
+gpu
+icmp
+dierent topologies
+netbeans
+scalefree property
+routing steps
+outgoing degree
+distribution truncated powerlaw approximation
+routing step
+scaling parameter
+expertise domains
+edge swapping
+sgr model
+skyline nodes
+query node labels
+skyline node
+label similarity
+dominance number
+topk buffer
+unweighted and undirected
+tilde
+maximum depth
+cluster index
+entire process
+inuential authors
+intermediate state
+rstorder transition
+korniss physical review
+linear scaling
+committed agent
+stable steady state
+survival probabilities
+ppc
+chosen link
+committed minorities on social consensus
+holding opinion
+committed minority
+rtomphfm unlimitedunclassified
+competing committed
+stable fixed point
+opinion holders
+configuration space
+parameter space
+beak
+stable fixed points
+cusp bifurcation
+bifurcation curves
+bifurcation curve
+saddlenode bifurcation
+firstorder transition
+hold opinion
+naming game model
+large fluctuations
+optimal paths
+gce
+belonging coecients
+omega index
+overlapping modularity
+qn ov
+colors represent
+ilm
+matching scores
+greedy clique
+frame loss
+transmission distortion
+signal to noise ratio
+the rst unrecoverable frame
+channel access
+global state
+control problem
+wireless multihop
+uncompressed video
+mtu
+delay experienced
+tail distribution
+simulation study
+assessed fr
+ee fr
+forwarding fr
+jacks fr
+initial fr
+powerset
+opportunity to observe
+double counting
+accuracy achieved
+competence or willingness
+negative evidence
+tunable parameter
+prior distributions
+willingness trust
+loocv error
+absolute magnitude
+left corner
+negative weights
+cultural studies
+drift minimization
+queuing delay
+format selection
+uplink and relay
+maxweight policy
+timeaveraged quality of information
+backlog versus
+performance bound
+higher activity
+social evolution
+participant pi
+average activity
+reward efficiency
+reference frame
+organic matter
+han river
+yellow sea
+sea surface temperature
+complementary cumulative distribution
+expected reward
+molecule
+plain language
+information economy
+finite set
+overfitting
+fractal dimension
+cluster-size
+bohmanfriezewormald model
+random percolation
+fraction pc
+occupied bonds
+fraction of occupied bonds
+continuous transitions
+watershed
+devils
+treelike bfw model
+queue occupancy
+traditional backpressure
+delay bound
+low load
+duplicate buffer
+resource utilization
+original packets
+simplifying assumption
+reduced signicantly
+queue lengths
+message replicas
+optimal policies
+conservation law
+trajectory data stream
+companion candidates
+traveling buddies
+trajectory stream
+spatially close
+size threshold
+duration threshold
+buddy set
+buddy radius
+consecutive snapshots
+buddybased clustering
+buddy index
+step mstep
+inactive period
+signicant cluster
+signicant clusters
+signicant macroclusters
+common sensors
+guided clustering
+similarity threshold sim
+harmony
+selection methods
+dot represents
+additional advantage
+label set
+cpu and gb ram
+subordinate words
+implication values
+iteration iteration
+lawsuit
+decision points
+spectral density
+positive claims
+brute force search
+accuracy versus
+request message
+rca
+uncoded replication
+coded storage
+le sizes
+le download
+clear winner
+bandwidth constraint
+chunk size
+gb coded gb uncoded
+connection request
+erdos-renyi
+cascading process
+minimal information
+critical values
+rfa
+stand for promotion
+namespace
+successful rfa
+successful and unsuccessful
+high compression rates
+edge frequency
+edge frequencies
+inverse query
+subgraph edge frequency
+aggregate subgraph
+subgraph frequency
+edge query
+three phase
+contracted nodes
+null set
+the gm atrix technique
+network stream
+iptrace network stream
+smallest exact representation
+compression rates
+percentage error
+threshold frequency
+input stream size
+frequency estimation
+iptrace network
+higher effectiveness
+disk io
+sampling factor
+shortest reachability
+probabilistic measures
+ip attack
+relative errors
+dimensional simplices
+background noise
+detected intruder
+mls
+toy model
+facet degrees
+minimal nonfaces
+chain complex
+homeomorphism
+facet degree
+natural frequency
+local clustering coefcient
+edge degree distribution
+vertex and facet degrees
+start point
+royal astronomical society
+nene
+conicting evidence
+martha stewart
+regular em
+zaz
+linear approximation
+reported variables
+participant reliability estimation accuracy
+measured variable estimation
+correctly reported measured
+litter locations
+pollution ratio
+adf
+dre
+circular dependencies
+encoding algorithms
+encoder and decoder
+access network
+ip ip ip ip ip
+cache flush
+redundancy elimination
+number line
+gigabyte
+umber
+perceived packet loss
+redundant nodes
+figure error plot data set
+square nodes
+table demonstrates
+rumor source
+monitor selection
+positive monitors
+negative monitors
+total distance
+generally decreases
+ratio decreases
+gsss and mdgip
+rumors and nonrumors
+taxicab
+pickup
+stretch factor
+real taxicab
+location trace
+location samples
+small variation
+markovian model
+longrange correlations
+correlation patterns
+scientific reports doi
+comscientificreports figure
+ols
+supplementary table
+srep www
+slow decay
+powerlaw exponent
+critical temperature
+mortality rate
+mississippi
+basin
+appalachian
+appalachian mountains
+spanning cluster
+distribution exponent
+agglomeration
+appalachia
+universality class
+population growth
+bulut et al
+minimum delay
+forwarding decision
+strong interaction
+buffer sizes
+anomalous regions
+regions sar
+seed generation
+stopping condition
+hss
+considered anomalous
+observed nodes
+inactive neighbors
+newly active
+inactive node
+observation points
+presence of committed groups
+single committed group
+committed group
+opinion evolution
+stable steady-state
+unique opinion
+cumulant
+temporal community
+community quality
+key results
+merging communities
+distributed decisions
+user desires
+taking actions
+link farm
+parallel edges
+isps
+disguised attack
+links pointing
+trust metadata management
+trust metadata created by
+storage nodes
+preliminary schemes
+representative queries
+tailgating
+random dropping attacks
+preliminary scheme
+interval interval
+beta distributions
+randomly removed
+large random networks
+homogeneous pair approximation
+essential difference
+mixed opinion
+pair approximation
+stable point
+stable points
+er network
+chunglu model
+growth process
+provide accurate data
+completion rate
+network configuration
+predictive features
+wizards
+parsimonious models
+driven approach
+symptotic scalability
+mesh and clique
+reducing routing overhead
+offered load
+routing overhead
+residual capacity
+network wide broadcast
+contention factor
+transit factor
+rmb
+contention factors
+transit factors
+pps
+lsu
+rts
+control overhead
+control slot
+slot assignment
+border nodes
+preamble
+radio rate
+clique network
+data rates
+mbps radio
+codec
+analytical estimates
+di and dj
+text blobs
+topics and opinions
+positive opinions
+cache freshness
+budget values
+forwarding schemes
+maintaining cache freshness
+opportunistic refreshing
+cumulative utility
+refreshing delay
+transient community structure
+curve fitting
+cellular interface
+ifg and rifg
+prot ratio
+distributed scheduling
+timeliness constraints
+preemptive scheduling
+triple power law
+quantifying reciprocity in large weighted communication
+distributions in real data
+bivariate pareto
+bivariate yule
+nstnts nstnts
+mutual pairs
+data likelihood
+likelihood ratio test
+degree similarity
+cn cn cn cn
+high compression
+feature groups
+monotonicity properties
+compression cost
+short code
+comprex and krimp
+comprex achieves
+minority class
+shuttle
+tile
+code length
+simple paths
+tours
+closeby nodes
+connection subgraph
+unmarked nodes
+marked node
+simple tree
+description cost
+separated communities
+mdl score
+infected graph
+leading eigenvalue
+piece of news
+ksc
+solid red lines
+coauthorship relations
+bandwidth usage
+stage execution
+task tracker
+task instances
+intermediate data
+task registration
+sd card
+watchdog timer
+failure recovery
+gigatensor solves
+tensors of sizes
+conditional update
+nell data
+blue points
+barbell
+lollipop
+mmx
+weighted edge
+merging steps
+simca
+space requirement
+server farm
+linear scan model
+allind naive dp greedy
+multiple partitions
+dynamic partitioning
+crosspartition queries
+chaco
+pregel instance
+query routing
+primary partition set
+pregel instances
+cut edges
+complementary partition sets
+wrong answer
+vfl
+concept labels
+concept label
+minimal set of nodes
+demographic attributes
+active neighbors
+gta
+precisionrecall tradeoff
+sf sf
+inuence set size
+evolution threshold
+activity driven
+activity potential
+structure evolves
+activity distribution
+high activity
+infected individuals
+infected individual
+query workload sample
+aggregate subgraph query
+edge queries
+ip attack network
+global sketch gsketch
+memory size
+coates algorithm
+auxiliary attribute
+schutzesilverstein text only kmeans textside coates
+probability estimation
+text length
+correct decision
+maximum sa
+low competence
+disruption-tolerant networks
+formation game
+social optimum
+dichotomous risk
+global risk
+graded risk
+global risk model
+bilateral transaction
+payo matrix
+wsa
+friend control
+current window
+nuclear strategies
+assassination
+inuential papers
+real crlb
+asymptotic crlb
+estimation variance
+source reliability estimation
+sources reliability
+derived crlbs
+sensing topology
+condence level condence level
+actual rmse
+exponential topology
+squares represent
+initial score
+mozart
+current context
+noise parameter
+positive instances
+shortterm comparative returns
+roman numerals
+sit in
+nme
+algorithmic trading
+bikes
+gdp
+black lines
+correlated sources
+making claims
+processing delay
+internet control message protocol
+session initiation protocol
+amazon product
+activity-driven
+mathematical analysis
+dfa
+numerical solution
+extensive numerical
+phenomenology
+communicative activity
+table showing
+ranking stability
+superstable nodes
+motor neuron
+rank stability
+inktomi
+control centrality
+layer index
+minimum driver
+controllable subspace
+indegree kin
+controlled network
+central hub
+random attack
+random upstream
+targeted attacks
+targeted attack
+er and sf networks
+nodal dynamics
+dynamic measure
+correlation change
+event occurred
+previous years
+wireless transmission
+index ks
+stylized networks
+ow betweenness
+ow paths
+peripheral nodes
+centrality closeness
+cameo
+diversity index
+user population
+richter scale
+female and male
+parafac slf
+relative cost
+normal connections
+smr coclustering
+compression cost bits
+disconnected networks
+selection criterion
+walk with restart
+raw block
+zip block
+block encoding
+match score
+sudden change
+grayscale
+ao
+contraction expansion
+set sizes
+observe similar behavior
+mainstream economics
+pubs
+boarding
+masculinity
+european countries
+hayek
+heine
+evolutionary economics
+madureira
+royal sussex regiment
+noriega
+lysis
+columbia law review
+transceiver
+metric measures
+short paths
+senders and receivers
+outgoing messages
+trust based communities
+coordination and synchronization
+global response
+uniform local
+optimal synchronization
+residue theorem
+limit distribution
+poles
+conditions for viral influence spreading
+influence links
+conditions for viral
+early adopters
+connectivity links
+competitive percolation
+giant connected components
+aps communities
+average connectivity
+connectivity degree
+influence link
+removal process
+infinitesimal
+observation window
+link influence
+network samples
+circles denote
+multiple initiators
+label matching
+candidate matches
+unlabeled query
+label noise threshold
+node deletion
+energy efcient
+thinnest path problem
+minimum number of nodes
+minimum dominating set
+nbi algorithm
+disk hypergraph
+supplementary materials
+pka
+total variation
+credible messages
+retweet count
+prediction rates
+sms messages
+proposed kedgedeletion
+odin
+structural perturbations
+active period
+sensing task
+angular distance
+ranked rst
+exponential cutoff
+selects relays
+forwarding probability
+larger weight
+splitting process
+forwarding probabilities
+contact capabilities
+ivf
+sdm scheme
+epidemic routing
+goal state
+contact probabilities
+normalized frequency
+gcd
+snowball sampling
+copy trades
+sharpe ratio
+long tail
+market perspective
+market trend
+road companion discovery
+road companion
+emission probability
+process control
+quadric
+kernel density
+notified
+social volume
+potential period
+true period
+discrepancy scores
+periodicity scores
+positive observations
+missing entries
+periodicity score
+redline
+interface variants
+single document view
+primary document
+expertise rating
+documents read
+contrast document
+positive real numbers
+dynamical universality classes
+gene knockout
+experimentally accessible
+cellular dynamics
+physical interactions
+expression patterns
+expression levels
+leading terms
+regulatory dynamics
+tertiary
+unbiased estimators
+ids ii
+opponent strategy
+lobster
+choose lobster
+marginal gain
+glr procedure
+desired nal state
+ncore and lcore
+removable nodes
+arbitrary degree distribution
+indegree and outdegree distributions
+original root
+continuous phase transition
+annealed networks
+immunizedremoved nodes
+reference range
+magenta
+indirect correlations
+pearson correlations
+direct and indirect interactions
+indirect interactions
+regulatory interactions
+indirect effects
+discovery rate
+visitation bias
+unvisited degree
+gdc
+chl
+circuit board
+delivered information
+dtv
+aggregate data
+hexagon
+machine gun
+selection schemes
+claim classication
+assertiveness
+correctness of claims
+actual crlb
+true and false claims
+versus varying
+assertiveness ratio
+estimated false positivesnegatives
+false positivesnegatives
+stretched exponential
+single user
+activity periods
+tail distributions
+uag growth
+activated nodes
+male and female users
+cached objects
+replacement policy
+occam razor
+watermark
+purges
+nocluster diversity ic lru
+cache hit
+query radius
+cache placement
+motion level
+fast motion video
+slow motion
+fast motion
+video trafc
+bidding high
+bidding low
+motion sensor
+sufficient conditions
+interactive communication
+positive relations
+epinions and slashdot
+estimation false positives
+estimation false negatives
+free parking lots
+generative mechanism
+pond
+symbiotic
+activity threshold
+active nonchurners
+weekly history
+active nonchurner
+utilization rate
+mlrs
+petko bogdanov et al
+high weight
+mining diverse
+cleveland cavaliers
+drs size
+lognormal curve
+delivered-qoi
+accuracy attribute
+timesharing
+ust
+average qoi
+pessimism
+higher priority job
+higher priority jobs
+sum qoi
+phase shift keying
+bit error rate
+expected latency
+khz
+abscissa
+visit frequency
+majority vote
+low overlapping density
+high overlapping density
+extended modularity
+belonging coecient
+aic and ajc
+internal links
+conga
+common neighborhood
+overlapping density
+slpa cfinder
+strongly-connected
+structural edge
+test set
+recurring classes
+existing class
+clam
+ng model
+tipping fraction
+bursty period
+relative density
+quartile
+popular urls
+trace-driven
+weight edges
+data forwarding algorithms
+mit reality trace
+message duplication
+message replica
+bubblerap afocs
+global centrality
+trace summary trace
+tness measure
+tness score
+high tness
+weak positive
+repeated teammates
+team sizes
+team activity
+percentage of repeated teammates
+box plot
+dummy variable
+erode
+negative interactions
+instar
+instars
+bounds derived
+fudge
+femto nodes
+playback buffer
+lte
+power transmission
+achievable rate
+transmit power
+timeaveraged quality
+valuable facts
+positive rates
+small number of samples
+enzymes
+sampled graphs
+red hat linux
+spectral clustering method
+structural cutoff
+controlling complex networks
+distributed control
+control mode
+control modes
+supplementary note
+bifurcation diagram
+biochemical reaction systems
+minimum sensor set
+inference diagram
+biochemical reaction
+erdsrnyi er
+chemical species
+actuator
+connectivity ? graph
+scale-free network
+mds size
+minimum dominating set mds
+prescribed degree
+hhmc networks
+dktb and hhmc
+kinks
+control parameters
+exact sampling
+queried nodes
+frame extraction
+tradeoff parameter
+highschool friendship
+keyword nodes
+hard cutoffs
+limited scalefree networks
+search efciency
+hard cutoff
+overlay topology
+hapa
+complete review
+expected frequencies
+number of road segments
+shortestfastest path
+great circle
+ideal markovian behavior
+arc length
+preferred paths
+error in map matching
+end zone
+distance traveled
+systemic variables
+minutepermile metric
+grand central station
+tessellation
+timeofday and distance
+longterm correlations
+interevent times
+distribution of interevent times
+fluctuation exponent
+colluding attackers
+node trust update
+received reports
+trust of sensing reports
+reputation updates
+cloaking
+reputation feedback
+reputation level
+sensing report
+initial reputation
+contextual provenance
+sensing location
+sensitivity parameter
+maximum sensing distance
+maximum cloaking
+rci and rc
+fn rates
+stp proof generation
+stp claim
+zeroknowledge proof
+distance bounding stage
+stp proof collection event
+past stp
+stp proof transactions
+stp proof collection
+key size
+films
+upper left
+gdi
+ransom
+webpage loading
+dch state
+fach
+layout computation
+intermediate display
+mobile version
+version benchmark
+save energy
+user contact
+contact detection
+user contacts
+discoverable mode
+discovery mode
+bluetooth discovery
+moving period
+scan interval
+moving periods
+moving user
+endpoint detection
+star star
+argument candidate
+beam size
+csn
+nearest-neighbor
+query completeness
+timeliness bounds
+timeliness bound
+doj
+image resolution
+samsung galaxy
+fps
+supermarket
+queries arrive
+past event
+tf idf threshold
+desired property
+reliability ul
+class concentrations
+varying values
+line segments
+sm section
+dating site
+kinetic energy
+relations with strengths
+neutral edge
+neutral edges
+hidden edges
+limited series
+attributive
+genetic disease
+anomaly region
+original set size
+set size distribution
+blue curve
+observed sets
+global centrality measures
+random sampling algorithm
+cbc
+initiator fraction
+selection strategies
+fraction of initiators
+initiator set
+kshell index
+red solid
+critical fraction of committed
+highschool network
+ews
+qvc
+expert rankings
+hepatitis
+distribution of cascade sizes
+consecutive graphlets
+link sets
+failure rate
+training data set
+transient phase
+retweet relationship
+offspring distribution
+gw process
+sampled trees
+practical reason
+experiential condition
+pns
+prepopulated instances
+cooperation rate
+counterparts outcome
+cooperation rates
+batch em algorithm
+batch algorithm
+emp
+embatch empbatch emssumsaveragelogtruthfinder
+legato
+trafc jam
+batting average
+derek jeter
+reality mining bluetooth scan data
+conditional update parameter
+detection records
+responding sensors
+watching area
+nonresponding sensors
+watching sensor
+negative link
+logical hierarchical
+adding upto
+allowable edges
+chainofcommand hierarchy
+shortcut edges
+edges and same level ancestor
+one rank diff edges
+elevation
+hks
+random urls
+personalized ranking
+data description
+scalable network size
+leading group
+stage number
+scalable group size
+data trafc
+accumulated utility
+hop count hop count hop count
+rmse and mae
+ghz intel
+implementationandevaluation interestbaseddatadisseminationinopportunisticmobilenetworks design
+monotonically increases
+contact bursts
+relaying capability
+contact burst
+stb
+intracommunity contacts
+location distortion
+node queuing delay
+query forwarding
+deterministic expertise model
+probabilistic expertise model
+routing sequence
+forwarding redundancy
+equilibrium points
+fair trade
+emotional activation
+decision error
+relative risk
+citation losses
+closely-matched
+control papers
+selfreported retractions
+retracted paper
+confidence intervals
+game analysis
+inuence backbones
+allele
+inuence and follower
+inuence backbone
+facet size
+average facet size
+facet sizes
+asymmetric approach
+authorized licensed use limited to penn
+ccds
+maximum transmission unit
+bipartite network
+sia
+star rating
+sec network
+data set
+network densities
+cost ratio
+query fragments
+update operations
+grid density
+adad
+gradin gradin
+gradin variants
+candidate slices
+node values
+compression error
+sampling schemes
+sti and stif
+frontal cortex
+stomach
+online mode
+true valuation
+potential energy
+republic of south africa
+clearwater
+philo
+matt welsh
+eric brewer
+modularity density
+intuitively clear
+unweighted and undirected networks
+big community
+modularity split penalty sp
+merged community
+modularity density qds
+consecutive cliques
+community quality metrics
+eout eout
+labelrankt and estrangement
+indirection
+cover size
+smooth function
+weighted network unweighted network
+renewables
+stops growing
+bifurcation point
+continuous percolation
+discontinuous jumps
+percolation transition
+daf
+focused attention
+avro
+cross linked
+number of defects
+high diversity
+spearman rank
+nbr
+modeling interdependent networks as random graphs
+transmission line
+btw sandpile
+marginal cost
+cascade size
+dynamic equilibrium
+composite betweenness centrality
+cartesian coordinates
+total costs
+initially at capacity
+rigorously prove
+ofi
+reply probability
+photo count
+male users
+reply delay
+stated preference
+locally connected
+subgraph classes
+root mean squared
+cis relationship graph
+node subgraphs
+signed and undirected
+undirected cis class
+mhsrw and fanmod
+cis classes
+node undirected cis classes
+undirected cis classes
+expected uncovered degree
+recruited nodes
+observed degree
+uncovered degree
+gree
+edge endpoints
+active subscribers
+susceptible users
+active subscriber
+chat rooms
+fraction of active subscribers
+friendster
+bad players
+factiva
+regular network
+random grid
+richclub coefficient
+number of target nodes
+random failures
+residues
+membrane proteins
+dna methylation
+symbiont
+symbionts
+tumor
+borjigin
+ceva
+blue gene
+speedup and efciency
+ideal partitioning
+multithreaded slpa
+external dependencies
+nodes with external dependencies
+central processing unit
+posix
+overlapping community structures
+oto em
+oto em scheme
+dv em
+stop sign
+green light
+dvoto em
+law of mass action
+lower manhattan
+preemptive node removal
+lack of selfaveraging
+org january volume issue
+cascading failures in spatial networks
+electrical circuit
+ucte network
+bearing capacity
+nickelodeon
+elemental novelty
+scifi
+action films
+mass appeal
+action film
+neoplasm
+mapk
+tccaware data forwarding strategies
+tcc size
+tccaware data forwarding strategy
+distribution exponential distribution
+enhanced tcc
+tcc enhanced tcc compareforward rcopies wait
+unlicensed users
+primary user appearance
+data update
+data source
+caching node list
+poach cost
+power state
+tail energy
+trafc aggregation
+promotion delay
+wifi direct
+pp interface
+pair bond
+task arrival interval
+bt onbt wifi onwifi
+information transfer
+mdc data set
+wtd data
+silencing method
+response matrix
+obtained gij
+control capacity
+control signal
+scale free network
+supplementary section svii
+ps and pi
+heterogeneous cascades
+response to perturbations
+all rights reserved nature physics doi
+uniform stability
+heterogeneous stability
+heterogeneous impact
+dissipative dynamics
+heterogeneous local impact
+inducing effect
+site percolation
+kcore percolation
+initial fraction
+kprotected core
+coloured
+protected core percolation
+protected core
+er random networks
+rr networks
+regular lattices
+rr network
+bootstrap percolation
+citation history
+rpk
+link addition
+random attachment
+shifted power law
+ui levels
+participant cooperation
+ui level
+combined sa score
+total dining points
+codiner strategies
+ui level ui level
+propagation probabilities
+ow path
+inuence sets
+validity constraints
+random effects
+deviance explained
+egos friends
+alternate route
+sideways
+cl deg pg
+deg pg
+cl acc acc
+acc bet deg pg
+worst-case
+desired conclusions
+codeword length
+semantic compression
+interactive function computation
+chkns model
+aechkns model
+distinct components
+discrete jumps
+genuinely discontinuous
+achlioptas process
+achlioptas processes
+candidate links
+mer model
+unique discontinuous transition
+sudden jump
+multiple transitions
+maximum range
+dominating set mds
+additional vertices
+super vertices
+maximum ranges
+super vertex
+normal vertices
+interface vertices
+packing problem
+red vertex
+small perturbations
+true preferences
+age dierence
+unitweight links
+propagation probability
+phrase frequency
+postal
+effects on triangle stability
+survival rate
+age group
+triangle stability
+structural variables
+fanmod wernicke
+psrw proposedmhsrw bhuiyan et al
+sina microblog
+dau time series
+dau data
+sociomonetary campaigns
+contagion potential
+comscientificreportsscientific reports doi
+srep figure
+active risks
+disconnected model
+articles creative commons license
+photos per reporter
+greedy clique lpset
+dynamic scheme
+foreign key
+network transmissions
+summary vector exchange
+packet lifetime
+adaptive gossip probability algorithm
+adaptive gossip probability
+categorical distribution matrix
+lunar
+maebashi
+fsa
+tiresias
+lower error
+diurnal
+hydraulic engineering
+climatology
+modular exponentiation
+forwarding performance
+redundancy percentage
+lowest common
+le length
+power up
+andrews university
+st andrews
+edge lists
+sorted edge lists
+upper bound scores
+topology index
+dipeptide
+fasta
+compression performance
+dataset partitions
+vehicle count
+unusual events
+artifacts generated
+labeled artifacts
+fraction of misclassied artifacts
+logical disjunction
+stanford research institute
+convex cone
+decaybased frequency product
+half life
+multigranularity analysis
+hotspot algorithm
+halflife values
+lfr benchmark networks
+finetuned qds
+ecj
+red italic font
+improved with finetuned qds
+italic font
+ground truth community
+lfr benchmark network
+opinion domains
+opinion domain
+meanfield equation
+propagation speed
+anisotropic
+wave vector
+green nodes
+global effect
+reliability degree
+higher-dimensional
+snippet clusters
+kernel window
+methylation
+additional file
+lymph
+malignancy
+necrosis
+cell death
+waning commitment
+consensus on opinion
+commitment strength
+saddlenode bifurcations
+fraction of runs reaching
+activity and assortative
+malemale tie
+malefemale ties
+malemale ties
+femalefemale ties
+mixed race
+protestants
+middle class
+upper middle class
+range query
+rtree mptrie
+metabolic pathways
+microscopic evolution of social
+tractable graph generation and evolution
+behavior in large blog graphs
+midtown atlanta
+geohash codes
+hbase rows
+ellipsoidal
+expertise difference
+expertise dierence
+expertise vectors
+number of lsh
+neutral sources
+sdb
+topic backbone
+effective population size
+increasing commitment
+alternate answers
+final accuracy
+initial accuracy
+alt and alt
+initial and final accuracy
+ks statistics
+impulse response
+error rmse
+global centrality methods for analyzing networks
+cross correlation
+require bc
+features weights
+community centrality
+escalator
+sum quality
+multiple access channel
+corner points
+pentagonal
+loss ratio
+covalent
+elbow
+facet size distribution
+hyperedge size
+discrete scale invariance
+countable set
+kwalk theory
+fraction of target nodes
+random target control
+local target control
+structural control theory
+cactus
+cacti
+worker nodes
+message segments
+additional segments
+message segment
+path trustworthiness
+hsdpa
+remote task
+probing messages
+probing message
+message queue
+uptodate diffusion set
+approximation and nave
+coverage values
+high coverage
+intelligent network
+mn max
+binary variables
+correlated variables
+pharmacy
+longest common prex
+occupancy count
+worstcase zeroerror
+melting point
+anchor set
+triadic relationships
+event occurring
+aic and bic scores
+negated aic and bic scores
+aic bic
+aic and bic
+disjoint community structure
+overlapping modularity density
+belonging function
+fuzzy overlapping community
+slpa threshold qov ql ov qov
+blisters
+detritus
+helmet
+propensity and stickiness
+opinion state
+pitchfork
+joint nodes
+joint node
+skeleton based routing
+pwa
+twa
+probabilistic dominating set
+dominators
+node selection probability
+jyj
+recovery error
+vocabulary size
+empirical moments
+tenderly
+trust and trade
+cnm based
+maximum trust connectivity
+cnm communities
+link ratio
+sudden jump in trust
+sudden jump in trade
+sufficient statistic
+grover cleveland
+pacifica
+equivalent cascades
+humanoid
+audience size
+sine wave
+natural numbers
+bic scores
+nonlinear behavior
+informative response pattern
+early-warning
+bootstrap-percolation
+extreme phase
+cidkcid kc
+rstorder transitions
+active site
+network damage
+domination stability
+random damage
+degreeranked node removal
+frds and fcds
+fixed cost
+proof theory
+net-works
+consensus opinion
+cnd
+ground truth community structure
+metrics with ground truth community structure
+parallel mpi algorithms
+parallel pthreads algorithms
+parallel pthreads algorithm
+metrics with ground truth
+metrics without ground truth community structure
+parallel mpi algorithm
+ground truth community structure on ganxis
+sinusoid
+radio station
+complete-graph
+surface tension
+wa wb
+subspecies
+suicides
+switching channels
+captain gatekeeping relay
+pleistocene
+viewing direction
+selected photos
+azimuth
+bell tower
+kilowatt hour
+gva
+coordination number
+topples zero times
+capacity factor
+rational numbers
+minimum subset of nodes
+minimum ids
+local majority rule
+ids problems
+idsc problem
+valid opinion prole
+mvc
+valid opinion proles
+shard
+sum of shortest path distances
+edge restricted approximation algorithm
+data edge cost
+costs of added edgessum of shortest
+path distances from sourcessasp minimization src
+batchapprox knapsackgreedyunrestricted greedyenum enum enum
+batchapprox knapsackgreedyunrestricted
+layered percolation
+graphene
+homogenous multilayer
+multilayer percolation
+site and bond percolation
+kagome lattice
+singlelayer siteoccupation probability
+threshold qcm
+sitebond percolation
+correlated bond percolation
+siteoccupation probability
+mlayer network
+honeycomb
+site percolation threshold
+sitebond critical
+hyperbola
+single bond
+unit cell
+ackermann function
+maximal inequality
+evens
+billion scale
+reduced frame rate
+detection region
+distance travelled
+scan line
+speed detection
+response bandwidth
+required frame rate
+frame rates
+minimum frame rate
+hamster
+bank robbery
+floating point
+simple local rules percolate discontinuously
+riordan and warnke
+bounded size
+kn log
+powder keg
+blue component
+green edges
+red edges
+optimal percolation
+collective influence
+ci algorithm
+corona
+extended data figure
+chemical potential
+ordered partitioning
+daughter regions
+dfs block
+physical server
+number of range scans
+db block
+db blocks
+query resolution
+request resolution
+ncut modularity random greedy dentropy
+treatment eect
+codomain
+fraction neighborhood exposure
+dierent estimators
+gbe
+fraction of zealots
+blowup
+homogeneous degree
+variables describing decideds
+stable steady states
+nonzero in steady state
+naming game with zealots
+calculate critical points
+variables describing
+trust improvement
+iblbased feedback
+proportion of feedback
+high utility
+average costs
+nofeedback condition
+decision tasks
+radio spectrum
+pcr
+attractive individuals
+matched couples
+degreeattractiveness correlation
+plos one doi
+coupled individuals
+universal mobile telecommunications system
+data usage
+megabit
+heterogeneous thresholds on social contagion
+threshold distribution
+tipping-point
+kshell decomposition
+hysteresis
+firstorder phase
+dynamical spillover
+multiplex markov chain
+transition parameters
+transition parameter
+status theory
+satisfy status theory
+number of negative interactions
+vertex disjoint
+chordal
+bold red
+shown in bold red
+matching number
+paths of op
+propagation cost
+number of negatively inuenced
+positively inuenced
+message age
+inuenced negatively
+negatively inuenced
+number of negatively inuenced nodes
+shortest dfs algorithm
+shortest dfs
+team removal
+facet removal
+structurally monotonic
+structural monotonicity
+monotonicity violations
+observational uncertainty
+control energy
+ellipsoid
+absolute eigenvalues
+si sec
+energy density
+interlocking network
+output yt
+locally controllable
+control signals
+primary authors
+primary authors hindex
+authors hindex
+primary author
+authors authority
+venue factors
+aphorism
+prediction timeframe
+managers and subordinates
+locality inuence
+wm model
+inuence unit
+ith group
+outer network
+main split
+global metrics
+search tracker
+detected objects
+data retrieval
+freshness intervals
+sewage
+network bandwidth consumption
+environment dynamics
+candidate routes
+request resolution ratio
+retrieval cost ratio
+resolution ratio
+retrieval cost

@@ -1,0 +1,5550 @@
+unpredictable node mobility
+global network information
+current research
+mobile
+compared to existing schemes
+disruption tolerant networks dtns
+node mobility
+physically carry
+research
+smartphone
+digital
+peers
+vehicular adhoc networks
+information
+communication
+paradigm
+network design
+cooperative
+wireless adhoc networks
+persistent network connectivity
+opportunistic network
+incomplete information
+caching strategies
+network environments
+wireless
+motivation
+intentional caching
+mobility patterns
+social community structures
+authors studied
+infrastructure
+wifi access points
+caching policies
+network conditions
+contact patterns
+design
+opportunistic contacts
+caching decision
+big picture
+network model
+spatially correlated
+wifi
+practical applicability
+node contact patterns
+traces record
+contacts among users carrying
+periodically detect
+buffer conditions
+uptodate information
+network resources
+major
+problem arises
+intermittent network connectivity
+network modeling
+conducting
+power outage
+malicious attacks
+network data
+simulation
+network information
+caching schemes
+anonymous reviewers
+network science cta under grant wnf
+dtn routing
+resource allocation
+delay tolerant networks
+social network
+ad hoc
+opportunistic networks
+provenance
+qoi metric
+varying degrees
+caching approach
+variety
+smartphones
+quality of information
+metadata
+colocation
+stochastic
+properties of human mobility
+socialbased forwarding
+agnostic
+trade
+handheld mobile devices
+multiple ways
+medical
+acknowledgement research
+manet
+human
+socially aware
+delegation
+routing protocols
+wide area
+overlay network
+security
+authentication
+denial-of-service
+architecture
+key management
+access control
+scalable routing
+message dropping
+eventguard mechanisms
+condentiality and integrity
+pubsub systems
+contentbased pubsub
+population
+wired
+carzaniga et al
+pubsub overlay
+contentbased routing
+event attributes
+routable attributes
+group key management
+encrypt
+authorization keys
+encryption
+risk
+logging
+multipath
+prototype
+siena
+threat model
+network infrastructure
+stock
+species
+feedback
+ood
+pubsub core
+guard
+message dropping attacks
+building blocks
+play
+fundamental role
+oodingbased dos
+private
+public
+act
+permit
+curb
+pbl
+multimedia
+history
+detailed discussion
+pseudonym
+safety
+subgroup
+msg
+detailed information
+military
+fashion
+gender
+frequency based
+network topologies
+spectrum
+propagation scheme
+byzantine
+report
+digital signatures
+low cost
+rem
+secure routing
+domain knowledge
+number of independent paths
+cryptographic
+discrete event simulation
+storage overhead
+messaging
+additional information
+add additional
+frequently occurring
+network delays
+millisecond
+group communication
+ip multicast
+group membership
+open problem
+blanton
+pp networks
+overlay networks
+social influence
+similar behaviors
+friends
+social ties
+networked systems
+macro-level
+e
+equally important
+individual users
+social-influence
+answer questions
+social inuence
+hisher friends
+network formed
+cascading behavior
+taking place
+social connections
+social correlation
+confounding
+social connection
+social media
+twitter user
+individual level
+sharing common
+highquality information
+recent studies
+geographically close
+characterizing user
+targeted advertising
+accounting
+action
+track
+dynamic interactions
+drawing
+propagation models
+physical systems
+weather
+recommendation based
+literature
+examples include
+base stations
+social tie
+weblog
+building block
+online social network
+blogosphere
+critical question
+media
+future state
+recommender systems
+hot topic
+existing solutions
+share common interests
+social networking
+production
+user space
+similar topics
+temporal characteristics
+predictive power
+network analysis
+accurately predict
+bile
+sms
+service providers
+low bandwidth
+denial of service attacks
+mobility proles
+social networks
+network dynamics
+network evolution
+multiple users
+rich information
+evolution
+group formation
+large social networks
+recommendation algorithms
+collective intelligence
+relationship strength
+online social networks
+spamming
+mobility data
+cellular networks
+coevolution
+cornerstone
+structural properties
+products
+cartesian product
+future research
+management
+extra information
+social relationships
+tactical networks
+piece of information
+operational information content capacity oicc
+multiple access
+fully understand
+fundamental limits
+tactical network
+qoi attributes
+qoi requirements
+quality of information qoi
+sensor
+video
+individual attributes
+photos and videos
+attributes of qoi
+contextual attributes
+low latency
+daily
+life
+hearsay
+human intelligence
+transport
+surveillance
+additional requirement
+authenticate
+pieces of information
+qoi functions
+network capacity
+acknowledgment research
+quality-of-information
+aware networking for tactical military networks
+tactical military networks
+decision makers
+highly-dynamic
+tactical military
+distributed decision making
+counterinsurgency
+conventional warfare
+intelligence
+sensemaking
+decision making
+service quality
+communications networks
+adoption
+qoiaware networking
+decisionmaking process
+open research
+ongoing research
+reconnaissance
+isr
+commander
+ied
+squad
+text messages
+camera
+airstrike
+reliable source
+credible sources
+network delivery
+innetwork processing
+fusion
+networking research
+software
+consumer
+negative impact
+provide additional
+quality of service
+mathematical models
+processing techniques
+communications network
+forensic
+important factor
+enemy combatant
+audio clip
+text message
+higher credibility
+credible information
+sociological
+multiple conicting
+command and control
+unifying framework of credibility assessment construct
+mission command
+opposing force
+decision maker
+gather information
+resource management
+compact form
+paramount
+productivity
+accurate information
+network connectivity
+eavesdropping
+lead
+improve performance
+forgery
+existing research
+recording
+dynamic network
+resource constraints
+unique information
+dense areas
+certificate authorities
+important aspects
+override
+data delivery
+stolen
+higher level
+artificial
+mimo
+parties
+gait
+facial recognition
+received information
+wiretap
+situational awareness
+utility-based
+acoustic
+radar
+network performance
+prior works
+multiple sensors
+utility maximization
+secondary
+control plane
+constituent nodes
+higher rate
+scripting language
+local information
+udp
+testbed
+usb
+networkmanager
+manager
+computers
+network interface
+vlc
+vlc media player
+noted earlier
+tcpdump
+network interfaces
+streaming video
+cess
+network protocols
+composite networks
+composite network
+network elements
+autonomy
+trustee
+electronic
+sources of information
+sending information
+trust evaluation
+actor
+trust information
+social interactions
+trust decision
+individual components
+trust model
+cognitive
+trust relation
+team members
+battery
+organizational hierarchy
+social trust
+perceptual
+ethics
+propensity to trust
+culture
+health
+social norms
+social science
+actors
+relational
+evaluating trust
+social cues
+past experiences
+direct or indirect
+trust computation
+trust assessment
+social factors
+resonance
+user interfaces
+user interface
+relevant factors
+processing power
+software architecture
+trust assessments
+calculus
+factors impact
+castelfranchi and falcone
+capital
+surrogates
+rational agents
+patience
+important challenge
+rationality
+network structure
+web sites
+cognitive psychology
+mathematical model
+belief revision
+architectural
+truster and trustee
+logic
+agent interactions
+social settings
+advocate
+creditor
+debtor
+intelligent agents
+bear
+organization
+conceptual model
+subjective probability
+dierent situations
+merchant
+autonomous agents
+bears
+formal language
+barista
+ado
+trust relationship
+misplaced trust
+involving multiple
+trust relationships
+important aspect
+trust ratings
+success or failure
+skepticism
+faith
+agent based
+john doe
+garage
+control ow
+mechanics
+ecosystem
+internal state
+propositional
+organizational context
+dichotomy
+service provider
+wide range
+signicant impact
+important consideration
+trust relations
+interoperability
+inferring trust
+trust networks
+gps
+telecommunication
+web technologies
+climate
+radars
+ecological
+traffic control
+animal movement
+location-based
+analysis tasks
+current techniques
+future studies
+movement patterns
+tactical mobility
+sustainability
+data management
+object movements
+natural phenomena
+sustainable
+computational methods
+recent research
+privacy
+convoys
+domain experts
+biologists
+predict future
+endangered species
+convoy
+coyotes
+sound
+leadership
+periodic movements
+dispersed
+real life
+real application
+interesting data
+functional modules
+visualization tools
+screenshot
+bridge
+periodic movement
+similar temporal
+spatial and temporal dimensions
+yearly migration
+demo
+potentially interesting
+movement prediction
+recent study
+spatial clustering
+user movement
+synchronization problems
+websites
+website
+institutional repository
+epidemiology
+routing in delay tolerant
+close friendship
+directly or indirectly
+forwarding decisions
+msn
+phones
+opportunistic routing
+transfer data
+social relations
+friendship relations
+previous studies
+routing algorithms
+multicopy based
+mobility models
+interesting properties
+scattering
+selsh behavior
+opportunistic forwarding
+pressure
+close friends
+close friend
+reaction
+nokia
+smart phones
+month period
+friend lists
+wildlife
+delay tolerant
+based routing
+social behavior
+mobility traces
+probabilistic context free grammars
+real world
+compression method
+temporal and spatial
+detailed results
+group behavior
+urban
+mobility datasets
+application domains
+radio
+opportunistic mobile
+user mobility
+large numbers
+wireless network
+market mechanisms
+service composition
+congestion control
+service oriented architecture
+studied widely
+vehicle tracking
+airports
+externalities
+flat rate
+congestion pricing
+qos
+auction
+valuable information
+emergency response
+terrorist
+acceleration
+currency
+microphone
+service selection
+investment
+external factors
+environmental conditions
+multiple entities
+key players
+emergency situations
+emergency information
+rare events
+agent-based
+random-walk
+agentbased models
+collective behavior
+scaling properties
+mass media
+committed individuals
+immune
+opinion dynamics
+attracted considerable
+realistic social
+brain
+social dynamics
+natural question
+external inuence
+matter
+complex systems
+wii
+twitter
+sharing information
+usher
+era
+disaster recovery
+irregular warfare
+humancentric sensing
+sensing applications
+social phenomena
+applications include
+wide variety
+increasing popularity
+rfid
+market penetration
+unprecedented opportunities
+physical world
+sensing devices
+sensory data
+social sensing
+traditional sensor networks
+relevant information
+information from multiple sources
+aesthetic
+sensing systems
+larger groups
+community sensing
+sensing application
+humint
+physical sensor
+facebook
+youtube
+dierent roles
+mutually exclusive
+pollution
+raw sensor
+triage
+crowdsourcing
+obfuscation
+political
+cultural
+sensing campaign
+propagate information
+social spaces
+mobile phones
+emissions
+environmental pollution
+wearable sensors
+accelerometers
+gyros
+sensing modalities
+ecg
+spo
+cloud
+social contacts
+technical challenges
+web services
+magnetic
+accelerometer
+duty cycling
+expected behavior
+early stage
+physiological
+individual behavior
+prior research
+transportation modes
+user behavior
+tailor
+collect data
+opportunistic sensing
+disease
+human subject research
+social scientists
+invasive plant
+sensing campaigns
+end users
+visual analytics
+opportunity cost
+recent literature
+ecommerce
+hiker
+fuel
+common feature
+broader context
+interesting question
+accurate models
+correlated data
+weight gain
+pdas
+physical environment
+powerful tool
+robot
+important events
+trusted sources
+underlying social network
+democratization
+formal and informal
+social structures
+dynamic networks
+increasingly popular
+diusion process
+social signals
+direct interactions
+inuential nodes
+trust based
+communication behavior
+behavioral trust
+behavioral measures
+dissolution
+wireless communication
+prior literature
+takes place
+social community structure
+participatory sensing
+search and rescue
+participatory sensing data
+small world
+smallworld phenomenon
+perception
+games
+online social
+individuals adopt
+innovation
+agreement dynamics
+opinion change
+prior studies
+model of opinion dynamics
+majority rule
+underlying network
+open questions
+opinion spreading
+linear stability
+key role
+fully understood
+economic systems
+facetoface interactions
+fmri
+amygdala
+tandem
+neuroimaging
+temporal resolution
+visual perception
+electroencephalogram
+undergraduate
+behavioral analysis
+previous study
+personality traits
+behavioral data
+mouse
+point scale
+electrode
+topological
+positive words
+negative words
+positive impact
+positive or negative
+hypothesis
+dipole
+increasingly important
+hold true
+nonverbal
+game
+paradox
+emotion
+computermediated communication
+spatial frequency
+cognition
+friend or foe
+technological systems
+cost constraints
+limited resources
+specic context
+collective response
+network synchronization
+global performance
+numerous applications
+task allocation
+transportation networks
+thrust
+network structures
+fundamental research
+metabolic
+airline
+cascading failures
+coupled oscillators
+nonlinear dynamical systems
+landscape
+consensus problem
+observable
+figure displays
+analysis reveals
+widely studied
+worldwideweb
+fundamental properties
+local topological
+global network
+network trafc
+studied extensively
+universal
+previously studied
+point of view
+empirically observed
+preliminary results
+dynamical processes
+control theory
+neurons
+complex network
+neurobiological
+dynamical systems
+limited knowledge
+dtn routing protocols
+shortest-path
+routing of messages
+widely applied
+led
+social similarity
+main characteristics
+common assumption
+receive messages
+accurate prediction
+family
+reference point
+adb
+initial analysis
+route discovery
+correlated mobility
+behavior modeling
+behavioral patterns
+social roles
+keywords social networks
+social context
+brainstorming
+interaction patterns
+specic application
+orienteer
+social role
+complete information
+monologue
+whiteboard
+anchorman
+marketing
+group members
+social actions
+social action
+group dynamics
+social interaction
+omnidirectional
+group interaction
+face to face
+small group
+empirical data
+empirical results
+individual human mobility
+scaling laws
+public health
+pathogens
+viruses
+findings suggest
+starting point
+individual mobility
+empirical observations
+at large
+user groups
+cumulative advantage
+locations visited
+visited locations
+temporal order
+practical considerations
+banknote
+conceptual framework
+large population
+sars
+proximity networks
+intercity
+information spreading
+distributed social sensor system
+spreading processes
+predictive models
+largescale data
+global scale
+behavioral proles
+important question
+interests and expertise
+large populations
+provide highquality
+demographic data
+geography
+user ids
+disseminate information
+virus
+viral marketing
+selection bias
+viral
+cascading behaviors
+pairwise interactions
+temporal patterns
+dissemination process
+study shows
+weak links
+strong ties
+individual performance
+collaborative environments
+recommendation systems
+social systems
+important role
+weak ties
+social neighbors
+message content
+great importance
+organizational structure
+individual characteristics
+contextual factors
+informa
+main observations
+node properties
+important implications
+future directions
+coherent structures
+human activity
+ios
+social movements
+network models
+extinction
+everyday life
+social groups
+business intelligence
+large-scale
+recent advances
+pandemic
+external perturbations
+decision to publish
+local population
+main motivation
+identify potential
+activity patterns
+sonic boom
+race
+calls and text messages
+physical proximity
+social links
+contact network
+actionable information
+critical information
+drugs
+social activity
+fundamental understanding
+western european
+online news
+weekly periodicity
+agentbased model
+airline transportation network
+smallpox
+vaccination
+world trade
+response function
+emergency management
+disaster response
+social swarming
+real-world
+placeholder
+plague
+statistical modeling
+multiple domains
+common goal
+previously mentioned
+simplifying assumptions
+direct and indirect
+naturally modeled
+key research
+important applications
+provide insights
+multiple characters
+key contribution
+nal decision
+underlying structure
+writing systems
+textual inference
+current events
+wikis
+blogs
+ocr
+blocked users
+multiple layers
+group effectiveness
+statistical significance
+p-value
+interaction networks
+content generation
+content evolution
+social software
+editing
+user interaction
+user interactions
+ecosystems
+gamut
+positive and negative links
+realistic models
+controversial topics
+points of view
+interaction network
+collaboration networks
+group structure
+provide valuable
+leskovec et al
+active area
+causal relationship
+anarchism
+collaborative software
+western europe
+pairwise interaction
+gain insight
+application specic
+vandalism
+vandals
+unique content
+collaboration structure
+kraut
+structural balance
+signed social networks
+human rights
+borders
+current methods
+sensor network
+cps
+higher order
+specic locations
+recent years
+trust models
+dynamic behavior
+e-commerce
+virtual worlds
+common features
+real humans
+share information
+past experience
+programmer
+direct experience
+existing trust models
+future behavior
+past behavior
+agent behavior
+potential applications
+trust representation
+past interactions
+negative experiences
+positive outcomes
+social relationship
+prior experience
+pros and cons
+convergent
+accurately predicted
+travel agency
+trust prediction
+false information
+provide additional information
+dynamically changing
+trust and reputation
+actual behavior
+web service
+sensed data
+makes sense
+trust rating
+dynamical properties
+network sciences
+aggregator
+reputation systems
+computational trust
+inaccurate information
+web and social network
+cross-category
+image and video
+classification problem
+domain specific
+attack detection
+delay-tolerant networks
+delay-tolerant
+end-to-end
+adversarial environment
+direct contact
+cta
+scarce resources
+location information
+cryptography
+disruptiontolerant network
+denial of service attack
+previous research
+naive approaches
+remote communication
+received considerable attention
+satellite
+cellular network
+radio communication
+satellite communication
+ferries
+evolving graphs
+considerable attention
+message ows
+solve problems
+quickly identify
+problem solving
+nontrivial problem
+edges represent
+san francisco bay area
+sending messages
+network exploration
+journals
+global properties
+statistical properties
+growth rates
+question arises
+trust revocation
+mobile adhoc networks
+based trust
+network operations
+sensitive information
+highly trusted
+primary focus
+decision process
+longevity
+suicide
+broadcasting
+packet dropping
+digitally signed
+trust authority
+important information
+forward error correction
+analytical models
+result suggests
+observed behavior
+vehicular networks
+selforganizing systems
+operating systems
+social group
+tie strength
+cohesive groups
+weak tie
+making decisions
+strong and weak ties
+network theory
+agentbased simulation
+context sensitive
+fundamental problem
+societal scale
+iot
+kinect
+sensing capabilities
+air quality
+traffic congestion
+user involvement
+mcs applications
+mobile sensing
+gyroscope
+ambient
+apples
+natural environment
+resource limitations
+common sense
+microphones
+ultrasonic
+social applications
+multiple concurrent
+backend server
+hardware and software
+easily identify
+current location
+incentive mechanisms
+sensing data
+intermittently connected
+jogging
+current practice
+crowdsensing applications
+highly dynamic
+location data
+data collection
+important problem
+existing literature
+spatiotemporal patterns
+wind
+large amounts of data
+resource constrained
+extensive research
+application programming interfaces
+api
+collaborative research
+location privacy
+usergenerated content
+location proofs
+graduate students
+cloud computing
+unique opportunity
+smart phone
+prominent actors
+based measures
+homophily based
+past research
+related topics
+common topics
+received signicant attention
+navigation
+scientic literature
+main research
+social link
+rating scheme
+coauthorship networks
+predicting personality
+job satisfaction
+professional
+romantic
+dif- ferent
+personality test
+users personality
+interface design
+predict personality
+personality factors
+personal relationships
+personality features
+personality dimensions
+taste
+agreeableness
+conscientiousness
+friendly
+social situations
+peacekeepers
+neuroticism
+negative emotions
+mixed results
+egocentric network
+users friends
+personal information
+blurb
+earlier studies
+psychological
+social processes
+relativity
+demographic information
+positive emotion
+anxiety
+extraversion
+significant positive
+significant differences
+nervous
+biological processes
+personality type
+advertising
+marketers
+big five personality traits
+acknowledgments research
+individual differences
+rule sets
+usage patterns
+online communities
+relationship marketing
+friendship networks
+transient-state
+network monitoring
+introduction recent
+mobile network
+realistic scenarios
+human mobility
+group mobility
+network management
+determinant
+data dissemination
+social contact patterns
+existing schemes
+generally unknown
+social communication
+common interests
+social contact
+users interests
+patterns of mobile users
+special attention
+join and leave
+opportunistic mobile networks
+diffuses
+theoretical models
+real traces
+handheld devices
+mobile ad hoc network
+similar interests
+video game console
+seek information
+relay nodes
+content popularity
+geographic locations
+infectious disease
+cosmetics
+sharing similar
+trace data
+social relation
+limited contact duration
+skewed distributions
+multiple data items
+transient node contact
+social communities
+wide applications
+events involving
+similar content
+interaction intensity
+interaction pattern
+share common
+widely applicable
+telephone
+online forums
+task type
+online community
+pilot
+integrated information
+probabilistic packet marking
+false data
+geographic location
+source attribution
+trusted third party
+key factor
+macs
+capacity analysis
+theoretical model
+swift
+dropping attack
+multihop networks
+decade ago
+tunnel
+tubes
+relevant content
+strengths and weaknesses
+mysql
+american football
+player game
+hiv
+employment
+aids
+biological systems
+network representation
+realworld systems
+proteins
+recently introduced
+open source software
+oss
+develop techniques
+biological networks
+overlapping community
+metabolites
+modular structure
+mailing list
+directed edges
+extremely noisy
+gene
+authors suggest
+explosive percolation
+giants
+edge additions
+polymerization
+multiple networks
+interact directly
+interacting networks
+pathogen
+genetic
+node attributes
+directly communicate
+labor
+occur frequently
+atmosphere
+ultimate goal
+traditional news
+increasing attention
+higher levels
+proteinprotein interaction network
+protein
+sheer size
+structural patterns
+interesting problems
+bugs
+banks
+cellular components
+signaling pathways
+task difficulty
+hundreds of thousands
+heart
+background information
+linked open
+past years
+lessons learned
+endangered
+geopolitical entities
+key features
+vast majority
+firm
+context dependent
+large majority
+cross lingual
+bacteria
+memes
+user actions
+key factors
+user surveys
+descriptive statistics
+actual diffusion
+user behaviors
+inference of topic diffusion
+compound
+users read
+key concepts
+realworld social
+microblogging
+real social networks
+special effects
+videodrome
+social graphs
+irreplaceable
+highly connected
+popular events
+web applications
+bloggers
+reinforced
+specic topic
+geophysics
+genre
+animated
+banking
+related areas
+coauthor networks
+attention in recent years
+links representing
+repeatability
+propagating information
+debugging
+interconnected networks
+user proles
+traditional network
+quantitatively measure
+desiderata
+social and information networks
+effective methods
+linked data
+broad applications
+multiple types of links
+relationship types
+publish papers
+distinct patterns
+small scale
+harder problem
+molecules
+essay
+provide insight
+instant messaging
+social network service
+concluding remarks
+transportation systems
+foursquare
+user study
+friendship relationships
+dynamic environments
+interesting insights
+oil
+prior information
+object level
+relationship prediction in heterogeneous bibliographic networks
+collaboration relationships
+multiple factors
+dynamic social
+word of mouth
+log data
+social information
+send messages
+sip
+cyber-physical social network
+web-based
+geographical information
+social graph
+webbased social
+webbased social network
+social events
+social structure
+hidden information
+friend list
+graph structure
+transportation network
+browser
+physical objects
+user clicks
+widely recognized
+vertical search
+vary greatly
+past studies
+common patterns
+dierent aspects
+classication techniques
+personalization
+provide personalized
+specic task
+user activity
+users prole
+user generated
+friendship link
+tens of thousands
+modeling approaches
+chat logs
+landing page
+heterogeneous sources
+online games
+gambling
+online experiment
+large groups
+temporal aspects
+attracted much attention
+multidimensional networks
+decision support
+multidimensional network
+male and female
+insights gained
+low levels
+ethnic
+institutional review board
+small change
+urban planners
+commuting patterns
+optimal strategies
+json
+web browser
+web server
+structural representation
+phone numbers
+role played
+specic tasks
+advisoradvisee relationship
+limited information
+screen shot
+geo-tagged
+main objective
+collective wisdom
+travel sequences
+redundant information
+dierent areas
+whitehall
+related information
+axiomatic approach
+important cues
+geographical regions
+geographical locations
+sociologists
+geographical location
+spatial structure
+strips
+yellowstone
+east asia
+pastry
+geographical region
+links represent
+markup
+computational approaches
+visual information
+pay attention
+structurally similar
+visual cues
+avenues for future
+conicting information
+trustworthiness analysis of sensor
+cyber-physical systems
+cyber-physical
+realworld scenarios
+trafc monitoring
+battleeld surveillance
+soldier
+deployed sensors
+infrared
+user requests
+information storage and retrieval
+fundamental issues
+enables users
+great impact
+influence propagation
+digg
+citation networks
+social and behavioral sciences
+avatar
+topic popularity
+qualitative analysis
+specic topics
+social activities
+alzheimers
+potential future
+longitudinal analysis
+recently attracted
+fraud
+dependency structure
+signicantly inuence
+trust metrics
+atomic mass
+open source intelligence
+taxation
+broadly speaking
+atomic weight
+strongly biased
+ve years
+civilian
+unintended consequences
+survey results
+overpopulation
+textbook
+social patterns
+ns cta
+multi-team systems
+team effectiveness
+multi-team
+operations center
+platoon
+vehicle platoon
+platoons
+commercial applications
+wimax
+access point
+arrangement
+quickly detect
+signicantly affect
+speed limits
+query requests
+trafc ow
+network coding
+content delivery
+harness
+task design
+amazon mechanical turk
+mechanical turk
+introduction in recent years
+tens of millions
+vary signicantly
+monetary incentives
+ip addresses
+accurately predicting
+crowdsourced
+essential component
+common-sense
+wichita
+common knowledge
+sufcient information
+word usage
+group decision making
+detecting and characterizing
+coarse grained
+ideology
+partial knowledge
+early stages
+potential impact
+identifying relevant
+automated systems
+common characteristics
+structural differences
+kinship
+usability
+effort required
+synergy
+web browsing
+modica
+multi-hop
+medium access control
+analysis shows
+network behavior
+task processing
+control policies
+accomplish tasks
+distributed computation
+stochastic optimization
+fading channel
+scheduling policies
+dynamic programming and optimal
+optimal scheduling
+higher layer
+quality of service qos
+aware routing
+underlying assumption
+utility-optimal
+network traffic
+cognitive radio
+network components
+multihop network
+throughput optimal
+highly constrained
+adaptive routing
+peer-to-peer
+send and receive
+index terms
+scheduling algorithms
+transmission scheduling
+peering
+incentive mechanism
+bittorrent
+future events
+le sharing
+protocol design
+physical layer
+wireless multihop networks
+power control
+information credibility
+credibility assessment
+saavedra et al
+synchronicity
+trading decisions
+source credibility
+credibility models
+meta data
+routing decisions
+timevarying graphs
+multihop wireless
+max-weight
+dynamic scheduling
+decision theory
+nite capacity
+knowl- edge
+vibration
+solar panels
+developing algorithms
+interconnected network
+future actions
+assembly
+multihop wireless network
+routing control
+reliable mac
+networking community
+mac protocol
+network-wide broadcast
+betti numbers
+collaboration network
+group relationship
+wireless ad hoc network
+union of pairwise relationships
+simplicial model
+mesh networks
+overlapping teams
+collaborative network
+overlapping groups
+tool called
+problem domains
+team selection
+form groups
+team formation
+promising directions
+multi-radio
+multi-channel
+technical approach
+multiple channels
+mrmc networks
+situation awareness
+broadcasting in mrmc networks
+remain largely
+mesh network
+multichannel multiradio
+shared knowledge
+fundamental questions
+technical communication
+tyrannosaurus
+information source
+draw conclusions
+operational semantics
+normal form
+mars climate orbiter
+simplied model
+initial results
+key actors
+autonomous systems
+bgp
+important factors
+ndings suggest
+modular networks
+largescale social networks
+rendezvous based trust propagation
+credit networks
+currencies
+formation of credit networks
+credit relationships
+empirical game
+sheds light
+selfinterested agents
+network formation
+interesting questions
+emergent properties
+issue credit
+counterparty
+empirical gametheoretic analysis
+strong tendency
+nodes represent
+social capital
+dictator
+simulationbased game
+credit network formation
+empirical games
+empirical gametheoretic
+collusion
+network security
+explicit and implicit
+relevance and expertise
+great potential
+factors affect
+individual tweets
+factors affecting
+perceived credibility
+social status
+user posted
+domain of expertise
+credibility judgment
+asked participants
+credibility ratings
+credibility judgments
+implicit judgments
+social network users
+domain expertise
+provide complementary
+specic examples
+potentially relevant
+search procedure
+tweeted
+popular users
+source of relevant information
+individual messages
+potential for automatically identifying
+pop culture
+identifying inuential
+batch processing
+twitter search
+news media
+social bookmarking
+online social networking
+diverse information
+individual user
+enterprise social networks
+social content
+million records
+blogging
+individual entities
+popular topics
+prole information
+text messaging
+instant messages
+intranet
+informed decisions
+network characteristics
+personalized services
+user activities
+peer pressure
+structural holes
+observer
+wireless technology
+informed decision
+incumbent
+payoff matrix
+gametheoretic analysis
+revelation
+externality
+accurately capture
+simulationbased games
+wireless access point
+voter models
+scale-free
+coarse-grained
+scientic community
+physicists
+topography
+tightly connected
+computability
+negative consequences
+standard statistical
+empirical evidence
+voting behavior
+social behaviors
+virtual world
+online activities
+interaction data
+commonly observed
+scientic research
+friendship links
+predictive information
+experiments conducted
+preference information
+past actions
+multiagent model
+recent progress
+extracted facts
+entities involved
+hospitals
+cycling
+dea
+similar events
+financial traders
+synchronous behavior
+financial markets
+nancial traders
+nancial markets
+group performance
+predator
+nancial systems
+collective action
+common market
+bankruptcies
+designed research
+statistical analyses
+close connection
+instant message
+proprietary trading
+signicantly increased
+mechanisms underlying
+empirical patterns
+crowd wisdom
+observational data
+neuronal
+ants
+interserviceindustry training
+social stratification
+existing relationships
+social organization
+sochuzzi ari june
+job attainment
+creativity
+rivera soderstrom uzzi
+social actors
+wasserman faust
+highly cited
+theoretical foundations
+explanatory variables
+social contexts
+african americans
+hazard rate
+friendship network
+online dating
+networking sites
+cyberspace
+form ties
+group structures
+conventional wisdom
+network ties
+tie formation
+instrumental
+homophily and heterophily
+interpersonal relationships
+structural tendencies
+highstatus individuals
+altruism
+hammer
+longitudinal data
+triadic closure
+survival analysis
+prohibition
+network centrality
+contact networks
+central actors
+collected data
+circa
+positively related
+shared goals
+cupid
+additional evidence
+dormitory
+physical geography
+political parties
+causal relationships
+relationship formation
+men and women
+networks evolve
+longitudinal study
+coreperiphery structures
+complexity theory
+human capital
+social theory
+massive online
+formal theory
+team assembly
+team performance
+inertia
+social circles
+evolving networks
+interlocking directorates
+social exchange
+structural factors
+friendship ties
+segregation
+random graphs with arbitrary degree distributions
+social choice
+network effect
+multinational
+survey data
+social mobility
+susan smith
+behav- ior
+collective understanding
+ecommunication data
+quickening
+internal factors
+predictive utility
+sideshow
+dynamic patterns
+gross domestic product
+complex dynamics
+social psychology
+potentially improve
+potential collaborators
+low-cost
+similar types
+learning curve
+related elds
+trust in ecommerce
+agentbased systems
+trust network
+argumentationbased reasoning
+agent ag
+belief values
+construct arguments
+argumentation to handle
+propagating trust
+alice trusts
+connective
+trust thresholds
+trust budget
+trust in social networks
+computational model
+decision options
+defeasible reasoning
+trust plays
+formal argumentation
+conclusions of arguments
+constructing arguments
+preferencebased argumentation
+deductive
+argument graphs
+mcknight and chervany
+social web
+negative outcomes
+argumentation frameworks
+consonant
+trust and distrust
+message propagation
+product adoption
+reputation and trust
+user participation
+traditional wiki
+bookmaking
+ec circulation
+osn
+dsl
+application layer
+malicious users
+social paths
+social path
+alice and bob
+carols
+opposite opinions
+sybil attack
+positive feedback
+friendship information
+user experiences
+providing feedback
+provide feedback
+user friendly
+primary goal
+tie-strength
+tie- strength
+online social network osn
+helping users
+users share
+allowing users
+user engagement
+user privacy
+apathy
+macro level
+user prole
+open question
+online survey
+wall posts
+survey questions
+selfreported data
+surveying
+collecting data
+relationship quality
+representative subset
+interaction behavior
+facebook users
+questions asked
+chain of command
+future internet
+location based services
+sybil attacks
+religious
+measurement study
+social medium
+propagation patterns
+di x000b
+information propagation
+realtime information
+instant messenger
+tragedy
+messages posted
+online services
+phishing
+bait and switch
+interesting direction
+correlation analysis
+popular news
+followers and followees
+microscope
+shill
+real users
+social engineering
+indirect evidence
+ordinary users
+cheaters
+suspicious behavior
+propaganda
+social email
+socially-aware
+online communications
+invasive
+gmail
+real world social networks
+online communication
+gather data
+soap
+social mechanisms
+skype
+routing schemes
+social services
+streamline
+vpn
+user experience
+user satisfaction
+forge
+user profile
+experiment conducted
+passions
+correctly identify
+comma separated values
+previous examples
+copyrighted
+ship
+social search
+active users
+million users
+icons
+large network data
+rich user interaction
+large network datasets
+fundamental challenge
+interactively explore
+survey paper
+mental model
+mental representation
+forage
+hallmark
+practical importance
+mental models
+collaborative search
+approaches include
+gain insights
+core design
+related research
+prototypes
+pinned nodes
+direct action
+network visualization
+interaction design
+rapid prototyping
+physical devices
+participants spent
+literature search
+real estate
+billions of nodes and edges
+organic
+internal structure
+interactive visualization
+cybersecurity
+mutual friends
+anomalous behavior
+anomalous nodes
+decomposition algorithms
+central role
+suspicious activities
+developmental biology
+source ip
+network forensics
+destination ip
+punk music
+business model
+behave similarly
+valuable insights
+embryo
+homo sapiens
+mrna
+critical role
+mobile phone
+change -points
+timevarying graph
+normal behavior
+network features
+recent past
+workflow
+sheer volume
+spacecraft
+social informatics
+devaluation
+personal data
+hypervisor
+inflation
+application programming interface
+farmville
+online social interaction
+aide
+sdks
+canvas
+user visits
+client side
+application server
+sdk
+damages
+mandatory
+faith server
+meta-data
+network proximity
+rapid growth
+making recommendations
+recommendation quality
+achieving high
+funding agencies
+phone calls
+billion phone
+calls duration
+phone records
+focal point
+network properties
+voicemail
+heavytailed distribution
+voice mail
+lung cancer
+network effects
+malware
+malicious software
+human security
+spyware
+boot sector
+larger scale
+honest users
+disk space
+restoration
+local storage
+graph mining and inference
+group level
+securities fraud
+malicious behavior
+user accounts
+peer to peer
+proxy server
+external activity
+nonlinear dynamical
+product penetration
+epidemiological
+growing network
+dynamic processes
+vaccines
+discussed previously
+cellular phones
+whatif scenarios
+netflix
+quarantine
+virus propagation
+small groups
+fractional immunization
+network-wide
+real-traces
+p2p
+diverse applications
+network connections
+multiple genres
+online forum
+threaded discussion
+discussion forums
+features capture
+appeal
+easily incorporated
+underlying communities
+vary considerably
+local level
+global level
+diverse areas
+carefully designed
+structural characteristics
+information dissemination
+key points
+peer inuence
+dense clusters
+key aspect
+network environment
+exhibit strong
+phone network
+causality
+critical issue
+interesting events
+microarray
+figure correlation
+online game
+search strategies
+critical task
+partial information
+social circle
+producer
+cinematographers
+graph index
+multiple aspects
+thermal conductivity
+preliminary experiments
+blur
+change management
+error message
+theoretical framework
+large realworld
+exhibit similar
+multiple cascades
+cascading processes
+human brain
+generalized model
+massively multiplayer online
+role-playing games
+mmorpgs
+performance management
+everquest ii
+mmorpg
+developed by sony online entertainment
+future performance
+past performance
+participating players
+player and team
+point gain
+teamlevel performance
+massively multiplayer online roleplaying games mmorpgs
+persistent virtual world
+ingame characters
+player performance
+archetypes
+combat team
+project teams
+game mechanics
+experience points
+archetype
+manufacturing
+customer satisfaction
+numerous studies
+everquest
+sony online entertainment
+players past performance
+teams performance
+solo players
+solo and team
+strategy guide
+guilds
+online gaming
+academy of management journal
+massively multiplayer online role-playing game
+massively multiplayer
+roleplaying game
+customer relationship management
+explosive growth
+hours per week
+virtual environments
+socialization
+guild
+churn prediction
+player population
+symmetries
+amino acid
+study investigates
+contributions include
+social diversity
+moderately negatively
+past performance and social diversity
+social diversity in mentoring
+player performance prediction
+curriculum
+mentoring network
+team member
+effects of mentoring
+character diversity
+class diversity
+adjusted rsquared
+apprenticeship
+task types
+prediction algorithms
+dynamic process
+job performance
+satisfaction and enjoyment
+player satisfaction
+player motivation
+flow theory
+player motivations
+extremely important
+difficulty and player performance
+player enjoyment
+negative experience
+group quests
+static snapshot
+meaningful relationships
+npcs
+server respondents
+skill versus challenge
+future direction
+first person shooter
+content access
+disruption-tolerant
+tactical manets
+end- points
+infor- mation
+struc- ture
+disaster relief
+content dissemination
+distributed hash table
+exchange information
+evolving network
+send information
+propagation delay
+group member
+virtual space
+medium access
+radio propagation
+content items
+uav
+future interactions
+spatio-temporal
+spatiotemporal communities
+spatial proximity
+geographical proximity
+close proximity
+simultaneity
+advantages and disadvantages
+rowing
+multiplex networks
+trust based social networks
+generative mechanisms
+direct interaction
+butterfly
+mtml framework
+player character
+proteinprotein interaction networks
+trolls
+role playing
+triadic level
+mmo
+adversarial network
+surprising result
+trust propensity
+web 2.0
+massively multiplayer online role playing game
+related behaviors
+selfreported trust
+uavs
+realtime scheduling
+fluid
+analysis techniques
+earliest deadline
+tags and comments
+competitive advantage
+high efciency
+trafc conditions
+behave differently
+statistical tests
+hard disk
+disaster-response
+rescue center
+reducing semantic redundancy
+rst responders
+prioritization scheme
+content type
+natural resource
+nphard problems
+maximizing quality of information
+markov decision process
+multiple dimensions
+trafc speed
+visualization framework
+related articles
+visualization types
+control mechanisms
+information discovery
+highly complex
+turbulence
+interactivity
+relevant research
+network visualizations
+interaction mechanisms
+graph visualization
+augmented reality
+interactive interface
+mold
+mathematicians
+attack models
+interactive visual
+real money
+highly-central
+offline clandestine
+ethical
+clandestine organizations
+online and offline
+environmental factors
+online worlds
+social and psychological
+clandestine networks
+carriers
+underlying processes
+mmog
+rich contexts
+organizational forms
+virtual spaces
+online world
+invisibility
+covert organizations
+organizational studies
+criminal organizations
+vogue
+extortion
+comparative advantage
+al qaida
+arms
+structural hole
+white collar crime
+decentralization
+drug trafficking
+computational models
+organizational structures
+theoretical mechanisms
+organizational networks
+economic capital
+dyadic level
+exogenous factors
+exponential random graph models
+exponential random graph
+processes occurring
+network analyses
+social environments
+complex tasks
+players interact
+external validity
+predictive validity
+virtual currency
+virtual environment
+macroeconomic
+inflationary
+antisocial
+precedent
+meritocratic
+dungeon
+network metrics
+expect by chance
+massively multiplayer online game
+plat
+caviar
+generalized reciprocity
+visual inspection
+offline drug trafficking
+trafficking
+statistical techniques
+ethnographic
+observatory
+barter
+scientific research
+organizational research
+multilevel hypotheses
+developing countries
+criminal networks
+logistic regressions
+individual behaviors
+offline behavior
+cognitive biases
+virtual goods
+binary classification
+customer service
+soe
+hardcore
+virtual items
+distinct behavioral
+network analytic
+butterflies
+directly affect
+previous literature
+structural signatures
+multitheoretical multilevel
+link formation
+golf
+social theories
+psychosocial
+server logs
+social impact
+policy makers
+mental health
+erosion
+virtual communities
+underlying assumptions
+effect size
+study examined
+sip theory
+age and gender
+social support
+social conditions
+social connectivity
+achievement motivation
+immersion motivation
+escapism
+positively or negatively
+general american
+sense of community online
+factor analysis
+player communication
+multitasking
+dependent variables
+effect sizes
+inclination
+participants played
+interaction effect
+communication network
+negative effect
+remain constant
+control condition
+game engine
+demographic factors
+social issues
+predictors of piu
+piu scores
+running head
+social anxiety
+etiology
+social environment
+emotional support
+interpersonal communication
+emotional state
+social games
+social features
+evidence suggests
+predictor of piu
+participants reported
+voip
+directly measure
+interaction effects
+stereotype
+emerging trends
+typographical error
+self-disclosure
+petri dish
+controlled experiment
+group interactions
+astrophysicist
+treatment and control
+cautionary tale
+epidemiologists
+club penguin
+promiscuity
+stick figure
+dragon
+lineage ii
+subcultures
+economic activity
+participant observation
+traditional media
+eye contact
+social control
+social hierarchy
+naturally occurring
+warhammer
+nightclub
+direct observations
+controlled experiments
+internal validity
+architects
+anthropologists
+political scientists
+international journal of communication multidimensional networks
+barley
+monge leonardi international journal of communication
+entanglement
+retrieve information
+multiple types of relations
+primates
+affiliation networks
+robots
+crash test
+preprocessor
+narrative
+structural signature
+greater likelihood
+network emergence
+transactive memory
+retrieving information
+physicians
+structuration theory
+analytic framework
+public goods
+stymie
+affordance
+social cognition
+underlying mechanisms
+failure analysis
+cyber physical
+ns experimentation
+interhospital patient
+prob- lem
+microorganisms
+antibiotics
+patient transfers
+vaccine
+condor
+hygiene
+face-to-face
+functional programming
+measures of centrality
+ip trafc
+negative results
+densication laws
+big difference
+ad-hoc
+epidemic spreading
+susceptibleinfectedsusceptible sis
+repeated interactions
+android
+distributed graph
+computational resources
+network scientists
+require additional
+graph analysis
+user interface design
+virtual machine
+globus
+compilation
+scheduling problems
+failover
+compiler
+computational power
+homebuilt
+multi-relational
+formation mechanisms
+phenotypic
+comorbid
+comorbidity
+physical location
+triad census
+constantly changing
+direct impact
+explore ways
+mobile adhoc network
+simple mechanism
+dynamic systems
+fully distributed
+geolocation
+real complex networks
+discrete event
+fundamental property
+main challenges
+irrelevant information
+background network
+information from unstructured text
+low-transparency
+vast amounts of information
+complementary information
+negatively impact
+online life
+information-security
+accountability mechanisms
+standard definition
+copyright law
+scientific journal
+drm
+bona fide
+heavyweight
+micropayment
+feigenbaum et al
+common ground
+increasingly complex
+nation states
+legal liability
+shoplifting
+incentive compatibility
+watermarks
+graph partitioning
+smaller groups
+detection of overlapping communities
+metabolism
+cellular telephone
+underlying communication network
+power grid
+parallel computing
+physical network
+deployment scenarios
+geographically distributed
+multihop communication
+probabilistic tendencies
+afliation networks
+signicant differences
+kovanen et al
+global structure
+qx favorites
+factors inuence
+specic features
+direct measurement
+peer group
+redshift
+disk storage
+important problems
+exchange messages
+billion-scale
+real-world graphs
+mailing lists
+tightly coupled
+simple tasks
+seeking information
+contribute information
+wikipedia edit
+socialcognitive network
+warning response
+extreme events
+warning response process
+disaster events
+emergency events
+theory suggests
+warning messages
+past events
+taking action
+warning information
+warning message
+core and periphery
+emergency relevant
+local media
+indegree centrality
+analysis showed
+homeland security
+source of randomness
+transmission policies
+network simulation
+driven model
+online content
+doctors
+evidence documents
+hoax
+false claims
+typical examples
+review website
+librarians
+apollo
+significant attention
+fact-finder
+reported observations
+poor-quality
+collecting information
+individual sources
+data center
+porting
+packet level
+fundamental question
+realistic dtn
+unstructured peertopeer
+trafc ofoading
+tolerant networks
+leading squad
+closely connected
+sparsely connected
+protocol overhead
+mobile networking
+content in social media
+images and videos
+cell-phone
+weighted reciprocity
+goals in mind
+ground-truth
+tweeting
+explicit social network
+retweet network
+network eects
+modern society
+provide evidence
+idioms
+complex contagion
+accuracy and timeliness
+multi-user
+amt
+network protocol
+partially observable markov
+rmab problems
+network control
+multiarmed bandit
+control problems
+growth mechanism
+mutualistic
+pollinator
+invasive species
+biodiversity
+negative relationship
+flowering plants
+nested structure
+longterm persistence
+interspecific competition
+systemic risk
+socioeconomic networks
+consumerism
+actual communication
+response rate
+informed consent
+personally identifiable information
+breast cancer
+higher impact
+temporal dynamics
+related words
+external events
+limited attention
+gene interaction
+individual members
+signicant overlap
+enron corporation
+follower network
+organizing mechanisms
+economists
+social studies
+section summarizes
+morphology
+hierarchical constraints
+seasonality
+hierarchical organization
+weakest link
+reverse engineering
+discovering overlapping
+proverbs
+obese
+mri
+meme
+pertussis
+threshold models
+key aspects
+meaningful patterns
+stable distribution
+million papers
+phone-based
+longer-term
+behavior change
+paint
+symptom
+contagious disease
+behavioral features
+phone communication
+similar attributes
+facetoface interaction
+bipolar
+structural equivalence
+economic development
+physical activity
+small-world
+spreading dynamics
+event sequences
+mobile apps
+bluetooth proximity
+helps understand
+spatial constraints
+dyadic interactions
+zip codes
+statistical power
+medieval europe
+critical mass
+ability to control
+natural systems
+analytical tools
+dynamical rules
+network controllability
+controllability of nonlinear systems
+regulatory networks
+gene regulatory networks
+escherichia coli
+complex environments
+authors designed
+analytical and numerical
+key ndings
+fallow
+location based
+personalized recommendations
+agent mining
+previous experience
+vertex level
+evaluation shows
+future systems
+exhibit high
+redundant content
+picture delivery
+digital cameras
+message transmission
+look alike
+physical events
+physical event
+collection point
+audio and video
+situation assessment
+events happening
+highly popular
+event location
+phone based
+vertical integration
+acknowledgements research reported in
+aware networking
+functional dependencies
+audio signal
+passive sensors
+challenge in social sensing applications
+individual observations
+signicant attention
+environmental monitoring
+wireless router
+parametrization
+participatory camera
+natural disaster
+refrain
+resource constraint
+bug-triggering
+determinism
+program execution
+noise model
+events occurring
+significant role
+trust computations
+proximity sensor
+tripwire
+incomplete provenance
+information trust
+correct information
+routing decision
+trust establishment
+timely manner
+signicant challenges
+grocery store
+systems design
+uncertain mobile objects
+accurate location
+zoologists
+bandwidth constraints
+location uncertainty
+inherent uncertainty
+object identier
+difcult problem
+digestion
+spam detection
+online social media
+realtime detection
+social sensors
+product search
+simplest case
+vision tasks
+abnormal behavior
+structural centrality
+tiple
+real scenarios
+environmental studies
+herbivores
+home range
+mobile ad-hoc network
+misbehaving nodes
+direct observation
+data corruption
+multi hop
+information theoretic
+trust dynamics
+evidence based
+rational choice
+n2
+capm
+social learning
+hedge fund
+interactive interfaces
+electrons
+longer term
+mecha
+visualization and interaction
+wikia
+toolbar
+automated algorithms
+prestudy questionnaire
+poststudy questionnaire
+serendipity
+message exchanges
+delay tolerant network
+delivery performance
+complex analysis
+functional trust
+higher-order
+algorithmic problems
+unique properties
+recent efforts
+asymmetric edges
+distributed flow
+carbohydrates
+scalefree topologies
+limiting factor
+referral trust
+command line
+robust features of trust
+trust formation
+local group
+prediction tasks
+broad categories
+activity logs
+record player
+crossnetwork features
+feature analysis
+positive relationships
+cascades of load
+power grids
+arms race
+critical infrastructure
+financial systems
+electricity
+electric power
+abelian
+multitype branching
+interdependent systems
+critical infrastructures
+organism
+connectivity patterns
+human decision making
+bipolar argumentation
+argumentation systems
+observations suggest
+transcriptional regulatory
+packet switched
+landline
+task routing
+routing scoring rules
+scoring rules
+aardvark
+prediction market
+scoring rule
+equilibrium strategies
+social mobilization
+borboratrustj page
+weak and strong
+demographic proles
+player characters
+ahmad et al
+common group
+cyber security
+networked groups
+online environments
+online role playing game
+multiplayer online role playing game
+group identification
+multiteam systems
+hierarchical organizations
+groups and teams
+germans
+clan
+team processes
+prose
+positive influence
+conflict resolution
+common observation
+interpersonal trust
+distributed teams
+external information
+ego networks
+specic areas
+trustworthy computing
+trust repository
+heterogeneous objects
+metamorphism
+considered trustworthy
+ethernet
+systems components
+emulator
+trust based social
+experimentation infrastructure
+ranked clusters
+static data
+social psychological
+puzzle
+controversial topic
+visualization tool
+collaboration patterns
+low-degree nodes
+gaming applications
+modus operandi
+physical sensors
+evade detection
+identity theft
+communicating parties
+thunderbird
+cross genre
+multi-genre
+dierent characteristics
+historydependent graphical
+behav ior
+realistic settings
+game-theoretic
+buyers and sellers
+individual agents
+sns
+strategy game
+directed links
+phone- calls
+social skills
+player performance on player
+anthropology
+psychologists
+widely accepted
+double agent
+current knowledge
+prior trust
+trust evaluations
+reputation scheme
+distributed trust management
+dtt
+bma
+true information
+fundamental principles
+ad hoc routing
+close relationships
+massage
+bad behavior
+evidence collection
+routing table
+sensing reports
+chain-structure
+main factors
+military command
+data security
+chain network
+picasso
+phase-transition
+recombination
+demonstrative
+remains unknown
+ve personality
+practical implications
+recommendation accuracy
+counter messages
+spread of actionable information
+antivirus software
+spreading information
+seeding strategies
+countermeasure
+diffusion of actionable information
+topic-specific
+credibility rating
+assess credibility
+credibility assessments
+trending topics
+credible tweets
+trust and credibility
+natural disasters
+direct marketing
+stephen colbert
+social balance
+question mark
+retweet chains
+migration patterns
+radiation
+scale- invariance
+cargo
+home county
+commuter
+whitaker
+newtonian
+analytical framework
+transmission evidence
+simulated network
+relationship prediction in heterogeneous
+wireless broadband
+compounds
+tethering
+incentive compatible
+counterfactual
+demand models
+elided
+social streams
+online chat
+hash tags
+noisy information
+ects
+swine flu
+alternative medicine
+gleaning
+strong indicators
+contrasting evidence
+digitizing
+arthritis
+paracetamol
+answering questions
+oncology
+jargon
+collaborative networks
+task execution
+real collaborative networks
+service department
+greedy routing
+expert networks
+relational algebra
+negative opinions
+proteinprotein interactions
+robust communities
+frame problem
+focal length
+humans as sensors
+data processing
+convergence to consensus
+competing committed groups
+metastability
+numerous techniques
+high schools
+traditional routing
+link-quality
+routing metrics
+avc
+video coding
+protocol stack
+inference engine
+agent based model
+mission success
+experiment platform
+shared situation awareness
+team leader
+team collaboration
+competence and willingness
+trust in automation
+network emulation
+information sharing
+incorrect information
+decision model
+positive evidence
+problem domain
+agent model
+measure called
+task performance
+willingness and competence
+facial expression
+high competence
+prominence of individuals
+linguistic analysis
+cognitive processes
+paying attention
+negative emotion
+user features
+actions speak
+network position
+factors impacting
+multiple reporting formats
+highest quality format
+format selection and routing
+environment monitoring
+social fmri
+mechanism-design
+mobile-phone
+financial status
+social incentives
+observatories
+digital revolution
+subject pool
+goal setting
+credit cards
+dataflow
+graduate school
+vacuum
+daily activity
+indigenous
+scaffolding
+key findings
+organizational behavior
+physical fitness
+social integration
+baby boomers
+george hotz
+altruistic
+search engine optimization
+geocaching
+ngos
+clean water
+mobile telephone
+telephones
+traffic flow
+traffic jams
+behavior patterns
+stratification
+human behavior
+english common law
+liquid
+contract law
+transaction costs
+focus groups
+final answer
+invisible hand
+cybercrime
+cyberwarfare
+financial capital
+stable matching
+coupled markov
+throughput-optimal
+traveling companions
+object groups
+designated area
+satellites
+trafc analysis
+radio frequency
+multidimensional analysis of atypical
+focused research
+trafc congestion
+realtime trafc
+detection module
+core words
+related tweets
+prole image
+dierent entities
+maintenance decision
+user-generated
+music festival
+single word
+dumbbell
+trafc patterns
+exploration and exploitation
+dynamic spectrum
+distributed storage
+file sharing
+cellular data
+relative velocity
+cognizant
+network knowledge
+controversy score
+controversial pages
+clustered controversy score
+administrator status
+pov pushing
+anecdotal evidence
+conservatism
+edit history
+singletopic editors
+sri lankan civil war
+communication networks
+local area network
+disk-resident
+exact sequence
+scientic researchers
+published paper
+border patrol
+multiple intruders
+missed collaboration
+norwegian
+witchcraft
+attention recently
+problems involve
+collection tasks
+game consoles
+geotagging
+multiple locations
+sensing literature
+correctness of individual observations
+microblog data
+cyclist
+interactive hybrid
+visual representation
+hybrid recommender systems
+figure ? shows
+social recommender
+explanation interfaces
+hybridity
+figure ? presents
+perceived quality
+data redundancy
+transmission control protocol
+user datagram protocol
+bandwidth savings
+bail
+rabin
+iplayer
+rich source
+credibility perceptions
+military intelligence
+peacekeeping
+smart-phone
+photograph
+location traces
+spatial correlations
+food industry
+exchange interaction
+market economies
+wholesale
+structural and dynamical
+social cognitive
+future behaviors
+anomalous event
+detecting anomalies
+maguindanao massacre
+anomalous subgraphs
+decision-makers
+applied research
+reallife applications
+electric vehicle
+discrete opinion
+open standards
+confinement
+united states congress
+meaningful structure
+temporal variation
+simpler model
+femtocell
+team-formation
+multiple teams
+team composition
+management for mobile ad-hoc networks
+location mapping
+location proof
+multi-agent
+naming game ng
+theoretical studies
+studying groups
+group processes
+organizational chart
+pragmatics
+role playing games
+prior collaboration
+software development
+high definition video
+survey methods
+team science
+longitudinal network
+clearcut
+key members
+bibliometrics
+mashing
+inferential statistics
+network analytics
+central tendency
+landmine
+digital trace data
+quiver
+perennial
+electric power grids
+analytic tools
+collation
+shared leadership
+contraband
+deviant players
+sociotechnical systems
+customs
+medieval era
+imperial era
+trading activity
+group evolution
+street gangs
+longitudinal studies
+educational technology
+online settings
+epistemological
+impermanence
+western culture
+mores
+game design
+occupational safety
+selection pressure
+transmutation
+models incorporating
+influential nodes
+euphemistic
+ritual
+churn prediction in mmorpgs
+ensemble approach
+self disclosure
+analytic approach
+congestion bottlenecks
+impact analysis
+realworld wireless networks
+real world network
+crowd sourced
+nominate
+bandwidth constrained
+social/cognitive
+attention span
+occupy wall street
+resource availability
+human decision maker
+digital media
+weather report
+transient social contact patterns for data
+biological data
+stack overflow
+bivariate distributions
+clickstream data
+drought
+wsm
+go around
+multi dimensional
+inoculation
+outbreak detection
+axiomatic properties
+big data
+breed
+rise and fall
+external sources
+biologist
+retweeted messages
+medusa
+crowd-sensing
+crowd- sensing
+crowdsensing tasks
+resource usage
+stage tracker
+task instance
+worker manager
+spc stage
+require explicit
+extensibility
+quality control
+intrinsic attributes
+completeness and timeliness
+qoi-aware
+wide area network
+large-scale graphs
+cbp
+logical dependencies
+hamming code
+fmn
+metropolis
+networks and social networks
+newly published
+slowly evolving
+driven models
+interaction processes
+temporal networks
+common properties
+localized regions
+predicting personality with social behavior
+normative behavior
+personality prediction
+behavior in social media
+adversarial networks
+friend to friend
+inquiry and word count
+composite trust model
+effective decision-making
+composite trust
+multi-genre network
+trust-based
+multigenre network
+complex networked
+network behaviors
+sharing behavior
+shared sa
+team studies
+perceived trust
+physical constraints
+trust dimensions
+platform called
+conrmation bias
+trust behavior
+effective decision making
+mission execution
+mission performance
+hoard
+social-group
+multiple equilibria
+iou
+situations involving
+censorship
+data storage
+social recommenders
+user experiment
+inspectability and control
+user centered design
+positive effect
+personal characteristics
+perceived control
+twix
+control conditions
+perceived recommendation quality
+graphical user interfaces
+analytical tasks
+visual components
+analyzing collaboration networks
+real world networks
+trend analysis
+explicitly or implicitly
+unknown reliability
+synchronous and longitudinal
+longitudinal experiments
+empirical research
+roadblock
+user demographics
+coloring problem
+amazons mechanical turk
+fujian province
+civil service
+ranking of tweets
+individuals and organizations
+information networks
+microblog messages
+public transport
+social networkbased
+legislative
+microblog posts
+factors influencing
+credibility cues
+declarative memory
+actr model
+actr cognitive
+base level
+credibility cue buffer
+credibility cue
+short term memory
+mitosis
+halo effect
+growth mechanisms
+foraging choices
+information foraging
+context-dependent
+daily shortterm comparative returns
+net income
+optimal foraging theory
+natural selection
+arabic numerals
+securities and exchange commission
+income intake
+parasitoids
+common stock
+scientific collaboration
+team success
+dynamic range
+turtle
+claude shannon
+civil engineering
+unintended consequence
+urban areas
+client-side
+data credibility
+common followees
+user demand
+ui design
+debit
+group development
+high performance computing
+cross examination
+heavy-hitters
+royalty free
+cognos
+interception
+videoconferencing
+deep packet inspection
+infosphere streams
+netezza
+architect
+repeated interaction
+dyadic reciprocity
+strong tie
+rich club
+richclub structure
+citation patterns
+scientific publications
+set mds
+excitatory
+detailed knowledge
+smart devices
+coupled systems
+attentive betweenness centrality
+nite attention
+simplest model
+measures of prominence
+feature distributions
+feature distribution
+dyadic pairs
+content content content content
+content content content content content content
+crisis situations
+fukushima daiichi nuclear disaster
+credibility ranking
+ternary
+multi-aspect
+epileptic
+resolve conicts
+rewall policy
+rewall rules
+argumentation theory
+piracy
+trust transitivity
+pseudonyms
+application of argumentation
+predicate logic
+multiple-typed
+chemical process
+general government
+critical questions
+argument schemes
+indirect experience
+expert opinion
+culinary institute of america
+moral nature
+pragmatism
+chef
+reprise
+informal logic
+realworld settings
+selection task
+performing arts
+norm dynamics
+norm lifecycle
+social norm dynamics
+cnr
+norm generation
+ophthalmology
+social norm
+epistemic
+kantian
+red light
+totalitarian
+indians
+natural sciences
+customary law
+natural law
+customary international law
+goethe
+crosscountry
+rational basis
+prussians
+trench warfare
+prisoners dilemma
+iterated prisoners dilemma
+individualism
+ivr
+indulgence
+collectivism
+cognitive architecture
+low power
+individualist
+internalization
+laterza
+european community
+matrix games
+rutter
+viral spreading
+engineered systems
+multiple choice
+heavy-tailed
+intrinsic activity
+heavytailed distributions
+doctorate
+survey subjects
+newsworthy messages
+representative tweets
+credible and retweeted
+whooping cough
+disinfectant
+competing memes
+propagation schemes
+cognate
+meme propagation
+dissemination processes
+dissimilation
+markov decision
+outsource
+event probabilities
+proverb
+cosmology
+continuum theory
+driving forces
+disruption- tolerant networks
+structural diversity
+developed country
+event record
+single market
+rational expectations
+milestone
+likelihood scores
+video game journalism
+spreadsheet
+copy protection
+limited resource
+predicting future popularity
+trend prediction
+future popularity
+future popularity trend of events
+manifesto
+future popularity trend
+popularity trend
+ipo
+original tweets
+temporal dependencies
+future event
+rhythm
+studies suggest
+evidence supporting
+controversial claims
+contrasting viewpoints
+explicit knowledge
+prestudy survey
+bias questions
+expertise ratings
+fossil fuels
+public university
+document view
+confirmation bias
+federal government
+dynamical models
+adsorbed
+heterodimer
+birthdeath processes
+reverse engineer
+dynamical universality
+ve months
+diner
+dilemma game
+iterated diners dilemma
+sa level
+cooperation behavior
+diners dilemma game
+diners dilemma
+level sa
+mutual cooperation
+rapoport chammah
+interdependency information
+interdependence information
+actions and outcomes
+prosocial behavior
+sa levels
+higher sa
+opponent behavior
+horizontal bar
+participants completed
+participant behavior
+observed trust behavior
+team coordination
+social dilemmas
+instancebased learning
+decisions from experience
+infantry
+numerical calculations
+dynamical correlations
+playground
+sis models
+cross-network
+network formation games
+economic model
+gifting applications
+friendship graphs
+growth processes
+board games
+scrabble
+inactive users
+downtime
+diversity caching
+replacement policies
+physical state
+virtual machines
+emulation environment
+motion compensation
+fgs
+wireless networking
+underlying semantics
+microstructure
+fallacy
+illuminated
+longitudinal network data
+key insights
+adversarial environments
+trade and trust
+interagency networks
+domain names
+tobacco control
+interlingua
+physical education
+childhood obesity
+zip code
+structural rules
+internal structural rules
+dualistic
+human communication research international communication association
+whitbred et al
+structuration and network emergence
+metatheory
+emergent communication network
+emergent communication
+metaphorical
+external structural rules
+index card
+individual variables
+startup companies
+dualism
+consciousness
+meritocracy
+relapse
+manual labour
+sanguine
+mentor network
+lifecyclebased approach
+observed variable
+high performing
+disinformation
+entities in enterprises
+leader centrality
+high outdegree
+team outcomes
+high indegree
+outdegree centrality
+context aware
+virtual teams
+social-network
+enterprise search
+team building
+topic diffusion in scn
+topicfollowing behavior
+scientic collaboration network
+scn
+formation in large social networks
+homophile
+idiom
+detroit pistons
+pistons
+living organisms
+biological functions
+pairwise connections
+team sport
+paul pierce
+dynamic event networks
+military tactical
+waveforms
+qoi aware
+steve gregory
+signed social network
+positive and negative relationships
+troll
+subconscious
+cs research
+individual papers
+nsfnet
+realtime database
+link persistence
+database design
+web technology
+modern medicine
+based framework
+caral
+citizen journalism
+bonanza
+read through
+knowledge discovery
+multigenre networks
+project groups
+agglomerate
+quicksort
+human perception
+team engagement
+team players
+team activities
+fundraising
+scripting
+player versus player
+stones
+goddess
+archers
+fatigue points
+pug
+inflection
+team dynamics
+unfollow behavior
+knitted
+relational and informational
+unfollow relations
+public relations
+informational factors
+vod
+united states intelligence community
+organizational rules
+coalition networks
+nationals
+remus
+agent framework
+team leaders
+teams working
+crossteam communication
+intrateam communication
+experiential learning
+rule-based
+participant responses
+toolchain
+data visualization
+workbench
+degree correlation
+biomarker
+linear timeinvariant
+chemical reaction
+biomarkers
+synthetic biology
+taxi drivers
+minkowski
+taxi driver
+severe acute respiratory syndrome
+strongly relevant
+tretinoin
+tetracycline
+insulin
+toxicity
+jeopardy
+virtualization
+network io
+scalefree overlay
+taxa
+tigr
+mission planning
+collaborative technology alliance ns cta
+situational understanding
+cultural landscape
+multirelational networks
+science collaborative technology alliance ns cta
+ns cta research
+courses of action
+scientific knowledge
+trafc jams
+travel time prediction
+anomalous events
+heavy tails in human dynamics
+point process
+superposition
+terrestrial
+information quality
+decision accuracy
+multiple reports
+vms
+anonymous reputation
+anonymous reputation management
+tablet computers
+reputation levels
+traveling mode
+participatory privacy
+app store
+reputation update
+hisher reputation
+user registration
+anonymous blacklisting
+spatial-temporal
+location-based services
+locationbased services
+stp proof
+alibi
+stp proofs
+location granularity
+distance bounding
+location manager
+user proling
+epr
+pw collusion
+welding
+freudian
+activism
+playstation
+focal points
+naked eye
+degree centrality
+t-mobile
+umts
+page layout
+cascading style sheets
+agilent
+labview
+radio resource
+fast dormancy
+core network
+efficient data access
+resource depletion
+mobile opportunistic networks
+availability gap
+similarity-based
+instagram
+concurrent queries
+camcorders
+retrieval scheduling
+programming framework
+compressibility
+droids
+quality-of-service
+original twitter data
+event localization
+equally reliable
+wounded knee
+macau
+moral hazard
+large-scale data
+circadian rhythms
+extended structural balance theory
+classical balance theory
+touchstone
+trust and distrust relationships
+trust constructs
+escort
+input-output
+networks and trust
+multiteam system mts
+mts effectiveness
+component teams
+emergent states
+crosstalk
+mts performance
+emergent state
+tabletop game
+humanitarian aid
+stinger
+hidden profile
+component team
+personal computers
+comcon condition
+recon officers
+practice mission
+performance mission
+team communication
+coordinated action
+scientific inquiry
+team process
+reuptake
+sequential structural signatures
+positivist
+rower
+relational event
+relational event network
+interteam reciprocity
+mimicry
+improvised explosive devices
+phantoms
+stingers
+boundary spanners
+gma
+set size distribution estimation
+real-world applications
+local and community centrality
+global measures
+academic publishing
+herd behavior
+central communities
+duration and intensity
+opinion spread
+influence maximization
+research publication
+challenging research
+newly published papers
+clinical trials
+clinical trial
+icd
+socware cascades
+malicious posts
+email spam
+symbiosis
+phish
+finnish
+blacklisting
+spam campaigns
+link state information
+phe
+katana
+individuals mobility
+prescribed action
+virginia tech shooting
+behavioral intent
+eastern pacific
+interesting times
+traditional news media
+chromosome
+mitochondrial
+chain letter
+volunteer science
+fairness and efficiency
+alternating cooperation
+brinkmanship
+repeated prisoners dilemma
+ultimatum game
+adare
+descriptive and experiential
+experiential and descriptive
+experiential information
+descriptive information
+descriptive and experiential information
+instance-based learning
+ibl
+repeated decisions
+instancebased learning theory
+repeated pd
+iblpd model
+activation mechanism
+lejarraga et al
+mutual defection
+dynamics of cooperation
+cyber warfare
+running head emergence of cooperation with
+instance based learning
+repetition propensities
+counterparts outcomes
+weight hypothesis
+hyperbolic discounting
+social conflict
+pseudonymous
+reliable sensing
+case-studies
+microblog entries
+opinion sampling
+national football league nfl
+mainstream news
+forest management
+network genres
+real-valued
+attention focus
+microevolution
+encyclopedias
+working memory
+bia
+enemy ghters
+functional language
+esteem
+postmark
+mutual goals
+sinecure
+dermatologist
+david justice
+raves
+trust contexts
+kreisler
+recon team
+object-level
+social biases
+dr cuddy
+intensive care unit
+siri
+classical logic
+aspic
+social bias
+reproductive rights
+nuclear disaster
+assemble into teams
+effective teams
+team and mts
+team and mts performance
+boundary spanning
+treasure trove
+fertilizer
+george orwell
+blurt
+agent agent
+digital marketing
+behavioral targeting
+trajectories from untrustworthy
+cone-model
+neighborhood watch
+seismic sensors
+command-and-control
+brigade
+paramount pictures
+tunnels
+potpourri
+reddit
+arrival patterns
+electromagnetic
+trust inference model
+super users
+communication patterns
+shopping mall
+snmp
+mobile opportunistic network
+sabotage
+quid pro quo
+asset management
+learning management systems
+emotional states
+decision-making
+decision-maker
+decision performance
+arousal
+absenteeism
+psychometric
+fixed effects
+authors prior
+embryos
+mmr vaccine
+scientific fields
+scientific progress
+systematic review
+cultural capital
+simulation-based
+sends messages
+follower structure
+genotype
+user genotypes
+latency minimization
+topicspecic user
+topicspecic inuence
+social media network
+inuence structure
+alleles
+social movement
+peer-pressure
+social-tie
+individual-level
+price level
+gold farmer detection
+team science networks
+nscta and cncta
+wireless pp networks
+monarch
+integrated design
+context switch
+online reviews
+review text
+negative reviews
+bad products
+fraudster
+fraudulent behavior
+mac-layer
+data-center
+evolutionary algorithms
+web design
+incentivizing participatory sensing via auctionmechanisms cid
+central controller
+feature phone
+renewable
+reverse auction
+magnetometer
+circumstantial
+effectively measure
+geographically correlated
+rape
+extreme weather
+panacea
+homeostasis
+developer focus
+cross-entropy
+fewer defects
+device driver
+maf and daf
+ecologists
+device drivers
+version control
+coreperiphery structure
+substation
+social-communication
+chain-of-command
+wma
+fixed-effects
+cartwright and harary
+negative inuence
+potential romantic partners
+dating preferences
+potential dates
+message sending and replying
+users actual
+behaviors correlate with various user attributes
+stated preferences
+matchmaking
+users stated
+actual dating
+main ndings
+evolutionary psychology
+younger females
+socioeconomic status
+send and reply
+dating preference
+sending and replying
+message sending
+preference and hisher actual
+assortative mating
+slovakia
+subscriber activity
+market risk
+kiva
+network solutions
+performativity
+real-time strategy
+starcraft ii
+bad player
+roleplaying games
+colored trails
+board game
+starcraft
+reptar
+early warning
+dow jones industrial average
+relay information
+intelligent agent
+core/periphery
+network modules
+network cores
+coreperiphery networks
+coreperiphery network
+evolvability
+firmware
+signalling networks
+molecular networks
+allosteric
+plasma membrane
+transcription factors
+rna polymerase ii
+immune cells
+global brain
+burgos
+international trade
+interbank network
+air transportation
+functional areas
+sloboda
+cray
+page of ccidase
+islanders
+spatially-embedded
+keyword-pairs
+filmmaking
+folksonomy
+feature film
+obtain permission
+diverse connectivity characteristics
+wifi access points aps
+uhf
+fcc
+intermittently connected cognitive radio
+pp interfaces
+online trafc aggregation
+proliferation of smart
+planets
+comets
+potential predictability
+molecular interactions
+gene regulatory
+systems response to perturbations
+mrnas
+minimum driver node
+biochemical dynamics
+early adopter
+complex networked systems
+scientific impact
+citation histories
+future impact
+institute for scientific information
+wheat
+spending behavior
+social-computing
+substance abuse
+cultural anthropology
+multiple efforts
+credit unions
+sociomobile features
+mobile phone based
+passive sensing
+credit history
+austerity
+palm
+loyalty program
+dining points
+ui support
+ui elements
+evolutionarily stable strategy
+global climate change
+training session
+level ui
+flow mining
+technical leaders
+product development
+product development teams
+cataldo and ehrlich
+project members
+technical leader
+ratio leaders
+interteam communication
+performance outcomes
+mobile commerce
+broadcast messages
+pew research center
+processed locally
+data compression
+network interventions
+layered networks
+composite materials
+echo chamber
+promethean
+ghettos
+insurance industry
+health insurance
+scientific method
+manuscripts
+dating behaviors
+georgia state university
+triadic evolution
+higher-level
+edge-weights
+communicative interactions
+kin ties
+crossfire
+formation process
+ascribed status
+mens and womens
+menu bar
+word-of-mouth
+membershipbased websites
+predatory
+dau signatures
+floppy disks
+social and monetary
+sociomonetary incentives
+immune systems
+social campaigns
+selective pressure
+spore
+social platforms
+public art
+expert assessments
+global risk network
+mangareva
+wef
+global risks
+alternating renewal
+global governance
+urbanization
+mineral
+associativity
+culling
+detective
+small arms
+condition number
+environmental science
+circular motion
+temporal outlier
+reanalysis
+altitude
+spores
+insider trading
+mobile application
+entity mention extraction
+bucks county
+real- world data
+fitbit
+chat messages
+facetime
+interesting subgraph discovery
+superhero
+human trust behavior
+simulated codiners
+interac
+anomalous sensor readings
+sensor anomaly
+anomaly explanation
+realtime event detection
+insomnia
+incubation period
+event management
+omics
+self similarity
+vine
+interactive decision support
+training exercise
+braxian military
+airlift
+rebel militia
+rebel group
+social marketing
+diffusion in multirelational
+multilayer networks
+unreliable source
+extended versions
+movement regularity
+glioblastoma
+phenotype
+adenocarcinoma
+k-1
+collaboration relationship
+ccs concepts
+real news
+eda
+expert network
+decision logic
+routing behaviors
+networked organizations
+morphing
+polarized sources
+correlated errors
+networked decision making
+lease
+organizational behavior and human decision
+eyewitness memory
+problem difficulty
+raffle
+metacognition
+orthodontic
+academician
+computational tools
+computational social systems
+final as presented
+coercion
+shared awareness
+anthropomorphic
+physical exercise
+vegetable
+persuader
+catalyst
+convertible
+iptv
+larger-scale
+popularity competition
+concurrent adopters
+collaboration structures
+control of complex networks
+nonlinear controllability
+structural control
+higherorder network
+participants read
+dairy industry
+vegans
+hydrogen fuel
+alternative energy
+hydropower
+fossil fuel
+clean coal
+storage service
+previously uploaded
+inaccurate recommendations
+prefect
+observed actions
+aquatic
+shipping network
+global shipping
+service discovery
+monsoon
+tablet
+primary task
+logical quantities
+surrogate sensing
+circular reasoning
+syrian civil war
+wifi access
+world state
+named-data
+terrestrial radio
+social strategies
+domain- specific
+decision- making
+goal satisfaction
+commitment satisfaction
+prior mood
+aects mood
+mood and trust
+commitment outcomes
+commitment outcome
+trust and mood
+chat interface
+transfer window
+outcome aects
+nonverbal communication
+infusion
+re- search
+cadet
+platoon sergeant
+role players
+plywood
+scouts
+wrong turn
+handrail
+malnutrition
+human interaction
+trust beliefs
+materiel
+networked organization
+hoarders
+inbox sorting
+latent entity structures
+hot-spot
+alternate reality
+alternate reality game
+puppet
+alternate reality games
+word processing
+embezzlement
+gibberish
+turing test
+transmedia storytelling
+flash drives
+digital tv
+potential potential
+puppeteer
+intrateam gatekeeping
+schecter
+layperson
+network genre
+mixed fidelity experimentation
+mixed fidelity
+low fidelity
+aor
+world view
+catastrophic failure
+the volunteer science site
+loose coupling
+quintane et al
+intrateam representation
+interteam representation
+interteam gatekeeping
+social identity theory
+spurs
+mts level
+mtslevel performance
+counter insurgency
+transitive verb
+jimi hendrix
+cross-genre
+recombinant
+explicit social networks
+agent-based model
+abm
+saturn
+boomerang
+popularity dynamics
+samba
+team hierarchy from broadcast
+team hierarchy
+informative response
+opinion trends
+extreme opinion
+extreme views
+collective identity
+argtrust agent
+ambient intelligence
+connected networks with competing opinions
+user perception
+ongoing events
+scrolls
+impact event
+task ? task
+professional wrestling
+bandwidth constrained wireless
+durkheim
+superlinear scaling
+comsgr page of small group research
+comsgr small group research
+page of rem performance
+synoptic
+abilene
+mts leadership
+gatekeeping relay
+pacers
+intrateam synergy
+military simulation
+midwestern university
+flyers
+virtual battlespace
+bohemia
+headphones
+captain
+rems
+specific performance
+multi team systems
+civil society
+mammoth cave
+goldilocks
+kinematics
+dependent and independent variables
+crowd- sourced
+smart- phones
+magnet
+shutter speed
+sir isaac newton
+microbiology
+soft skills
+pairwise collaboration
+single team
+chicago bulls
+ranking systems
+real- life graphs
+self-organized criticality
+sandpile process
+binary node values
+differential set
+microsoft windows
+multilayer network
+resistivity
+electrical conductivity
+correlated bond
+bounded budget
+distributed experimentation
+mountain pass
+websocket
+video camera
+stored videos
+influential spreaders
+solid state drives
+unison
+date movie
+high-dimensional
+a/b testing
+treatment group
+battlespace
+mission challenges
+hyper-v
+combat net radio
+communications genre
+remote desktop
+openstack
+multigenre experimentation
+virtual experimentation center
+resuscitation
+social experiment
+tactical communications
+battalions
+sincgars
+vhf
+antenna gain
+nems
+backstory
+rtos
+cnrs
+dynamically allocated virtual clustering
+consoles
+icehouse
+distributed virtual experimentation center
+performance readiness
+cost-effective
+situational leadership
+adaptive feedback
+followers performance readiness
+followers performance
+transformational leadership
+service-oriented
+multigenre experiment
+real radio
+vlan
+cots
+radiometric
+virtual hard drive
+hard drives
+vga
+directx
+graphics processing unit
+console
+oems
+dynamically allocated virtual
+matching hypothesis
+mate choice
+fully-connected
+bribery
+college ranking
+gprs
+behavioral network
+missionaries
+netsense study
+daylight saving
+signed network analysis
+predict negative links
+positive links and contentcentric
+contentcentric interactions
+social sensor
+message deterioration and ignorance
+software design
+interpersonal relationship
+a target node positively
+inuence diffusion
+networks of teams
+seventh ieee international
+strength functions
+motion control
+credibility perception
+inuence credibility
+microblog content
+pew research
+microblog features
+articially controlled
+inuence perceived credibility
+gross income
+metadata on credibility perception
+public diplomacy
+news content
+global news
+node prominence profile
+real-world social networks
+nodes future degree centrality
+future degree centrality
+orbits
+attachment and triadic closure
+h-index
+scientic impact
+authors hindices
+content factors
+temporal factors
+enterprise communication
+sociolinguistic
+popularity inuence
+future group
+external actor
+self assembly
+experimentation environment
+virtual experimentation
+host server
+enterprise architecture
+seismology
+freshness constraints
+data freshness
+emergency shelter
+predicate evaluation
+non-repudiation
+rcn
+cho et al
+low-complexity
+mission requirements
+prociency level
+netsense data
+samegender preference
+feedbased networks
+interlocking networks
+corporate governance
+yahoo finance
+relay and concentration
+american airlines
+mining patterns
+combining topdown and bottomup approaches
+california department of transportation
+city of los angeles
+humanitarian intervention
+inmemory computation
+druid
+resource-constraints
+pitched
+ebola
+air pollutant
+nore
+positives and false negatives
+nanotubes
+conductor
+dam
+social-media
+donation behavior
+destro
+donation data
+credibility perception in social media streams
+content discovery
+mockup
+rst impressions
+modular design
+desired final
+collaboration signatures
+collaboration signature
+collaboration ego network
+nobel prize in physics
+inferring unusual crowd events from
+unusual crowd events
+human movement
+mobility behaviors
+abidjan
+city manager
+moving behaviors
+years years
+webster dictionary
+bdu
+standardization agreement
+cpi
+commercial vehicle
+louisiana state university
+quarterly review
+tms
+maximum security
+propositional calculus
+presupposition
+illocutionary acts
+sociolinguistics
+extensional
+etiquette
+web-search
+battery power
+asset allocation
+experimentation facility
+experimentation framework
+mathematic
+webcast
+electromagnetism
+cyber war game
+attackers or defenders
+minimum resource consumption
+cyber war
+structural dynamics
+selfpropelled agent
+evolutionary game theory
+technical advisor
+policy-compliant
+game theoretic
+topology control
+military science
+virtual simulation
+cldt performance
+dendritic cells
+macrophages
+natural killer cells
+separation process
+functional magnetic resonance imaging
+neurodegenerative disease
+multiple sclerosis
+hippocampal
+glutamate
+likelihood model
+wide-area
+multiple cameras
+individual camera
+experimentation ecosystem
+militarily relevant composite networks
+cs cra
+endeavor space
+singlegenre network
+composite network design
+ioc
+militarily relevant
+militarily relevant composite
+network agility
+mobile communications
+csocial network
+nike
+scottish independence
+user retweet behavior
+zufpr mainpapernwsv june
+stronger samegender preference
+zufpr mainpapernwsv june yang yang
+waxes
+stronger samegender
+zufpr mainpapernwsv june gender differences in
+dispositional differences
+location signature
+predictability in human mobility
+immigrant
+prag
+arbitrary-length
+market analysis
+emergency evacuation
+molecular dynamics
+scada
+market failure
+stress testing
+dominoes
+insolvency
+saudis
+wolfram language
+limit cycle
+fpgas
+road network
+multicamera network
+portfolio theory
+color index
+multi-touch
+touchscreen
+discovery messages
+loopback
+idea ow
+personal services
+memory card
+common gateway interface
+standard operating procedure
+rgb color space
+giant-connected component
+foundry
+early triassic
+triassic
+rupelian
+electron paramagnetic resonance
+biophysical
+human decision-making
+decision-support systems
+nco
+controlled access
+microprocessors
+hardware store
+network of spa systems
+animal collective
+conflict-resolution
+posterior parietal cortex
+malaria
+blue bars
+rating distribution
+logitech
+behavioral economics
+heat wave
+hinge-loss
+promising research directions
+natural language question
+equator
+octagon
+design problems
+spatiotemporal distributions
+keyword cooccurrence
+geotechnical
+evaluation of spitzbergs meme diffusion model
+spitzbergs meme diffusion
+fecundity
+greater media
+headway
+focus group
+jackal
+hidden prole
+mission command staff
+command staff
+growing pains
+breton
+warminster
+civil military operations
+email communications
+sart
+big science
+russian revolution
+bolshevik party
+lenin
+small-group
+low-level
+scapegoating
+self-serving bias
+big 5
+meta-analysis
+snapchat
+agent-model
+directed network
+soaps
+marco polo
+problem-solving
+higherorder dependencies
+ship movement
+fouling
+jigsaw puzzle
+structural homophily
+correspondence analysis
+signed network mining
+mining signed networks
+negative links in signed
+bo yang
+context-sensitive
+world population
+marathons
+ambulance
+police car
+cctv
+catalyzes
+simplicial networks
+memory management
+virtual memory
+mentioned users
+acclamation
+intelligence community
+abundant number
+swiss army
+tegra
+cuda
+demand paging
+hall effect sensor
+tlb
+pcidolya urn
+nodelink and matrix
+ghoniem et al
+long term memory
+kandahar
+color blindness
+distributed-memory
+notre dame university
+large hadron collider
+exchange rates
+burglary
+hedgehogs
+contradicting information
+run length encoding
+efciency of decentralized search
+expert interconnections
+group complex
+expert connections
+network global structure
+query routing mechanisms
+procedural knowledge
+vbs simulation
+page of interserviceindustry training
+operation enduring freedom
+learning objectives
+rifle
+the high treatment group
+ms performance
+unreal engine
+grounded theory
+mixed reality
+educational args
+lookingglass platform
+retweet decision
+major factors
+user ? receives
+popular music
+benfords law
+experimental physics
+ngf
+international traffic in arms regulations
+resource-constrained
+peoples activities
+national agricultural statistics service
+common landmarks
+street lights
+subway restaurant
+smart city
+overlapping views
+barometer
+message sorting
+information arrival
+siphon
+group bias
+quotation marks
+thunderstorms
+contradict information
+sharing and contradicting
+likelihood of sharing information
+likelihood of contradicting
+emergency vehicle
+ground-truth data
+major events
+anomalies using social network feeds
+mooc
+patient motion
+sleep hygiene
+decus
+pulmonary aspiration
+plug-and-play
+lockstep behavior
+densest-subgraph
+evolutionary network
+design goals
+coordination game
+network design problems
+arctic
+message-passing
+big-data
+operational definition
+multiple spreaders
+multisource spreading
+socioeconomics
+membrane potential
+growth factors
+keystone species
+manado
+neotropical
+influence attempt
+link to sender
+reliance link
+user demographics and social
+mobile user
+prepaid users
+economic recession
+older individuals
+agespecic small
+dslr
+amusement park
+proofreading
+quagga
+eel
+explosive ordnance disposal
+orchestration
+coordination and information sharing
+process quality
+herndon
+social constructivism
+workplace democracy
+neverwinter
+calcification
+electroencephalography
+mindfulness
+peertopeer lending
+coups
+offshoring
+housing markets
+agents preferences
+multitype housing markets
+imprinting
+intraspecific
+differential geometry
+lie brackets
+steam engine
+feedback control
+reaction rate
+open subset
+lie bracket
+kinematic
+reflection symmetry
+buk
+mycelial
+lie algebras
+contiguity matrix
+british isles
+followers trust
+pragmatist
+college basketball
+total sa
+decision satisfaction
+air support
+evidence objects
+random-walk-based
+researchinterest evolution
+leishmaniasis
+tropical disease
+data link
+macrophage
+chemical synthesis
+pathology
+enzymology
+leishmania
+occupational disease
+wellcome
+indian government
+global health
+capacity building
+innovation management
+advice givers
+satellite navigation
+articial advice givers
+anthropomorphism
+autonomous car
+articial advice
+epsrc
+introspection
+knijnenburg and willemsen
+mutlu et al
+interactive intelligent systems
+anthropomorphized
+televisions
+visual bias
+collage
+image macro
+evangelists
+amyloid
+babbling
+conditional preference networks
+categories of anomalies
+urban anomaly
+duress
+mans
+face detection
+ground plane
+job placement
+global-scale
+xed eects
+stem leadership
+stem fields
+stem leadership positions
+tacit knowledge
+equal opportunity
+pagerank centrality
+jet propulsion laboratory
+heredity
+mathematics genealogy project
+creative industries
+minimum-threshold
+social media users
+joint staff
+inuence and selectivity
+news events
+space buddies
+bluetooth low energy
+trustworthiness and competence
+trustable systems
+transmission medium
+online identity
+social justice
+naples
+mary douglas
+link aggregation
+drexel
+online marketplace
+alternating renewal process
+carp
+swiss cheese
+tangled
+key west
+cozumel
+port everglades
+building-blocks
+sir and sis
+kendal
+diffusion processes
+collective inuencers
+neurological disorders
+biographical fact
+orphanages
+guanine
+phosphorylated
+oncogene
+fake news
+fake and real news
+buzzfeed
+news satire
+alternative media
+web syndication
+perjury
+contempt
+negligence
+counterclaim
+news article
+paywall
+dictionary based
+personal pronoun
+hop-count
+world-wide
+asic
+decisiondriven execution
+version november
+decisiondriven resource management
+arbitration
+online- analytical processing
+elta
+delay/tolerant networks
+decathlon
+brain networks
+isan

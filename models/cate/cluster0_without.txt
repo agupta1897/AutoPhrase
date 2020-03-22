@@ -1,0 +1,3422 @@
+~~~~~~~~~~ Category0 ~~~~~~~~~~
+
+ii
+connected subgraph
+node set
+edge set
+path weight
+random variable
+solution
+stochastic contact process between
+ap
+sigmoid function
+min max
+function
+knapsack problem
+bernoulli
+loss of generality
+arg min
+arg max
+max max
+max max max
+ad
+icp
+boolean
+partial order
+edge eij
+ep
+xk
+qs
+sk sk
+xj
+ai
+variable
+ab
+wd wd
+property
+prt
+pmin pmax
+tl
+df
+subscription lter
+authorization key
+encryption key ke
+resilient network
+tree
+root
+subset
+partition
+tuple
+ss
+hash function
+special token
+sequence
+sp
+pkp
+key kf
+key tree
+key ke
+bits
+symbol
+bsf
+disjunctive normal form
+dj
+event ei
+dene
+integer
+iai
+tw
+minn
+hp
+ni nj
+nj
+nonce
+entropy
+exponentiation
+hashes
+current timestamp
+nk nk
+aggregate network
+cost incurred
+numerical methods
+directed graph
+cartesian
+ui uj
+vi vj
+ui uj and vi vj
+undirected graph
+matrix form
+tt
+weight matrix
+diagonal matrix
+closedform solution
+matrix exponential
+initial conguration
+initial condition
+previous state
+maximum length
+key parameter
+cosine distance
+vector
+conditional entropy
+joint distribution
+kronecker
+td
+fi fi
+vi and vj
+ui ui
+diagonal elements
+activation probability
+posterior probability
+dd
+weight matrices
+canonical form
+matrix multiplications
+cardinality
+mn
+solutions exist
+diagonal element
+emi
+nilpotent
+qq
+xi xi
+qi
+block matrix
+jth column
+column vector
+multiplication
+block diagonal
+eigenvalue
+mi mi
+indicator function
+matrix multiplication
+ease of exposition
+computable
+ki ki
+approximant
+bipartite graph
+uniform weight
+jaccard similarity
+bs
+derivative
+positive integer
+real number
+optimization problem
+pki
+ds
+mc
+optimal solutions
+distribution function
+direct consequence
+outer bound
+utility functions
+network utility
+concave function
+max
+maximal clique
+lagrangian
+step size
+utility function
+marginal utility
+auxiliary
+lpf
+optimal solution
+nc
+blind trust
+rl
+linear order
+ordered pair
+ttcid
+disjunction
+tx
+ru
+ys
+movement sequence
+complex plane
+polynomial
+ti
+relative timestamp
+probability distribution
+contour line
+dft
+complex numbers
+estimator
+quadratic function
+kth
+categorical distribution
+sl
+distribution matrix
+current iteration
+arg maxk
+closed swarm
+forward closure checking
+cdb
+cti
+object oj
+lemma shows
+maximal timeset
+oc
+preorder
+ctj oi
+tmaxo tmaxo
+tmaxo mint
+object oi
+ctj ctj oi
+tj tmaxo
+child node
+rst determine
+eps
+object set
+recursion
+dc
+markov
+bellman
+spd
+indi
+pm pm
+routing problem
+iwi
+expected utility
+oracle
+objective function
+total loss
+linear function
+kl
+va and vb
+dvb
+random variables
+ge
+transition probabilities
+na na
+closed form
+update rule
+na nb
+random process
+hyperplane
+trna
+tna
+tn
+rewrite eq
+ith entry
+kn kn
+linear equation
+power set
+na nbn
+na nbn na nbn
+nbn na nbn na nbn
+na nbn na nbn na nbn
+nim
+takes values
+nt
+nn nn
+nb na
+nonzero entry
+initial state
+oln
+square matrix
+qc
+xed point
+initial congurations
+monte carlo simulation
+beta distribution
+special case
+axiom
+union
+rhs
+substituting eq
+pi qi
+nm nm
+algebra
+monotonically increasing
+monotonically decreasing
+quadratic equation
+eeg
+hz
+cn
+cz
+laplacian
+currentow betweenness
+network laplacian
+langevin equation
+cil
+eigenvectors
+eigenvector
+spectral decomposition
+steadystate width
+sufciently large
+coupling matrix
+adjacency matrix
+weights wi
+mf
+stationary distribution
+vi vi
+vst
+vt
+edge cost
+positive values
+ci ci
+st st
+ici
+total weight
+previously dened
+edge weighting
+ci cj
+kiz
+pkr
+integral
+link weight
+laplace
+characteristic equation
+largest real
+inequality holds
+scaling function
+kx
+kpk
+tour
+abb
+dx dx
+dk
+mini
+dt dt
+memoryless property
+error function
+row and column
+eu
+sps
+cd
+transformed graph
+dijkstras algorithm
+fibonacci
+cb
+total power consumption
+mass
+alphabet
+merge operation
+gn nn
+cidr
+log
+prg
+arbitrary graphs
+
+jth element
+sj
+drawn independently
+rst compute
+conditional probability
+lnp
+total coverage
+jp
+dv
+zf
+dl
+regularization term
+weight vector
+xz
+mx
+rn
+multivariate gaussian
+covariance
+random vector
+feature vector
+regularization parameter
+fm
+decision problem
+minimization problem
+loss function
+max
+hinge loss
+ib
+wc
+learning frameworks
+tth iteration
+current estimation
+wt arg
+convex function
+nondecreasing function
+solved efciently
+cutting plane algorithm
+solving eq
+dual formulation
+dual variables
+normalization term
+polyhedral
+linear constraints
+solve eq
+global minimum
+acyclic
+hidden variable
+feature functions
+word pair
+constrained optimization problem
+latent variables
+sources asserting
+source makes
+true claim
+mutual exclusion
+weighted graph
+gradient
+integrated network
+jni
+topic label
+pna
+continuous function
+chebyshev
+strictly positive
+orthogonal polynomials
+equation shows
+iteratively update
+smallest distance
+weierstrass
+arbitrarily small
+linear equations
+density function
+approximation bound
+strictly decreasing
+gg gg
+allocation algorithm
+space complexity
+optimal allocation
+theorem shows
+linear combination
+ei ei
+end while return
+gaussian kernel
+xi and xj
+pq
+proof of theorem
+fi and fj
+unit vector
+fx
+xr xs
+real numbers
+belief space
+aggregation operator
+mutually independent
+relative weight
+inputs and outputs
+prior distribution
+sr sr
+xr xsdx
+rs rs
+lp
+belief function
+holds true
+theorem establishes
+xr xr
+xs xs
+dened in equation
+proof sketch
+proof
+xt xt
+learning rate
+wiener process
+rsi
+ln ln
+pi pi
+dx ln
+rsc
+lim lim
+ct ct
+international federation for information processing
+cidn
+nl
+hypergeometric distribution
+end for return
+iid
+ith node
+remote transmissions
+delay constraints
+exact solution
+composite graph
+tr tr
+ncid
+connected graph
+pnp
+fully contained
+outgoing edge
+tcid
+minimum size
+linear program
+edge explorer
+atp
+tv
+dual graph
+sn sn
+xn xn
+xn sn
+generating function
+prr
+cids
+weight function
+transition probability
+easily obtained
+bp
+brillouin zone
+vvv
+visited node
+pt qt
+opinion vector
+nonzero entries
+substitute
+optimal conguration
+weight wi
+vc
+simultaneous equations
+vertex set
+dot product
+transition probability matrix
+occurrence probability
+observation sequence
+transpose
+penalty term
+viterbi algorithm
+kullbackleibler kl
+gm
+ergodic
+contact pattern
+ni ni
+indicator variable
+min min
+proof of lemma
+section vb
+arithmetic
+interested node
+fs
+attribute vector
+kullbackleibler kl divergence
+discrete distribution
+ect
+differential equation
+dsi
+sug
+piecewise
+mass balance
+nibf af
+cidnn
+tk tk
+gi vi
+total length
+ij ij
+ij
+standard normal distribution
+potential functions
+unknown variables
+pairwise potential
+ur
+vj vi
+node vi
+conditionally independent
+joint probability
+gk
+indicator variables
+feature function
+pairwise potentials
+eij vi
+assumption holds
+potential function
+yj yi
+log likelihood
+marginal probability
+trp
+successfully identied
+yi yj
+andy warhol
+first order logic
+recall precision recall
+asymptotically onehop precise
+can can
+ttp
+attack path
+onehop precise
+condition holds
+btk
+gu
+attribute vectors
+ain
+boolean function
+gsk
+modularity matrix
+ki kj
+aip
+accepted edges
+edge eu
+maximum size
+tu gk
+added edges
+excess degree
+lcid
+cidk
+polylogarithm
+word sequence
+similarity score
+possibly nonconsecutive
+apriori pruning
+backward pruning
+subroutine
+pti
+additional constraints
+additional constraint
+threshold parameter
+proper subset
+labeling function
+injective function
+subgraph gcid
+feasible solution
+matching candidates
+induced subgraph
+kneighborhood subgraph
+vertex labels
+ncid
+path tree
+sc sc
+ok
+path connecting
+kk kk
+vv
+edges linking
+input query
+end procedure
+end function
+vertex vi
+rst prove
+ipu
+equivalence classes
+edge types
+iteration number
+document di
+multinomial distribution
+cidg
+dcid
+
+maximum likelihood estimator
+dirichlet
+conjugate prior
+ij
+zn
+diw
+ijn
+hidden variables
+cidn ij
+iicid
+lagrange multipliers
+arbitrarily close
+arbitrarily large
+exp exp
+harmonic function
+vertices representing
+udi
+estep and mstep
+loglikelihood function
+posterior probabilities
+pn pn
+complete likelihood
+newtonraphson method
+updating formula
+delta function
+mapping function
+cluster label
+pci
+arbitrarily selected
+eigen decomposition
+anomalous score
+object xi
+section iia
+combined graph
+edge weighted
+large positive
+ncid
+smallest eigenvalues
+object si
+au
+row vector
+zij
+sparse matrix
+ui and vi
+disjoint subsets
+physical meaning
+iteratively compute
+types of data objects
+xm
+relation matrix
+pth
+unlabeled objects
+repeat steps
+xp
+positive constant
+network gt
+bayes rule
+iter
+lxi
+iterative solution
+cluster membership
+multiset
+cida
+conditional distribution
+dimensional vector
+parameter set
+membership probability
+random matrix
+generative probability
+node vj
+cross entropy
+mcid
+identity matrix
+update rules
+remaining objects
+gamma function
+kkcid
+cidkk
+kcid
+ik ik
+digamma function
+hessian
+ncid
+acid
+membership vectors
+composite relation
+relation holds
+path instances
+path count
+path instance
+px px
+commuting matrix
+mii
+mp
+innite length
+precomputed and stored
+main diagonal
+nonzero elements
+query vector
+jaccard coefcient
+mink
+klf
+cv cv
+tuv
+uv
+column vectors
+rst derive
+output topk
+return topk
+linear combinations
+cauchy
+orthogonal matrix
+largest eigenvalue
+spider
+labeled graph
+detailed pseudocode
+bq
+previous iteration
+es es
+threshold output
+expected prediction error
+expected error
+trl
+easy to verify
+number of unlabeled examples
+qut
+mcid
+nncid
+qt qt
+lcid
+matrix inversion
+smallest eigenvalue
+cvt
+vvt
+computed eciently
+aggregated distance
+global heap
+matching pairs
+matching pair
+shortest matching pair
+individual heap
+fullmatching candidates
+fullmatching candidate
+candidate trajectory
+qb
+mbr
+attribute type
+subgraph gv
+nci
+cluster assignments
+prior probability
+cluster ck
+weighted sum
+cluster cj
+level level level
+neighbor set
+weighted summation
+future interval
+adjacency matrices
+easy to check
+training pairs
+binomial distribution
+restart probability
+cidtt
+factor function
+vi to vj
+factor functions
+marginal probabilities
+observed data
+yi yi
+dependency graph
+input output
+uf
+ksci
+variables vi
+dened similarly
+yt yt
+zt zt
+sil
+local update
+maximum number of iterations
+person node
+pattern nodes to person nodes
+wv
+nodes to person nodes
+symmetric matrix
+matrix representing
+multinomial distributions
+word wi
+cimp
+pi pj
+termination condition
+indicator vector
+rt rt
+task phrase
+gq
+row and jth column
+diagonal matrices
+jwt
+ut ut
+algebraic
+lwt
+positive semidenite
+positive denite
+cidpp
+submanifold
+pj pj
+binned information gain
+log
+nmcid
+bi ai
+bt bt
+concept vector
+ad concept
+ce ce ce
+concept space
+unknown parameters
+waya
+ayat
+zx
+end end
+frobenius
+trat
+xi xj
+wy
+unique solution
+sba
+scatter matrix
+simply set
+trivial solution
+cluster assignment
+rnc
+assignment matrix
+diagonal degree matrix
+graph regularization
+regularization parameters
+svt
+scale parameter
+log log
+cuboid
+condensed vertex
+ith dimension
+equivalence class
+base cuboid
+ov space
+set cover problem
+cw
+summary graph
+disjoint sets
+dieren
+fact table
+lapd
+computed from lpre
+noise variance
+aik
+base cells
+randomized algorithm
+xi yi
+independent random
+squared error
+ 
+unbiased estimator
+cccid
+bound max variance
+vertex cover
+set cover
+approximation guarantee
+dll
+sum of squared
+absolute difference
+generated independently
+linearity of expectation
+edge ei
+approximation ratio
+independent and identically distributed
+prove theorem
+kernel function
+importance scores
+pt pt
+updating process
+power iteration
+subsequence
+result list
+pcl
+pzl
+bayes theorem
+zz
+prd
+pldt
+pwr
+wwd
+tld
+bayesian information criterion
+nh
+document length
+trustworthy source
+monitoring sensor set
+conditional alarm trustworthiness
+alarm trustworthiness
+rat
+end return
+sds
+supporting cuboid
+cluster center
+supporting cells
+nearest cluster
+qr
+pcm
+cooccurrence frequency
+iteratively updates
+update equations
+nz
+end end end
+topic zd
+word wd
+vw
+transition matrix
+mk mk
+uw
+pyx
+update equation
+links separately
+indicator matrix
+data object
+yk yk
+normalized graph laplacian
+ij ni
+repeat step
+step takes
+ubs
+xx xx
+coverage problem
+nonnegative integers
+conditional expectation
+opera
+upper case letters
+gmt
+root mean square error
+square error
+budget constraint
+belief state
+propositional logic
+nonlinear function
+orm
+omitted for brevity
+cost function
+identity function
+umc
+breaking ties
+topic proportion
+symmetric dirichlet
+cited author
+posterior distribution
+parameter sets
+nw nw
+wi wi
+mi and mj
+logical form
+ei ej
+mentions mi
+perfect knowledge
+input sentence
+similar steps
+equation and equation
+achievable throughput
+longrange contact
+perpendicular
+crn
+ipn
+nonnegative real
+normalizing constant
+vt vk
+positive number
+xl vk in sl
+vk vk
+udu
+law of large numbers
+similar procedure
+power factor
+frame size
+driftpluspenalty ratio
+random events
+renewal frame
+desired constraints
+average power constraints
+control actions
+random event
+jensens inequality
+lagrange multiplier
+virtual queue
+yr yr
+rrcid
+optimization objective
+ylt cl
+deterministically bounded
+conditions hold
+lebesgue
+dominated convergence theorem
+cidrr
+boundedness assumptions
+max min
+frame average
+virtual queues
+zr
+quadratic lyapunov function
+queue backlogs
+lyapunov drift
+control decision
+queue update
+ecid
+elz
+taking expectations
+rearranging terms
+strongly stable
+optimal utility
+resulting algorithm
+update update
+ratio of expectations
+ea
+bisection
+exponentially fast
+lemma implies
+convex hull
+network controller
+power expenditure
+average power constraint
+power allocation
+queue stability
+utility derived
+optimal stopping
+optimal decision
+task arrives
+qoi state
+nite set
+nonnegative values
+processing cost
+control action
+renewal period
+control policy
+max a
+task arrivals
+geometrically distributed
+maximum slope
+stopping rule
+similar arguments
+v 1
+cost minimization
+ov utilitydelay tradeoff
+performance region
+average delay
+eventually depart
+littles theorem
+current network state
+st si
+set si
+xsi si
+si si
+queue backlog vector
+network state st
+rit
+packet arrivals
+service rate
+deterministic problem
+network backlog
+dual problem
+dual function
+cost functions
+similarly dened
+number of departures
+theorem suppose
+lim inf
+theorem states
+main result
+countably innite
+qjt bj
+backlog vector
+titfortat constraints
+randomly arriving
+current topology
+slot lookahead
+uplink transmission
+throughput utility
+ant
+idle period
+decision variables
+transmission decisions
+sample path
+cidn
+rmn
+nn
+worstcase delay
+the rst kt slots
+slot lookahead problem
+decision variable
+nkt
+kt tcid
+kt kt
+util kt
+nncid
+lyapunov function
+lt lt
+cidnnn
+queue updates
+rate stable
+utility performance
+nnncid
+tncid
+nkcid
+lim supt
+smallest integer
+modied algorithm
+aran
+ow control
+pn ipr
+proof omitted
+maximization problem
+onr
+el al
+steadystate distribution
+inequality constraints
+pk pk
+kpn
+edge lengths
+independently with probability
+cut model
+soa
+failure model
+bi bi
+expected routing
+cidt
+cidm
+stationary probabilities
+xf
+rvs
+notational convenience
+prs
+tighter bounds
+edge cost models
+poset
+
+iterative computation
+ert
+ztt
+tm tm
+cidmm
+ix ix
+ais
+ucid
+tsn
+characteristic function
+applying lemma
+harvestable energy
+mesa
+strictly concave
+ht ht
+unit size
+routing and scheduling
+rst obtain
+stationary and randomized
+ekcid
+equality constraint
+positive weight
+deterministic bound
+rate vector
+suciently large
+appendix proof of theorem
+actual queues
+prove lemma
+tcid
+ieee transactions on automatic control
+minimum spanning tree
+connected dominating set
+connected dominating set cds
+spanning tree
+the networkwide broadcast problem
+cds problem
+error probability
+cubic graphs
+unit disk
+nonroot node
+cidkcidkcid
+approximation factor
+uj uj
+kkkcid
+counting measure
+np complete
+problem instance
+sscid
+op op
+op op
+abstract simplicial complex
+simplex
+tetrahedra
+betti number
+minimum connected dominating set
+weight functions
+propagation path
+polyhedron
+chromatic number
+minimum spanning problem
+propose two approximation algorithms
+minimum connected set cover problem
+minimum total weight
+connected spanning subcomplex
+nonnegative weights
+nodeweighted steiner tree problem
+nonempty subset
+nonnegative weight
+connected set cover
+minimum connected set cover
+mcsc problem
+wf ws
+weighted mcsc problem
+weight ratio
+maximum weight
+steiner tree
+weight ws
+channel coding
+tautology
+logical probability
+shorthand
+source coding
+shannon entropy
+coding length
+message length
+english units
+lossy source coding
+coding scheme
+equivocation
+sampling scheme
+ribeiro and towsley
+network contribution game
+nash equilibrium
+network formation game
+price of anarchy
+success probability
+credit allocations
+symmetric bilateral
+transaction success probability
+differentiable
+fec
+nash equilibria
+differentiable function
+detailed balance
+gec
+expected cost
+btu
+stv
+pure strategy
+correlated equilibrium
+modied greedy algorithm
+iteration ij
+nij nij
+nij nij nij
+simple formula
+gn gn
+high correlation
+bulletin board
+pure strategies
+aac
+equilibrium strategy
+probing model
+hpv
+social cost
+entropic
+gibbs free energy
+invariant measure
+nonempty subsets
+conditional independence
+knapsack constraint
+source document set
+relish
+common information
+housing market
+mba
+sat
+rap
+pap
+welfare state
+corporate law
+larissa
+composite function
+normalized spectral clustering
+asi
+detailed implementation
+nick grinde
+ags ags
+agi trusts agj
+agj tragi
+agent agi
+natural deduction
+mary mary
+argumentation graph
+acceptable argument
+acceptable arguments
+agi trusts
+trust argumentation
+set of agents ags
+csi
+logical equivalence
+preference order
+
+defeater
+counterexample
+satisfy property
+belp
+agent agj
+scaling factor
+agl
+cidv
+terminal vertex
+agentcentric trust
+agentcentric trust network
+inference rule
+terminal node
+intermediate conclusions
+argumenth
+trustextended proof network
+trustextended argument
+argumentation framework
+absolute deviation
+idg
+rule base
+arity
+return end
+trust matrix
+pmk
+user ui
+user sends
+ky
+messages exchanged
+canine
+keyword pair
+maximumlikelihood estimator
+urn
+sampled uniformly
+pvv
+stl
+pim
+edge potential
+description length
+outer products
+left singular
+typical pattern
+caf
+diam
+normalization constant
+alternating least squares
+location parameter
+temporal feature
+exe
+message vector
+creation date
+nlds
+rst eigenvalue
+bold letters
+calligraphic
+undirected unweighted
+jth column of matrix
+pt pt pt
+pt gpt
+asymptotically stable
+jacobian
+spt
+lemma and lemma
+perturbed matrix
+pba
+stationary probability
+pmi
+connectivity matrix
+pi and pj
+pis
+yn xn
+micro macro micro macro
+group anity
+index set
+end figure
+unm
+incoming edge
+adjacent node
+pli
+inverted list
+hoeding inequality
+bounded random variables
+remaining parameters
+dvt
+dvi
+prtb tx vi
+vj tx vi
+ith element
+target node
+kb prpal
+markov property
+maximum number of steps
+break end
+step step
+ote
+central limit theorem
+chosen independently
+vim
+hhop neighbors
+agu
+clique problem
+nll
+agf
+cost threshold
+matching cost
+uil
+sorted lists
+rst computes
+vertex sets
+incidence matrix
+hwv
+di di
+wt wt
+topic proportion priors
+ws ws
+variational distribution
+dtm
+variational parameters
+taylor expansion
+partial derivatives
+partial derivative
+mvs
+query covers
+minimal query
+easily computed
+seed vertex
+sampled vertices
+ccg
+maximal subgraph
+minimum weighted
+xt and yt
+crm
+phylogenetic
+exponentially weighted
+
+ 
+ik jk
+ 
+sin
+endtoend latency
+workow fi
+equivalent uniprocessor
+suni
+current tasks
+uef ect
+kfi
+ac discounting
+capacity bound
+   
+trace norm
+singular values
+maximum iteration number
+nuclear norm
+sample weights
+training instance
+weighting vector
+quadratic programming
+dimensional feature vector
+hypercube
+yc xc
+efciently computed
+minx
+arj
+nextstep
+natural logarithm
+cost ci
+weighted error
+importanceweighted error
+implicit assumption
+uj qj
+uj qj pij
+maximum weighted
+residual density
+submodular functions
+output variable
+parameter vector
+training sample
+stacked graph
+highest priority
+social standing
+directed edge
+rmt
+necessarily implies
+npc
+gi gj
+negative sample
+final fantasy
+directed weighted graph
+logistic function
+weighted adjacency matrix
+pit pit
+indicator random variable
+minconn decision version
+unweighted graph
+matrix perturbation
+left eigenvector
+nonincreasing function
+gx gx
+oker
+table table of symbols
+pig
+rnvr
+lets assume
+input edge
+ecl
+naive algorithm
+dense matrix
+power method
+hadamard product
+ith column
+residual matrix
+grl
+rank approximation
+global optimal solution
+outer loop
+lrt
+topk edges
+dmin
+initialization step
+feature matrix
+cidxx
+fgfgcid
+ 
+nonnegative integer
+ak ak
+nmf nmf
+log bits
+algorithm requires
+fret
+ascii
+commutative
+sst
+rpr
+wku
+generator matrix
+backtracking
+noncommutative
+transition matrices
+jth entry
+asso
+ua
+symmetric subsets
+connection graph
+linear operator
+kcid
+stationary rw
+power series
+orthogonal complement
+connection graphs
+symmetric graph
+positive integers
+asymptotically unbiased estimator of
+rewrite equation
+random uniform
+ga gb
+connected and nonbipartite
+nicole kidman
+phrasal verb
+partial results
+data selection
+ddcid
+omd
+kirchhoff
+active neighbor
+odi
+cc cc
+constrained composite broadcast time
+path stretch
+constrained composite path stretch
+path of length
+distance matrix
+probability mass function
+balloon graph
+ddimensional space
+pkm
+locally weighted
+recursive equation
+marginal distribution
+discrete random variable
+propagation matrix
+cixi
+dst
+requires ov
+sids
+basis vector
+basis vectors
+input matrix
+orthogonality
+matrix elements
+distributed cache
+takes om
+om log
+tnt
+dynamic program
+functions dened
+local optimum
+covariance matrix
+expectation step
+maximization step
+sparsity constraint
+conjugate gradient method
+matrix letter
+dada
+analytical solution
+gi gi
+draft of final version for ieee
+controller makes
+stage decision
+draft draft of final version for
+queue dynamics
+service rates
+makes decisions
+subject to queue stability
+throughput vector
+transmission success
+possibly randomized
+cidt
+driftpluspenalty expression
+eyl
+proof see appendix
+ectt
+yopt opt
+minimum and maximum values
+el
+mcid
+iterated expectations
+driftpluspenalty algorithm
+choose kt
+exploration event
+independently choose
+kinferred exploration
+current queue backlogs
+maxweight learning algorithm
+exploration probability
+queue state
+queue updates update
+newly arriving
+max weight
+total occupancy
+mmcid
+kk
+kk kt
+ekt tkt ekt
+tkt ekt
+source asserts
+cwi
+evidence score
+source si
+assertion cj
+claim cj
+credibility vector
+sum of squares
+sik cj
+sik cjc
+sik cjc sik
+sik cj sik
+lix
+si claims
+scale factor
+sik cjc sik cjc
+vcu
+coded packets
+contribution gain
+mixed integer programming
+replication solution
+mncid
+vj vj
+packets of data item
+fyi
+jn
+dga
+allocation problem
+caching benet
+linearly independent
+cbi
+cbj
+appendix proof of lemma
+yt xt
+controller observes
+task scheduling
+linear fractional
+processing mode
+frame sizes
+cidkkk
+balance equation
+krk
+max weight learning
+gr gr
+sum utility
+mt dmt
+mt mt
+nite maximum
+bst
+supremum
+mmcid
+qm qm
+blm
+jmt
+bandit problem
+network capacity region
+primary user
+performance region int
+round robin
+time sharing
+convex program
+easily solved
+queue qnt
+real values
+active channels
+round robin policy rr
+round robin policy
+active channel
+policy rr
+randrr policy
+rr policy
+randrr policies
+transmission round
+qrrnum policy
+grt
+policy randrr
+round of transmission
+optimal joint
+elsevier performance evaluation
+boundary point
+symmetric channels
+data rate
+symmetric case
+convex combination
+bound int
+broken arbitrarily
+ 
+inn
+qn qn
+scheduling and routing
+jst
+ecidf qtcid
+wjr
+demand queue
+qj qs
+nps
+npd
+queue edge
+additional terms
+temporal subgraph
+heaviest dynamic subgraph
+ot logt
+heaviest subgraph
+edgeweighted graph
+edgeweighted graphs
+
+dominating graph
+internal node
+steiner tree problem
+ox
+genetic algorithm
+cnt
+query fragment
+quality function
+win win
+slight modication
+ipsc
+fi fj
+mental image
+length vector
+unifying guiltbyassociation approaches
+detailed proof
+yi xi
+effective strength
+
+psm
+spectral radius
+spv
+ocn
+qvt
+om om
+copra cfinder
+fuzzy overlapping
+geographical coordinates
+dci
+kronecker delta
+timeinvariant dynamics
+input vector ut
+rank condition
+structurally controllable
+selfconsistent equations
+sf sf sf
+lcl
+lx
+heaviside step function
+mutually reinforcing
+ska
+backward aggregation
+ppv
+approximate qscore
+fa pfa
+du dv
+neighborhood similarity
+strictly increasing
+anomaly score
+dvr
+caps
+pdm
+submodular function
+asymptotic normality
+cramerrao bound
+participant si
+matrix sc
+mncid
+likelihood function
+zj zj
+sicj log
+estimated parameter
+fisher information
+score vector
+pzj xj
+le
+lem
+estimation parameter
+standard score
+constrained hierarchical aggregate classication
+nonleaf node
+afn
+fwd
+weight balance
+weight summation
+decision set
+wwi
+sion
+thr
+distance vector
+jcd
+cluster centroid
+mir
+igy
+ps ps
+dark circle
+total order
+end node
+input adjacency
+set construction
+s scid
+sscid
+sscid
+xi xk
+diagonal degree
+kernel matrix
+tvt
+quadratically constrained linear programming
+projected gradient descent
+equality holds
+sparse linear
+notation explanation
+speed and direction
+pyt
+xt xi
+pbr
+incomplete gamma function
+topk dimensions
+ati
+aggregated dimension ai
+relevance function
+idv
+pdc
+dfw
+llb
+oa
+ro
+pun
+nit
+oi oi
+gfl
+weighted undirected
+subtree rooted
+oi and oj
+arri
+takes od
+od log
+func tion
+pv pv
+african buffalo
+cs and ct
+updating rule
+cs cs
+complex number
+pause pause
+times times
+plk
+total social return
+ground state
+ground states
+quadratic form
+average set size
+lu lu
+sorted in descending order
+weight increase
+weight decrease
+edge insertion
+shortest hyperpath
+emg
+hyperedge deletion
+wnew
+affected vertices
+hyperedge weight
+coloring process
+nonred neighbor
+kz
+tdc
+   
+
+  
+ 
+   
+ 
+ 
+ 
+
+ 
+  
+  
+  
+ 
+     
+implicitly assumed
+   
+ 
+   
+   
+  
+   
+ 
+rba
+rbb
+branch distributions
+kata
+maple
+tor
+kakb kakb
+anode
+klc
+kaa kbb
+attack relation
+conclusion support
+argument g
+lhc
+modus ponens
+normal order
+cido
+lk lk
+logarithms
+rangelimited centrality
+bls
+leading term
+dirac
+noise distribution
+kj ki
+bl bl
+bi bj
+directed paths
+routing rule
+strictly proper scoring
+routing scoring rule
+routing process
+ssk
+hamiltonian path
+backward induction
+minmi
+local reasoning
+hsv
+osi
+inode
+bkn
+ncid
+uu uu
+cluster number
+dcu
+fsu
+oas
+imax
+proles
+benecial deviation
+ecient nash
+voting rule
+weighting function
+bijective
+xxcid
+rajput
+upmc
+bsn
+nrg
+average distance
+checksum
+auditor
+step function
+row or column
+in grid
+emoticon
+scale invariance
+ship transport
+davis county
+dimensionless
+irs
+rsrc rsrc
+rtransmitter lying
+erlang
+type mapping function
+geometric model
+realized demand
+allocation rule
+perturbed bids
+hoeffdings inequality
+document ti
+estimated frequency
+cidw
+japanese prime minister
+object dj
+ui dj
+yb
+ck ck
+ri and rj
+ri ri
+wi wj
+pfp
+expertise space
+awareness coecient
+dominance relation
+query dag
+simi
+aba
+tet
+stationary solution
+matching score
+video transmission
+terminating state
+togo
+path computation
+yuv
+second rate
+communication overhead
+aira
+chc
+relay transmission
+input queue
+relay queues
+queue knt
+uplink queue
+relay queue
+qnt and jnt
+sq sj
+queue jnt
+format fnt
+feasible sets
+total quality of information
+quadratic policy
+kn qn
+sq qn
+qn sq jn
+jn sj
+qn sq
+sq pmhn
+kn qn jn
+latent state
+probot
+maxxi
+kmt
+ij ij ij
+ijt ij
+ntc
+busy period
+queueing delay
+polytope
+dynrate policy
+snp
+spatial coordinates
+directly density reachable
+companion candidate
+bi and bj
+canids
+atypical records
+total severity
+algebraic function
+merge merge
+merge merge merge merge
+wk ij
+data point
+accelerated proximal
+tuning parameter
+jel
+pea
+background topic
+okw
+conditional distributions
+uniform prior
+unit interval
+taylor series
+ne ne
+step update
+pspace
+regret bound
+bandit problems
+psn
+ij ln
+cp bq
+pssi
+cp bq cp
+jcp
+bq cp bq
+cp cp
+bna
+sigmoid
+kenny rogers
+main-memory
+np-completeness
+lower dimensional
+rtp
+residue matrix
+point xi
+matrix rnn
+trf lf
+augmented lagrangian
+vari
+monitoring graph
+rsp
+iverson bracket
+line segment
+event span
+pts
+symmetric difference
+continuous spectrum
+log px
+block coordinate
+qh log
+ihi
+emission probabilities
+log likelihood function
+total number of experts
+osi model
+len bytes
+ip ip
+ip ip ip ip
+amine
+true fact
+ldt process
+source sj
+tron
+hypersphere
+eet
+dekalb county
+mclean county
+tbi
+maximum score
+rooted hs
+partial observation
+bounded consistent tree
+consistent tree
+perfect consistent tree
+perfect consistent
+rst initializes
+single source
+stable steady-states
+firstorder phase transition
+pcp
+auv
+label update
+gt gt
+mw qd
+nkt rt
+optimization goal
+user observes
+akt
+expert ei
+optimal disguised attack
+direct individual attack
+individual attack
+xi pi
+geometric series
+puk
+suv
+weu
+xi xi xi
+suppose xi
+pbb
+bin packing
+phg exp
+hg hg
+aif
+arli
+ij aij
+aij aij
+antiferromagnetic
+djm
+expertise vector
+nal scores
+strongly nphard
+onesided delay
+yi jt
+zi jt
+nontardy scheduling
+unary
+code word
+code table ct
+code words
+fp fp
+set of code tables
+encoding cost
+ct ij
+unique rows
+code tables ct
+ci and cj
+constant cost
+steiner trees
+dpt
+klevel tree
+red circles
+cofactor
+backward random walk
+query item
+wuc dcc
+wqc qqq
+wuc quu
+wqc qqq wuc quu
+cooccurrence monotonicity
+tcm
+wqc wqc
+wqc wuc
+wqc wqc wuc
+ccidc wqcwuc
+quu wuc
+satises ancm
+wuc wqcwuc
+qqq quu
+ccidc wqc
+wvc qvv
+quu quu
+ccidc
+wuc wqc
+wqc qqq wuc dcc
+rws satises
+wqc wuc
+qqq wqc
+qqq qqq
+dcc dcc
+dcc wqc
+cidwu
+periodic function
+typical sequences
+lds
+khatri
+khatrirao product
+outer product
+factor matrices
+unit norm
+input tensor
+ct bt
+convergence criterion
+xc
+computing xc
+intermediate data size
+afnity scores
+normalized laplacian
+whb
+signature similarity
+atypical connected
+ebs
+micro set
+ms windows
+hash lookup model
+atn
+greedy selection
+ptcid
+primary partition
+complementary partition
+collection problem
+cp dp
+source symbols
+pmx mx
+hmx
+distribution px
+typical set
+source coding theorem
+disjoint union
+olive
+cvo
+split and merge
+egm
+decay parameter
+atb
+aadt
+sif
+partitioning tree
+erg
+real valued
+betar
+extends credit
+feasible path
+pure nash equilibrium
+transaction regime
+uvs
+transaction success
+feces
+dus
+poa
+joint strategy
+axij aixij
+ln px
+conjugate transpose
+xx
+xkj xlj
+asymptotic crlb of bi
+asymptotic crlb of ai and bi
+versus source removal of
+aix
+bix
+gie
+scaling factors
+uv ij
+kakuei tanaka
+makiko tanaka
+unlabeled set
+ith token
+initial credibility scores
+sdi
+dtd
+
+afnity matrix
+bid values
+greedy forwarding
+dirac delta function
+kj ki kj ki kj
+ki kj ki kj ki
+ki kj ki kj ki kj
+njt
+cheesecake
+net net
+beta function
+linear timeinvariant dynamics
+umg
+frame averages
+number of nonzero entries
+xai xai
+bjp
+euclidean distance
+cbt
+esrc
+euler
+grounded extension
+tpm
+dempsters rule
+frame of discernment
+local belief
+object seeds
+metapath pm
+bms
+membership vector
+hidden layer
+target object
+national resistance army
+nra
+outlierness score
+stationary point
+argument scheme
+trustor and trustee
+tangent
+covariant derivative
+squared loss
+orthonormal basis
+minimize eq
+wlw
+ball of radius
+cky
+nonconformity
+smoking ban
+power distance
+femininity
+signal propagation
+failure models
+characteristic polynomial
+ncid
+synchronized state
+ 
+autocorrelation function
+dt
+ordinary differential equation
+ugt
+expat
+analytic function
+winding number
+pk kin
+kkk
+observed links
+hku
+kkinpk kin
+average indegree
+pk xk
+minimum cost subgraph matching
+matching cost function
+optimal match
+injective
+mgh
+inference cost
+candidate cover
+dq nq
+funding games
+funding game
+nash equilibrium strategy
+valuation function
+valuation functions
+strategy prole
+oam
+swv
+vik
+fia
+hedsp weight
+abstract data type
+cmi
+destination vertices
+dui
+enqueued in step
+descendents
+disk hypergraphs
+nested backward induction
+thinnest path
+disk graphs
+xul
+coni
+rt rs rt rs rt rs
+erdosrenyi graph
+kek
+low power dynamic scheduling for computing
+power constraints
+task scheduling with processing rate constraints
+mk ik
+ndk ik
+qk qk
+ik nk
+constraint violation
+optimal action
+action set
+mb mb
+btr
+rademacher complexity
+empirical transductive rademacher complexity
+transductive rademacher complexity
+trh
+directly road connected
+road network distance
+pcu
+pvc
+pwc
+predictive probability
+concentration parameter
+primate
+nzd
+sampling distribution
+intuit
+ael
+prediction function
+deterministic function
+eigenfunction
+sobolev space
+ready to prove
+deneb
+reproducing kernel hilbert
+sso
+cws
+periodic distribution vector
+vector pt
+periodic distribution vector pt
+discrepancy score
+abuse of notation
+periodicity measure
+pt ft
+ijt pt
+ft ijt
+edt
+decision task
+objective coefcients
+solid edge
+dxi dt
+perturbative
+kinetics
+mutual neighbors
+nrw
+number of mutual neighbors
+vi ak
+ak mu
+sek
+number of mutual neighbors knmsek
+of mutual neighbors knmsek
+lcc of wikivote ids
+lim lim lim
+xt axt
+roots of fx
+riemann
+mna
+differential form
+maximal independent set
+nnnncid
+actual crlb of ai
+ks ks
+emt
+coverage interval
+marginal coverage
+nq oq
+ 
+psni
+video quality
+cif
+competitive rate allocation game
+rate allocation game
+pr pr
+cr cr
+vhl
+countably infinite
+px log
+ai bi
+cidn
+si observes
+ij equaled
+normalized euclidean
+response variable
+cbca
+deltas
+dju gj et
+ 
+   
+     
+ 
+bpi
+kkt conditions
+
+ 
+ 
+pairs connected
+assignment vector
+dpj
+dni dnj
+link prediction problem
+lpr
+metapath ap
+mbt
+handicapping
+pga
+consensus matrix
+invertible matrix
+updating rules
+eec
+exchange rate
+tj tj
+adp
+dual subgradient
+transmission decision
+jk
+drift plus penalty
+quality mode
+mut
+dpp
+fully separable
+hpa
+sq jn
+knt max
+qd qd
+engen
+ztj
+ztj lt
+control input
+wi and wj
+analytic continuation
+xt ut
+input ut
+balance equations
+rate constants
+stoichiometry
+continuum hypothesis
+stoichiometric
+glycolytic
+glucose
+phosphate
+fructose
+adenosine
+adenosine diphosphate
+afi
+ged
+axl
+hydrochloride
+fop
+child topics
+eez
+frequent phrase
+contrastive probability
+cut size
+lower case
+lemma suppose
+triplet similarity
+dsw
+ddt
+label distribution
+coverage ratio
+minimum summary graph
+size bound
+merge cost
+gsa
+probabilistic models for clustering
+mixture component
+state transition
+bba
+decision deadline
+location level
+idw
+wba
+gdb
+interquartile range
+bjj
+anr
+object retrieval
+tipi
+object om
+group gl
+ljp
+dependent claims
+qrl
+ljn
+numerical stability
+subtractive
+link selection in networks
+icj
+prophecy
+negative relations
+scids
+relation distance
+relation cost
+check point
+kvi
+free energy
+def ault
+document label
+chain rule
+wdf
+riemann zeta function
+chernoff bound
+singular vectors
+rhi
+valid coloring
+color assignment
+smashed graph
+restricted graph
+tps
+ey ey
+tvi
+ssd
+vf vf
+sgp
+tree size
+ 
+player chooses
+bk bk
+sk sk sk
+source claim
+sicj cj
+  
+edge costs
+ip ip ip
+a mei
+bse
+deu
+tom gordon
+detection record
+nonresponding sensor
+valid detection
+watching sensor set
+responding sensor
+homologous record set
+intruder appearance
+sensor set
+homologous record
+add 
+matching probability
+cone area
+recent trajectory
+added edge
+complement graph
+minimization src
+enumeration algorithm
+hlm
+membership matrix
+fir
+hsn
+nhp
+metic
+frobenius norm
+vlt
+usn
+adaptive sampling algorithm
+bounding functions
+intermediate region
+trustor bias
+propagation step
+ro ro
+cdk
+end around
+cvs
+cce constraints
+mixed strategy nash equilibrium
+points inside
+wor
+egta inner loop
+expected payoff
+collaborative score
+link transmission delay
+slack variables
+llm
+polynomial time approximation scheme
+natural number
+aub
+broadcast problem
+unit weights
+ampl
+khoi
+minimum fragment cover
+fragment cover
+slice tree st
+pylorus
+naia
+gamma distribution
+kla
+esr
+weight loss
+bret
+original modularity
+jeout jej
+jein jej
+nodes in community ci
+ci ci ci ci
+cjc cjci
+jein jej
+contraction interedges expansion conductance
+iec
+jv
+dcm
+kbb kabkba
+direct current
+model of selforganized criticality
+socialcommunication composite networks
+bijection
+cvp
+chr
+network substrate
+axa
+mds problem
+subgraph class
+cis relationship
+knode cis
+knode cises
+node cis
+subgraph random walk
+cis consisting of nodes
+node cises
+maximum observed degree
+cidk dcidd
+ld ll
+chromosomes
+interaction matrix
+nump rocs
+mm
+mm pp
+pp
+pp pp
+contraction interedges
+source constraints
+cj sicj
+observes cj
+cj cj
+claim matrix
+otodv em
+yg
+edge matches
+gvvv
+open set
+rann
+sump
+minsk
+tks
+czm czm
+pe pi
+special functions
+frequent ow path
+frequent ow paths
+fili
+fiu
+yj xi
+ambiguity set
+gx and gy
+characteristic graphs
+characteristic graph
+xi yj ck
+worstcase codeword length
+exposed disk
+asymptotically tight
+vertex vj
+aul
+sphere packing
+gtk
+gaga
+gaa
+jumping graphlets
+random walk with restart
+ale
+vy vx
+incremental coverage
+udf
+equivalent neighbors
+pde
+pez
+ceteris paribus
+sr and tr
+sks
+nrmse psrw proposedmhsrw bhuiyan et al
+deflation
+kke
+ni ni ni
+edge-weighted
+information coverage
+irk
+accuracy attributes
+qoi function
+tds
+ft jt
+geoinformatics
+le downloading
+le state
+rbi
+tka
+ecidv btk qkptkhkcid
+ecidv btk
+lyapunov indexing
+correlated scheduling
+strategy functions
+preferred action property
+data clustering algorithms and applications
+secant
+interestingness score
+candidate match
+instantiated edges
+allp aths
+graphbased softclustering
+intent space
+rpn
+target user
+science museum
+parent set
+maxmargin hyperplane
+nonlinked node
+xn and yn
+xi yi ci
+max xn
+cidlog
+cidlog maxcid
+cidloglog
+cidlog
+nhc
+log log log log
+ 
+nuj
+lci
+log log log
+uat
+stratum
+galois connection
+shigella
+unnormalized graph laplacian
+heat kernel
+wi fi
+indicator vectors
+visual word
+hermitian
+hdd
+ldh
+decaybased frequency
+decaybased product matrix
+characteristic vector
+half lives
+pict
+scalar product
+omv
+localized modularity
+pair counting
+ibb
+ttc
+aij fij
+interior point method
+uct
+error variance
+data points
+arsi
+pedal
+
+ 
+
+lymphoma
+calzone
+geometry query
+search geometry
+geohash code
+spatial lter
+minimum geohash set
+the calculated geohash codes
+relative expertise
+zits
+phonetic transcription
+sign function
+rotation matrix
+sourceclaim matrix
+expertise level
+prk
+pagerank score
+dmv
+weighted median
+eq eq eq eq eq eq
+cross link
+topic zdi
+convex set
+kiai
+vg kernel
+descriptor generator
+accuracy runtime accuracy runtime accuracy runtime
+control inputs
+amazon elastic compute cloud
+gsn
+ 
+probabilistic diffusion model
+asymmetric kcenter problem
+rci cj
+closely connected communities
+knode set
+asymmetric kcenter
+separable quadratic policy
+reals
+stationary process
+vnc
+melting temperature
+maximal independent sets
+kikj jej
+aicc
+belonging coefcient
+aij kikj jej
+cc ijc
+jej jej
+aic ajc
+ql ov
+akc
+crisp overlapping
+aic ajc aicajc
+jej aij kikj jej
+jej aij
+belonging function aic ajc
+overlapping extension
+qov ds
+intraedges intradensity contraction interedges expansion conductance
+cdt
+saba
+sab
+uncertain network
+twi
+ecb
+exponential integral
+aia
+whitening matrix
+column space
+chi wang et al
+distribution qx
+kcid
+av ed
+linear embedding
+icv
+orthant
+arg inf
+cidwcid
+cidtt
+tts
+ts ts
+cdp
+cidt
+psl
+receivedm sgn um
+shift operator
+periodically ergodic
+periodically mixing
+periodically inhomogeneous markov
+periodically inhomogeneous
+distribution vector pt
+simh
+maximum triangle packing
+important special cases
+output layer
+pom pom
+identical particles
+lemma iii
+proof of corollary
+mids problem
+odddegree graph
+opinion prole
+odddegree transformation
+doublelayered wall
+single added edge
+distances from source node
+ln pc
+multilayer graph
+sitepercolation threshold
+lower bound
+unique root
+qm qm qm
+der marck
+sitebond critical line
+upper bound
+nash inequality ratio
+ubbc game
+usage cost
+ecient nash equilibrium strategies
+inequality ratio
+maxcost agent
+leading edge
+trailing edge
+coagulation
+nb matrix
+convex quadratic
+indexi
+cfl
+cfu
+pnv
+skf
+neighbor vector
+vertex va
+probit
+xycid
+bcd
+lso
+chromatic entropy
+minimum entropy
+pgi
+pxy log
+optimal spending
+spending plan
+rays
+ui ? uj
+uji
+reliability weight
+path partition
+mpp problem
+mtp problem
+path packing
+edges of weight
+residual vertex
+doublematching algorithm
+whiteblack edges
+number of blackblack edges
+blackblack edges
+uniformly csparse
+supply function
+temporary labels
+message deterioration
+weakly monotonic
+weak monotonicity
+vf dv
+dv vf
+vector ut
+teu
+wu sangui
+embedding vectors
+om
+freshness constraint
+retrieval order
+ldf order
+ciu
+vai
+unsolved tasks
+odesa
+qov qov
+marked by red italic font
+exp cn
+bf qov qov ql
+slpa cfinder speakeasy
+ov qov
+bf qov qov ql ov qov
+edx
+ddp
+rsync
+event variables
+qs distribution
+intradensity contraction
+expansion conductance fitness
+consistent relation matrix
+wkl ekl
+lu decomposition
+rwr score
+mmg
+hastruth question
+notruth question
+nonempty candidate
+question qi
+observed answers
+sfv sfv sfv sfv sfv
+spatially connected sensors
+spatially connected
+scp search
+topic zq
+document ds
+tz tz
+tz tz tz
+emo
+geotagged message
+latent semantic region
+message mt
+hst
+gto
+wto
+dklpe rmpe
+sparsity parameter
+jixi
+budgeted maximum coverage
+gcl
+atlantis
+north dakota state university
+online gambling
+udt
+hmc
+strong community bisection
+auxiliary vertex
+threehop partition
+fmv
+designer and adversary
+adversary action
+mixed ne
+thm
+eest
+peer reviewed
+spatial contiguity
+
+jog length
+approximate posterior
+supernode sn
+mosses
+kef
+universal resilience function
+qpm
+jig
+political spectrum
+complete metric space
+subset source coding
+a discrete memoryless source
+hy nx
+gaussian elimination
+partial reconciliation
+zeroerror communication
+perfect reconciliation
+cidn loggy
+cidlog rcid
+cidlog gy
+cidlog gcid
+mpl
+simd
+datatype
+similarity match
+triple pattern
+zxyw
+upa
+player best response
+ytv
+wishart distribution
+uia
+sij sik
+bilinear interpolation
+pec
+rrrvgs rrvas
+ln utl
+atk
+triangular matrix
+akm
+academy award
+leaf node
+ 
+gleason
+hildegard
+rankk approximation
+operator norm
+ f
+spasm
+sparse principal component
+cssp
+sparse linear encoder
+linear algebraic
+polarity group
+uiq
+spacex
+approximate consecutive frequent pattern
+approximate support
+maximal dense subgraph
+maximum dense subgraph
+base number
+usertask pair
+positive definite
+sld
+lurs
+random number generation
+sparsest cut
+wuxi
+xurn process
+pn
+opinion toward player
+feature fj
+vpi
+national wildlife refuge
+failing triple
+rate-distortion
+ratedistortion region
+ratedistortion function
+standard ratedistortion
+iuz
+smooth subsets
+subsettypical distributions
+py yx
+ipx
+prx ln
+hbp
+ln npy
+hamming weight
+bitstream
+linear chain ordering
+gn gn gn gn
+mrn
+chain ordering
+rkd
+acidd
+qualied experts
+anycast
+problem area
+rst query holder
+query holder
+inverse rth power distribution
+performance bounds of decentralized search
+diversied model
+total ability
+similarity degree
+du wr
+unied and diversied
+hln
+elba
+orem
+aurich
+mnmcid
+property for lowrank matrix estimation
+nonconvex penalty
+negahban wainwright
+scad penalty
+matrix sensing
+f
+singu
+
+nrm
+f 
+ 
+   
+jib
+explicit intent
+click matrix
+multivariate normal distribution
+ug ug
+perfect graph
+gnt
+cj scj
+approximated error bounderror
+recursive estimator
+qoi level
+retrieval schedule
+ktm
+ai ai ai ai
+raspberry
+posek
+accuracy guarantee
+measure attribute
+tan bn
+size bound smin
+maximum density
+algorithm greedy
+mb sb
+lower size bound
+braj
+incore centrality
+core decomposition
+ct pattern
+necker
+mathematically tractable graph generation
+ce ce
+parabola
+intermezzo
+node supply function
+newnew edges
+oldnew edges
+vnew vold
+surface temperature
+sufi
+separate source and channel coding
+conditional rate distortion
+rszd ix
+rszd rszd
+isn isn
+znpsn zn
+sn zn
+hy nz
+rate distortion function
+isn nz
+coverage centrality
+bmx
+op op
+gij
+pruning process
+wep
+coupled factor graph
+linear encoder
+uaa
+pythagoras
+standard basis
+rnr
+npb
+binary indicator
+record collection
+rml
+facet indicator
+degree matrix
+reductionist
+cbo
+strict core
+lexicographic preferences
+importance order
+multitype housing market
+conditional preference
+aak
+willard gibbs
+infinite series
+controllability matrix
+miy
+sny
+numerical control
+axle
+convection
+synchronization manifold
+direct product
+synaptic
+organelle
+motion planning
+voxel
+ti ti ti
+temporal cut
+integrin
+func- tion
+global loss
+acyclic and cyclic
+cyclic cpnets
+cpnet preferences
+white wine
+red wine
+condorcet
+dp axi
+improving ip
+improving ips
+assignmentd
+clause ci
+ez esz
+wigger
+lw bound
+nrj
+suz
+nrr
+unu
+xsn xsn
+lck
+indian institute of technology madras
+log fi
+alans
+intentionality
+parasurama
+kurzweil
+herd immunity
+johnstown
+slice indices
+slice sum
+densest subtensor
+subtensor smax
+smax opt
+sbb
+accuracyxidealxelapsed time secdensity accuracyxidealxelapsed time secdensity
+financial engineering
